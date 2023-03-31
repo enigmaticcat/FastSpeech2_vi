@@ -84,6 +84,12 @@ def preprocess_mandarin(text, preprocess_config):
     return np.array(sequence)
 
 
+def preprocess_vietnamese(text, preprocess_config):
+    lexicon = read_lexicon(preprocess_config["path"]["lexicon_path"])
+    phones = []
+    words = re.split(r"([,;.\-\?\!\s+])", text)
+
+
 def synthesize(model, step, configs, vocoder, batchs, control_values):
     preprocess_config, model_config, train_config = configs
     pitch_control, energy_control, duration_control = control_values
@@ -206,6 +212,8 @@ if __name__ == "__main__":
             texts = np.array([preprocess_english(args.text, preprocess_config)])
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":
             texts = np.array([preprocess_mandarin(args.text, preprocess_config)])
+        elif preprocess_config["preprocessing"]["text"]["language"] == "vi":
+            texts = np.array([preprocess_vietnamese(args.text, preprocess_config)])
         text_lens = np.array([len(texts[0])])
         batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens))]
 
