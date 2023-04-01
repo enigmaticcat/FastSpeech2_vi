@@ -1,16 +1,16 @@
-dataset: "ViSSpeech"
+dataset: "LJSpeech"
 
 path:
-  corpus_path: "./input/ViSSpeech"
-  lexicon_path: "lexicon/vi-lexicon.txt"
-  raw_path: "./raw_data/ViSSpeech"
-  preprocessed_path: "./preprocessed_data/ViSSpeech"
+  corpus_path: "/home/ming/Data/LJSpeech-1.1"
+  lexicon_path: "lexicon/librispeech-lexicon.txt"
+  raw_path: "./raw_data/LJSpeech"
+  preprocessed_path: "./preprocessed_data/LJSpeech"
 
 preprocessing:
   val_size: 512
   text:
-    text_cleaners: ["vietnamese_cleaners"]
-    language: "vi"
+    text_cleaners: ["english_cleaners"]
+    language: "en"
   audio:
     sampling_rate: 22050
     max_wav_value: 32768.0
