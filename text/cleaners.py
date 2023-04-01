@@ -17,7 +17,7 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from .numbers import normalize_numbers
-import numbers_vi as nvi
+from . import numbers_vi as nvi
 
 _whitespace_re = re.compile(r'\s+')
 
@@ -44,7 +44,7 @@ _abbreviations = [(re.compile('\\b%s\\.' % x[0], re.IGNORECASE), x[1]) for x in 
 ]]
 
 # List of (regular expression, replacement) pairs for abbreviations:
-_abbreviations_vi = [(re.compile('\\b%s\\' % x[0], re.IGNORECASE), x[1]) for x in [
+_abbreviations_vi = [(re.compile('\\b%s\\.' % x[0], re.IGNORECASE), x[1]) for x in [
     ('btc', 'ban tổ chức'),
     ('clb', 'câu lạc bộ'),
     ('htx', 'hợp tác xã'),

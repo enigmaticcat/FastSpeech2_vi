@@ -10,8 +10,8 @@ from text import cmudict, pinyin
 _pad = "_"
 _punctuation = "!'(),.:;? "
 _special = "-"
-# _letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-_letters  = '0123456789aáảàãạâấẩầẫậăắẳằẵặbcdđeéẻèẽẹêếểềễệfghiíỉìĩịjklmnoóỏòõọôốổồỗộơớởờỡợpqrstuúủùũụưứửừữựvwxyýỷỳỹỵz'
+_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+_letters_vi  = '0123456789aáảàãạâấẩầẫậăắẳằẵặbcdđeéẻèẽẹêếểềễệfghiíỉìĩịjklmnoóỏòõọôốổồỗộơớởờỡợpqrstuúủùũụưứửừữựvwxyýỷỳỹỵz'
 
 _silences = ["@sp", "@spn", "@sil"]
 
@@ -29,3 +29,18 @@ symbols = (
     + _pinyin
     + _silences
 )
+
+# Export all symbols:
+symbols_vi = (
+    [_pad]
+    + list(_special)
+    + list(_punctuation)
+    + list(_letters_vi)
+    + _silences
+)
+
+def get_symbols(vi_lang=False):
+    if vi_lang:
+        return symbols_vi
+    else:
+        return symbols

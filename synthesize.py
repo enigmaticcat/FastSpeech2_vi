@@ -12,7 +12,7 @@ from pypinyin import pinyin, Style
 from utils.model import get_model, get_vocoder
 from utils.tools import to_device, synth_samples
 from dataset import TextDataset
-from text import text_to_sequence
+from text import text_to_sequence, clean_vietnamese_text
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -86,8 +86,26 @@ def preprocess_mandarin(text, preprocess_config):
 
 def preprocess_vietnamese(text, preprocess_config):
     lexicon = read_lexicon(preprocess_config["path"]["lexicon_path"])
+
+    text = clean_vietnamese_text(text)
     phones = []
     words = re.split(r"([,;.\-\?\!\s+])", text)
+    for w in words:
+        if w in lexicon:
+            phones += lexicon[w]
+        else:
+            phones.append("sp")
+
+    phones = "{" + " ".join(phones) + "}"
+    print("Raw Text Sequence: {}".format(text))
+    print("Phoneme Sequence: {}".format(phones))
+    sequence = np.array(
+        text_to_sequence(
+            phones, preprocess_config["preprocessing"]["text"]["text_cleaners"]
+        )
+    )
+
+    return np.array(sequence)
 
 
 def synthesize(model, step, configs, vocoder, batchs, control_values):
