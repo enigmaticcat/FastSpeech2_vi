@@ -74,7 +74,9 @@ class Preprocessor:
                 tg_path = os.path.join(
                     self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
                 )
+                #print("trace 0", tg_path)
                 if os.path.exists(tg_path):
+                    #print("trace 1", tg_path)
                     ret = self.process_utterance(speaker, basename)
                     if ret is None:
                         continue
@@ -175,7 +177,7 @@ class Preprocessor:
         ].astype(np.float32)
 
         # Read raw text
-        with open(text_path, "r") as f:
+        with open(text_path, "r", encoding='utf-8') as f:
             raw_text = f.readline().strip("\n")
 
         # Compute fundamental frequency

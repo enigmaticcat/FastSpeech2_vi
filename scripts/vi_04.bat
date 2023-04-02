@@ -1,0 +1,1 @@
+python train.py -p config/ViSSpeech/preprocess.yaml -m config/ViSSpeech/model.yaml -t config/ViSSpeech/train.yaml

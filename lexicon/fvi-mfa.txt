@@ -1,0 +1,4814 @@
+<eps>	sil 
+<unk>	spn 
+[bracketed]	spn 
+[laughter]	spn 
+a	ʔ aː˨˥ 
+ai	ʔ aː˨˥ j 
+am	ʔ aː˨˥ m 
+an	ʔ aː˨˥ ŋ 
+ang	ʔ aː˨˥ ŋ 
+anh	ʔ a˨˥ n 
+ao	ʔ aː˨˥ w 
+au	ʔ a˨˥ w 
+ba	ɓ aː˨˥ 
+bai	ɓ aː˨˥ j 
+ban	ɓ aː˨˥ ŋ 
+bang	ɓ aː˨˥ ŋ 
+banh	ɓ a˨˥ n 
+bao	ɓ aː˨˥ w 
+bay	ɓ a˨˥ j 
+be	ɓ ɛː˨˥ 
+beo	ɓ ɛː˨˥ w 
+bi	ɓ iː˨˨ 
+bia	ɓ iə˨˥ 
+binh	ɓ i˨˨ ɲ 
+bit	ɓ iː˨˨ t 
+biên	ɓ iə˨˨ n 
+biếc	ɓ iə˦˥ k 
+biến	ɓ iə˨˦ n 
+biếng	ɓ iə˨˦ ŋ 
+biết	ɓ iə˦˥ t 
+biếu	ɓ iə˨˦ w 
+biền	ɓ iə˨˨ n 
+biển	ɓ iə˨˩˨ n 
+biểu	ɓ iə˨˩˨ w 
+biện	ɓ iə˨˩ˀ n 
+biệt	ɓ iə˨˩ t 
+bo	ɓ ɔː˨˥ 
+boa	ɓ w aː˨˥ 
+bom	ɓ ɔː˨˥ m 
+bon	ɓ ɔː˨˥ ŋ 
+bong	ɓ ɔ˨˥ ŋm 
+boong	ɓ ɔː˨˥ ŋ 
+bu	ɓ uː˨˨ 
+bung	ɓ u˨˥ ŋm 
+buôn	ɓ uə˨˨ n 
+buông	ɓ uə˨˨ ŋ 
+buýt	ɓ w iː˦˥ t 
+buốt	ɓ uə˦˥ t 
+buồi	ɓ uə˨˨ j 
+buồm	ɓ uə˨˨ m 
+buồn	ɓ uə˨˨ n 
+buồng	ɓ uə˨˨ ŋ 
+buổi	ɓ uə˨˩˨ j 
+buộc	ɓ uə˨˩ k 
+buột	ɓ uə˨˩ t 
+bà	ɓ aː˦˨ 
+bài	ɓ aː˦˨ j 
+bàn	ɓ aː˦˨ ŋ 
+bàng	ɓ aː˦˨ ŋ 
+bành	ɓ a˦˨ n 
+bào	ɓ aː˦˨ w 
+bàu	ɓ a˦˨ w 
+bày	ɓ a˦˨ j 
+bá	ɓ aː˦˥ 
+bác	ɓ aː˦˥ k 
+bách	ɓ a˦˥ c 
+bái	ɓ aː˦˥ j 
+bám	ɓ aː˦˥ m 
+bán	ɓ aː˦˥ ŋ 
+báng	ɓ aː˦˥ ŋ 
+bánh	ɓ a˦˥ n 
+báo	ɓ aː˦˥ w 
+bát	ɓ aː˦˥ k 
+báu	ɓ a˦˥ w 
+bâng	ɓ ə˨˥ ŋ 
+bâu	ɓ ə˨˥ w 
+bây	ɓ ə˨˥ j 
+bã	ɓ aː˨ˀ˥ 
+bãi	ɓ aː˨ˀ˥ j 
+bão	ɓ aː˨ˀ˥ w 
+bè	ɓ ɛː˦˨ 
+bèn	ɓ ɛː˦˨ ŋ 
+bèo	ɓ ɛː˦˨ w 
+bé	ɓ ɛː˦˥ 
+bén	ɓ ɛː˦˥ ŋ 
+béo	ɓ ɛː˦˥ w 
+bét	ɓ ɛː˦˥ k 
+bê	ɓ eː˨˥ 
+bên	ɓ eː˨˨ n 
+bênh	ɓ e˨˨ ɲ 
+bêu	ɓ eː˨˥ w 
+bì	ɓ iː˨˨ 
+bìa	ɓ iə˦˨ 
+bình	ɓ i˨˨ ɲ 
+bìu	ɓ iː˨˨ w 
+bí	ɓ iː˨˦ 
+bích	ɓ i˦˥ c 
+bím	ɓ iː˨˦ m 
+bính	ɓ i˨˦ ɲ 
+bíp	ɓ iː˦˥ p 
+bít	ɓ iː˦˥ t 
+bíu	ɓ iː˨˦ w 
+bò	ɓ ɔː˦˨ 
+bòn	ɓ ɔː˦˨ ŋ 
+bó	ɓ ɔː˦˥ 
+bóc	ɓ ɔ˦˥ kp 
+bói	ɓ ɔː˦˥ j 
+bón	ɓ ɔː˦˥ ŋ 
+bóp	ɓ ɔː˦˥ p 
+bót	ɓ ɔː˦˥ k 
+bô	ɓ oː˨˥ 
+bôi	ɓ oː˨˥ j 
+bôm	ɓ oː˨˥ m 
+bông	ɓ o˨˨ ŋm 
+bõ	ɓ ɔː˨ˀ˥ 
+bù	ɓ uː˨˨ 
+bùa	ɓ uə˦˨ 
+bùi	ɓ uː˨˨ j 
+bùm	ɓ uː˨˨ m 
+bùn	ɓ uː˨˨ n 
+bùng	ɓ u˦˨ ŋm 
+bú	ɓ uː˨˦ 
+búa	ɓ uə˦˥ 
+búi	ɓ uː˨˦ j 
+bún	ɓ uː˨˦ n 
+búng	ɓ u˦˥ ŋm 
+búp	ɓ uː˦˥ p 
+bút	ɓ uː˦˥ t 
+băm	ɓ a˨˥ m 
+băn	ɓ a˨˥ ŋ 
+băng	ɓ a˨˥ ŋ 
+bĩ	ɓ iː˨ˀ˥ 
+bĩu	ɓ iː˨ˀ˥ w 
+bơ	ɓ əː˨˥ 
+bơi	ɓ əː˨˥ j 
+bơm	ɓ əː˨˥ m 
+bư	ɓ ɨː˨˨ 
+bưng	ɓ ɨ˨˥ ŋ 
+bưu	ɓ ɨ˨˥ w 
+bươi	ɓ ɨə˨˨ j 
+bươu	ɓ ɨə˨˨ w 
+bước	ɓ ɨə˦˥ k 
+bướm	ɓ ɨə˨˦ m 
+bướng	ɓ ɨə˨˦ ŋ 
+bướu	ɓ ɨə˨˦ w 
+bưởi	ɓ ɨə˨˩˨ j 
+bạ	ɓ aː˨˩ 
+bạc	ɓ aː˨˩ k 
+bạch	ɓ a˨˩ c 
+bại	ɓ aː˨˩ j 
+bạn	ɓ aː˨˩ ŋ 
+bạo	ɓ aː˨˩ w 
+bạt	ɓ aː˨˩ k 
+bả	ɓ aː˨˨ˀ 
+bản	ɓ aː˨˨ˀ ŋ 
+bảng	ɓ aː˨˨ˀ ŋ 
+bảnh	ɓ a˨˨ˀ n 
+bảo	ɓ aː˨˨ˀ w 
+bảy	ɓ a˨˨ˀ j 
+bấc	ɓ ə˦˥ k 
+bấm	ɓ ə˦˥ m 
+bất	ɓ ə˦˥ k 
+bấu	ɓ ə˦˥ w 
+bấy	ɓ ə˦˥ j 
+bầm	ɓ ə˦˨ m 
+bần	ɓ ə˦˨ ŋ 
+bầu	ɓ ə˦˨ w 
+bầy	ɓ ə˦˨ j 
+bẩm	ɓ ə˨˨ˀ m 
+bẩn	ɓ ə˨˨ˀ ŋ 
+bẩy	ɓ ə˨˨ˀ j 
+bẫy	ɓ ə˨ˀ˥ j 
+bậc	ɓ ə˨˩ k 
+bận	ɓ ə˨˩ ŋ 
+bật	ɓ ə˨˩ k 
+bậu	ɓ ə˨˩ w 
+bậy	ɓ ə˨˩ j 
+bắc	ɓ a˦˥ k 
+bắn	ɓ a˦˥ ŋ 
+bắp	ɓ a˦˥ p 
+bắt	ɓ a˦˥ k 
+bằm	ɓ a˦˨ m 
+bằng	ɓ a˦˨ ŋ 
+bẵm	ɓ a˨ˀ˥ m 
+bẵng	ɓ a˨ˀ˥ ŋ 
+bặt	ɓ a˨˩ k 
+bẹ	ɓ ɛː˨˩ 
+bẹn	ɓ ɛː˨˩ ŋ 
+bẹo	ɓ ɛː˨˩ w 
+bẹp	ɓ ɛː˨˩ p 
+bẹt	ɓ ɛː˨˩ k 
+bẻ	ɓ ɛː˨˨ˀ 
+bế	ɓ eː˦˥ 
+bến	ɓ eː˨˦ n 
+bếp	ɓ eː˦˥ p 
+bết	ɓ eː˦˥ t 
+bề	ɓ eː˦˨ 
+bền	ɓ eː˨˨ n 
+bể	ɓ eː˨˨ˀ 
+bển	ɓ eː˨˩˨ n 
+bệ	ɓ eː˨˩ 
+bệch	ɓ e˨˩ c 
+bện	ɓ eː˨˩ˀ n 
+bệnh	ɓ e˨˩ˀ ɲ 
+bệt	ɓ eː˨˩ t 
+bệu	ɓ eː˨˩ w 
+bỉ	ɓ iː˨˩˨ 
+bỉm	ɓ iː˨˩˨ m 
+bỉnh	ɓ i˨˩˨ ɲ 
+bị	ɓ iː˨˩ˀ 
+bịa	ɓ iə˨˩ 
+bịch	ɓ i˨˩ c 
+bịn	ɓ iː˨˩ˀ n 
+bịnh	ɓ i˨˩ˀ ɲ 
+bịp	ɓ iː˨˩ p 
+bịt	ɓ iː˨˩ t 
+bọ	ɓ ɔː˨˩ 
+bọc	ɓ ɔ˨˩ kp 
+bọn	ɓ ɔː˨˩ ŋ 
+bọng	ɓ ɔ˨˩ ŋm 
+bọp	ɓ ɔː˨˩ p 
+bọt	ɓ ɔː˨˩ k 
+bỏ	ɓ ɔː˨˨ˀ 
+bỏng	ɓ ɔ˨˨ˀ ŋm 
+bố	ɓ oː˦˥ 
+bốc	ɓ o˦˥ kp 
+bối	ɓ oː˦˥ j 
+bốn	ɓ oː˨˦ n 
+bống	ɓ o˨˦ ŋm 
+bốp	ɓ oː˦˥ p 
+bốt	ɓ oː˦˥ t 
+bồ	ɓ oː˦˨ 
+bồi	ɓ oː˦˨ j 
+bồn	ɓ oː˨˨ n 
+bồng	ɓ o˨˨ ŋm 
+bổ	ɓ oː˨˨ˀ 
+bổi	ɓ oː˨˨ˀ j 
+bổn	ɓ oː˨˩˨ n 
+bổng	ɓ o˨˩˨ ŋm 
+bỗng	ɓ o˨ˀ˥ ŋm 
+bộ	ɓ oː˨˩ 
+bộc	ɓ o˨˩ kp 
+bội	ɓ oː˨˩ j 
+bộn	ɓ oː˨˩ˀ n 
+bộng	ɓ o˨˩ˀ ŋm 
+bộp	ɓ oː˨˩ p 
+bột	ɓ oː˨˩ t 
+bớ	ɓ əː˦˥ 
+bới	ɓ əː˦˥ j 
+bớp	ɓ əː˦˥ p 
+bớt	ɓ əː˦˥ k 
+bờ	ɓ əː˦˨ 
+bời	ɓ əː˦˨ j 
+bờm	ɓ əː˦˨ m 
+bở	ɓ əː˨˨ˀ 
+bởi	ɓ əː˨˨ˀ j 
+bỡ	ɓ əː˨ˀ˥ 
+bỡn	ɓ əː˨ˀ˥ n 
+bợ	ɓ əː˨˩ 
+bợm	ɓ əː˨˩ m 
+bục	ɓ u˨˩ kp 
+bụi	ɓ uː˨˩ˀ j 
+bụm	ɓ uː˨˩ˀ m 
+bụng	ɓ u˨˩ ŋm 
+bụt	ɓ uː˨˩ t 
+bủa	ɓ uə˨˨ˀ 
+bủn	ɓ uː˨˩˨ n 
+bứa	ɓ ɨə˦˥ 
+bức	ɓ ɨ˦˥ k 
+bứng	ɓ ɨ˦˥ ŋ 
+bứt	ɓ ɨ˦˥ k 
+bừa	ɓ ɨə˦˨ 
+bừng	ɓ ɨ˦˨ ŋ 
+bửa	ɓ ɨə˨˨ˀ 
+bữa	ɓ ɨə˨ˀ˥ 
+bự	ɓ ɨː˨˩ˀ 
+bựa	ɓ ɨə˨˩ 
+bực	ɓ ɨ˨˩ k 
+ca	k aː˨˥ 
+cai	k aː˨˥ j 
+cam	k aː˨˥ m 
+can	k aː˨˥ ŋ 
+canh	k a˨˥ n 
+cao	k aː˨˥ w 
+cau	k a˨˥ w 
+cay	k a˨˥ j 
+cha	c aː˨˥ 
+chai	c aː˨˥ j 
+chan	c aː˨˥ ŋ 
+chang	c aː˨˥ ŋ 
+chanh	c a˨˥ n 
+chao	c aː˨˥ w 
+chau	c a˨˥ w 
+chay	c a˨˥ j 
+che	c ɛː˨˥ 
+chen	c ɛː˨˥ ŋ 
+cheo	c ɛː˨˥ w 
+chi	c i˨˥ 
+chia	c iə˨˥ 
+chim	c i˨˥ m 
+chinh	c ɨ˨˥ n 
+chiêm	c iː˨˥ m 
+chiên	c iː˨˥ ŋ 
+chiêng	c iː˨˥ ŋ 
+chiêu	c iː˨˥ w 
+chiếc	c iː˦˥ k 
+chiếm	c iː˦˥ m 
+chiến	c iː˦˥ ŋ 
+chiếp	c iː˦˥ p 
+chiết	c iː˦˥ k 
+chiếu	c iː˦˥ w 
+chiền	c iː˦˨ ŋ 
+chiều	c iː˦˨ w 
+cho	c ɔː˨˥ 
+choa	c w aː˨˥ 
+chong	c ɔ˨˥ ŋm 
+choàng	c w aː˦˨ ŋ 
+choáng	c w aː˦˥ ŋ 
+choãi	c w aː˨˨ˀ j 
+choét	c w ɛː˦˥ k 
+choắt	c w a˦˥ k 
+chu	c u˨˥ 
+chua	c uə˨˥ 
+chui	c u˨˥ j 
+chum	c ɨ˨˥ m 
+chung	c u˨˥ ŋm 
+chuyên	c w iː˨˥ ŋ 
+chuyến	c w iː˦˥ ŋ 
+chuyền	c w iː˦˨ ŋ 
+chuyển	c w iː˨˨ˀ ŋ 
+chuyện	c w iː˨˩ ŋ 
+chuông	c uː˨˥ ŋ 
+chuẩn	c w ə˨˨ˀ ŋ 
+chuốc	c uː˦˥ k 
+chuối	c uː˦˥ j 
+chuốt	c uː˦˥ k 
+chuồn	c uː˦˨ ŋ 
+chuồng	c uː˦˨ ŋ 
+chuỗi	c uː˨˨ˀ j 
+chuộc	c uː˨˩ k 
+chuộng	c uː˨˩ ŋ 
+chuột	c uː˨˩ k 
+chuỳ	c w i˦˨ 
+chà	c aː˦˨ 
+chài	c aː˦˨ j 
+chàm	c aː˦˨ m 
+chàng	c aː˦˨ ŋ 
+chào	c aː˦˨ w 
+chày	c a˦˨ j 
+chác	c aː˦˥ k 
+chái	c aː˦˥ j 
+chán	c aː˦˥ ŋ 
+chánh	c a˦˥ n 
+cháo	c aː˦˥ w 
+chát	c aː˦˥ k 
+cháu	c a˦˥ w 
+cháy	c a˦˥ j 
+châm	c ə˨˥ m 
+chân	c ə˨˥ ŋ 
+châu	c ə˨˥ w 
+chão	c aː˨˨ˀ w 
+chè	c ɛː˦˨ 
+chèn	c ɛː˦˨ ŋ 
+chèo	c ɛː˦˨ w 
+ché	c ɛː˦˥ 
+chém	c ɛː˦˥ m 
+chén	c ɛː˦˥ ŋ 
+chéo	c ɛː˦˥ w 
+chép	c ɛː˦˥ p 
+chê	c eː˨˥ 
+chêm	c eː˨˥ m 
+chênh	c əː˨˥ n 
+chì	c i˦˨ 
+chìa	c iə˦˨ 
+chìm	c i˦˨ m 
+chí	c i˦˥ 
+chích	c ɨ˦˥ t 
+chín	c ɨ˦˥ n 
+chính	c ɨ˦˥ n 
+chíp	c i˦˥ p 
+chít	c ɨ˦˥ t 
+chòa	c w aː˦˨ 
+chòi	c ɔː˦˨ j 
+chòm	c ɔː˦˨ m 
+chòng	c ɔ˦˨ ŋm 
+chó	c ɔː˦˥ 
+chóc	c ɔ˦˥ kp 
+chóe	c w ɛː˦˥ 
+chói	c ɔː˦˥ j 
+chóng	c ɔ˦˥ ŋm 
+chóp	c ɔː˦˥ p 
+chót	c ɔː˦˥ k 
+chôm	c oː˨˥ m 
+chôn	c o˨˥ ŋ 
+chông	c ɔ˨˥ ŋm 
+chõ	c ɔː˨˨ˀ 
+chù	c u˦˨ 
+chùa	c uə˦˨ 
+chùi	c u˦˨ j 
+chùm	c ɨ˦˨ m 
+chùn	c u˦˨ ŋm 
+chùng	c u˦˨ ŋm 
+chú	c u˦˥ 
+chúa	c uə˦˥ 
+chúc	c u˦˥ kp 
+chúi	c u˦˥ j 
+chúng	c u˦˥ ŋm 
+chút	c u˦˥ kp 
+chăm	c a˨˥ m 
+chăn	c a˨˥ ŋ 
+chăng	c a˨˥ ŋ 
+chĩa	c iə˨˨ˀ 
+chơi	c əː˨˥ j 
+chư	c ɨ˨˥ 
+chưa	c ɨə˨˥ 
+chưng	c ɨ˨˥ ŋ 
+chương	c ɨː˨˥ ŋ 
+chước	c ɨː˦˥ k 
+chướng	c ɨː˦˥ ŋ 
+chường	c ɨː˦˨ ŋ 
+chưởng	c ɨː˨˨ˀ ŋ 
+chạc	c aː˨˩ k 
+chạm	c aː˨˩ m 
+chạng	c aː˨˩ ŋ 
+chạnh	c a˨˩ n 
+chạo	c aː˨˩ w 
+chạp	c aː˨˩ p 
+chạy	c a˨˩ j 
+chả	c aː˨˨ˀ 
+chải	c aː˨˨ˀ j 
+chảnh	c a˨˨ˀ n 
+chảo	c aː˨˨ˀ w 
+chảy	c a˨˨ˀ j 
+chấm	c ə˦˥ m 
+chấn	c ə˦˥ ŋ 
+chấp	c ə˦˥ p 
+chất	c ə˦˥ k 
+chấy	c ə˦˥ j 
+chầu	c ə˦˨ w 
+chẩn	c ə˨˨ˀ ŋ 
+chậc	c ə˨˩ k 
+chậm	c ə˨˩ m 
+chập	c ə˨˩ p 
+chật	c ə˨˩ k 
+chậu	c ə˨˩ w 
+chắc	c a˦˥ k 
+chắn	c a˦˥ ŋ 
+chắp	c a˦˥ p 
+chắt	c a˦˥ k 
+chằm	c a˦˨ m 
+chằn	c a˦˨ ŋ 
+chằng	c a˦˨ ŋ 
+chẳng	c a˨˨ˀ ŋ 
+chẵn	c a˨˨ˀ ŋ 
+chặc	c a˨˩ k 
+chặn	c a˨˩ ŋ 
+chặng	c a˨˩ ŋ 
+chặt	c a˨˩ k 
+chẹt	c ɛː˨˩ k 
+chẻ	c ɛː˨˨ˀ 
+chẽ	c ɛː˨˨ˀ 
+chẽn	c ɛː˨˨ˀ ŋ 
+chế	c eː˦˥ 
+chết	c əː˦˥ t 
+chệch	c əː˨˩ t 
+chỉ	c i˨˨ˀ 
+chỉnh	c ɨ˨˨ˀ n 
+chị	c i˨˩ 
+chịch	c ɨ˨˩ t 
+chịu	c i˨˩ w 
+chọc	c ɔ˨˩ kp 
+chọi	c ɔː˨˩ j 
+chọn	c ɔː˨˩ ŋ 
+chọt	c ɔː˨˩ k 
+chỏm	c ɔː˨˨ˀ m 
+chốc	c ɔ˦˥ kp 
+chối	c oː˦˥ j 
+chốn	c o˦˥ ŋ 
+chống	c ɔ˦˥ ŋm 
+chốt	c o˦˥ k 
+chồi	c oː˦˨ j 
+chồm	c oː˦˨ m 
+chồn	c o˦˨ ŋ 
+chồng	c ɔ˦˨ ŋm 
+chổi	c oː˨˨ˀ j 
+chỗ	c oː˨˨ˀ 
+chộ	c oː˨˩ 
+chộp	c oː˨˩ p 
+chột	c o˨˩ k 
+chớ	c əː˦˥ 
+chớm	c əː˦˥ m 
+chớp	c əː˦˥ p 
+chờ	c əː˦˨ 
+chờn	c əː˦˨ ŋ 
+chở	c əː˨˨ˀ 
+chợ	c əː˨˩ 
+chợp	c əː˨˩ p 
+chợt	c əː˨˩ k 
+chục	c u˨˩ kp 
+chụm	c ɨ˨˩ m 
+chụp	c ɨ˨˩ p 
+chụt	c u˨˩ kp 
+chủ	c u˨˨ˀ 
+chủng	c u˨˨ˀ ŋm 
+chứ	c ɨ˦˥ 
+chứa	c ɨə˦˥ 
+chức	c ɨ˦˥ k 
+chứng	c ɨ˦˥ ŋ 
+chứt	c ɨ˦˥ k 
+chừ	c ɨ˦˨ 
+chừa	c ɨə˦˨ 
+chừng	c ɨ˦˨ ŋ 
+chử	c ɨ˨˨ˀ 
+chửa	c ɨə˨˨ˀ 
+chửi	c ɨ˨˨ˀ j 
+chữ	c ɨ˨˨ˀ 
+chữa	c ɨə˨˨ˀ 
+chững	c ɨ˨˨ˀ ŋ 
+chực	c ɨ˨˩ k 
+co	k ɔː˨˥ 
+coi	k ɔː˨˥ j 
+con	k ɔː˨˥ ŋ 
+cong	k ɔ˨˥ ŋm 
+cu	k uː˨˨ 
+cua	k uə˨˥ 
+cung	k u˨˥ ŋm 
+cuốc	k uə˦˥ k 
+cuối	k uə˨˦ j 
+cuốn	k uə˨˦ n 
+cuống	k uə˨˦ ŋ 
+cuồng	k uə˨˨ ŋ 
+cuộc	k uə˨˩ k 
+cuội	k uə˨˩ˀ j 
+cuộn	k uə˨˩ˀ n 
+cà	k aː˦˨ 
+cài	k aː˦˨ j 
+càn	k aː˦˨ ŋ 
+càng	k aː˦˨ ŋ 
+cành	k a˦˨ n 
+cào	k aː˦˨ w 
+cày	k a˦˨ j 
+cá	k aː˦˥ 
+các	k aː˦˥ k 
+cách	k a˦˥ c 
+cái	k aː˦˥ j 
+cám	k aː˦˥ m 
+cán	k aː˦˥ ŋ 
+cáng	k aː˦˥ ŋ 
+cánh	k a˦˥ n 
+cáo	k aː˦˥ w 
+cáp	k aː˦˥ p 
+cát	k aː˦˥ k 
+cáu	k a˦˥ w 
+cáy	k a˦˥ j 
+câm	k ə˨˥ m 
+cân	k ə˨˥ ŋ 
+câng	k ə˨˥ ŋ 
+câu	k ə˨˥ w 
+cây	k ə˨˥ j 
+cãi	k aː˨ˀ˥ j 
+cò	k ɔː˦˨ 
+còi	k ɔː˦˨ j 
+còm	k ɔː˦˨ m 
+còn	k ɔː˦˨ ŋ 
+còng	k ɔ˦˨ ŋm 
+có	k ɔː˦˥ 
+cóc	k ɔ˦˥ kp 
+cói	k ɔː˦˥ j 
+cóng	k ɔ˦˥ ŋm 
+cóp	k ɔː˦˥ p 
+cót	k ɔː˦˥ k 
+cô	k oː˨˥ 
+côi	k oː˨˥ j 
+côn	k oː˨˨ n 
+công	k o˨˨ ŋm 
+cõi	k ɔː˨ˀ˥ j 
+cõng	k ɔ˨ˀ˥ ŋm 
+cù	k uː˨˨ 
+cùi	k uː˨˨ j 
+cùm	k uː˨˨ m 
+cùn	k uː˨˨ n 
+cùng	k u˦˨ ŋm 
+cú	k uː˨˦ 
+cúc	k u˦˥ kp 
+cúi	k uː˨˦ j 
+cúm	k uː˨˦ m 
+cún	k uː˨˦ n 
+cúng	k u˦˥ ŋm 
+cúp	k uː˦˥ p 
+căm	k a˨˥ m 
+căn	k a˨˥ ŋ 
+căng	k a˨˥ ŋ 
+cũ	k uː˨ˀ˥ 
+cũi	k uː˨ˀ˥ j 
+cũng	k u˨ˀ˥ ŋm 
+cơ	k əː˨˥ 
+cơi	k əː˨˥ j 
+cơm	k əː˨˥ m 
+cơn	k əː˨˥ ŋ 
+cư	k ɨː˨˨ 
+cưa	k ɨə˨˥ 
+cưng	k ɨ˨˥ ŋ 
+cươi	k ɨə˨˨ j 
+cương	k ɨə˨˨ ŋ 
+cước	k ɨə˦˥ k 
+cưới	k ɨə˨˦ j 
+cướp	k ɨə˦˥ p 
+cười	k ɨə˨˨ j 
+cườm	k ɨə˨˨ m 
+cường	k ɨə˨˨ ŋ 
+cưỡi	k ɨə˨ˀ˥ j 
+cưỡng	k ɨə˨ˀ˥ ŋ 
+cược	k ɨə˨˩ k 
+cạ	k aː˨˩ 
+cạc	k aː˨˩ k 
+cạch	k a˨˩ c 
+cạm	k aː˨˩ m 
+cạn	k aː˨˩ ŋ 
+cạnh	k a˨˩ n 
+cạo	k aː˨˩ w 
+cạp	k aː˨˩ p 
+cạy	k a˨˩ j 
+cả	k aː˨˨ˀ 
+cải	k aː˨˨ˀ j 
+cảm	k aː˨˨ˀ m 
+cản	k aː˨˨ˀ ŋ 
+cảng	k aː˨˨ˀ ŋ 
+cảnh	k a˨˨ˀ n 
+cấm	k ə˦˥ m 
+cấn	k ə˦˥ ŋ 
+cấp	k ə˦˥ p 
+cất	k ə˦˥ k 
+cấu	k ə˦˥ w 
+cấy	k ə˦˥ j 
+cầm	k ə˦˨ m 
+cần	k ə˦˨ ŋ 
+cầu	k ə˦˨ w 
+cầy	k ə˦˨ j 
+cẩm	k ə˨˨ˀ m 
+cẩn	k ə˨˨ˀ ŋ 
+cẩu	k ə˨˨ˀ w 
+cận	k ə˨˩ ŋ 
+cập	k ə˨˩ p 
+cật	k ə˨˩ k 
+cậu	k ə˨˩ w 
+cậy	k ə˨˩ j 
+cắc	k a˦˥ k 
+cắm	k a˦˥ m 
+cắn	k a˦˥ ŋ 
+cắp	k a˦˥ p 
+cắt	k a˦˥ k 
+cằm	k a˦˨ m 
+cằn	k a˦˨ ŋ 
+cẳng	k a˨˨ˀ ŋ 
+cặc	k a˨˩ k 
+cặn	k a˨˩ ŋ 
+cặp	k a˨˩ p 
+cọ	k ɔː˨˩ 
+cọc	k ɔ˨˩ kp 
+cọng	k ɔ˨˩ ŋm 
+cọp	k ɔː˨˩ p 
+cỏ	k ɔː˨˨ˀ 
+cỏi	k ɔː˨˨ˀ j 
+cố	k oː˦˥ 
+cốc	k o˦˥ kp 
+cối	k oː˦˥ j 
+cốm	k oː˦˥ m 
+cống	k o˨˦ ŋm 
+cốp	k oː˦˥ p 
+cốt	k oː˦˥ t 
+cồn	k oː˨˨ n 
+cồng	k o˨˨ ŋm 
+cổ	k oː˨˨ˀ 
+cổng	k o˨˩˨ ŋm 
+cỗ	k oː˨ˀ˥ 
+cỗi	k oː˨ˀ˥ j 
+cộ	k oː˨˩ 
+cộc	k o˨˩ kp 
+cội	k oː˨˩ j 
+cộm	k oː˨˩ m 
+cộng	k o˨˩ˀ ŋm 
+cột	k oː˨˩ t 
+cớ	k əː˦˥ 
+cớm	k əː˦˥ m 
+cờ	k əː˦˨ 
+cở	k əː˨˨ˀ 
+cởi	k əː˨˨ˀ j 
+cỡ	k əː˨ˀ˥ 
+cỡi	k əː˨ˀ˥ j 
+cợt	k əː˨˩ k 
+cụ	k uː˨˩ˀ 
+cục	k u˨˩ kp 
+cụm	k uː˨˩ˀ m 
+cụng	k u˨˩ ŋm 
+cụp	k uː˨˩ p 
+cụt	k uː˨˩ t 
+củ	k uː˨˩˨ 
+của	k uə˨˨ˀ 
+củi	k uː˨˩˨ j 
+củng	k u˨˨ˀ ŋm 
+cứ	k ɨː˨˦ 
+cứa	k ɨə˦˥ 
+cứng	k ɨ˦˥ ŋ 
+cứt	k ɨ˦˥ k 
+cứu	k ɨ˦˥ w 
+cừu	k ɨ˦˨ w 
+cử	k ɨː˨˩˨ 
+cửa	k ɨə˨˨ˀ 
+cửi	k ɨ˨˨ˀ j 
+cửu	k ɨ˨˨ˀ w 
+cự	k ɨː˨˩ˀ 
+cựa	k ɨə˨˩ 
+cực	k ɨ˨˩ k 
+cựu	k ɨ˨˩ w 
+da	j aː˨˥ 
+dai	j aː˨˥ j 
+dam	j aː˨˥ m 
+dang	j aː˨˥ ŋ 
+danh	j a˨˥ n 
+dao	j aː˨˥ w 
+di	j i˨˥ 
+dim	j i˨˥ m 
+dinh	j ɨ˨˥ n 
+diêm	j iː˨˥ m 
+diếp	j iː˦˥ p 
+diết	j iː˦˥ k 
+diều	j iː˦˨ w 
+diễm	j iː˨˨ˀ m 
+diễn	j iː˨˨ˀ ŋ 
+diệc	j iː˨˩ k 
+diện	j iː˨˩ ŋ 
+diệp	j iː˨˩ p 
+diệt	j iː˨˩ k 
+diệu	j iː˨˩ w 
+do	j ɔː˨˥ 
+doanh	j w a˨˥ n 
+dom	j ɔː˨˥ m 
+don	j ɔː˨˥ ŋ 
+dong	j ɔ˨˥ ŋm 
+doạ	j w aː˨˩ 
+du	j u˨˥ 
+dung	j u˨˥ ŋm 
+duy	j w i˨˥ 
+duyên	j w iː˨˥ ŋ 
+duyệt	j w iː˨˩ k 
+duối	j uː˦˥ j 
+duỗi	j uː˨˨ˀ j 
+dà	j aː˦˨ 
+dài	j aː˦˨ j 
+dàn	j aː˦˨ ŋ 
+dàng	j aː˦˨ ŋ 
+dành	j a˦˨ n 
+dào	j aː˦˨ w 
+dày	j a˦˨ j 
+dái	j aː˦˥ j 
+dám	j aː˦˥ m 
+dán	j aː˦˥ ŋ 
+dáng	j aː˦˥ ŋ 
+dát	j aː˦˥ k 
+dâm	j ə˨˥ m 
+dân	j ə˨˥ ŋ 
+dâng	j ə˨˥ ŋ 
+dâu	j ə˨˥ w 
+dây	j ə˨˥ j 
+dã	j aː˨˨ˀ 
+dãi	j aː˨˨ˀ j 
+dãn	j aː˨˨ˀ ŋ 
+dãy	j a˨˨ˀ j 
+dè	j ɛː˦˨ 
+dép	j ɛː˦˥ p 
+dét	j ɛː˦˥ k 
+dê	j eː˨˥ 
+dì	j i˦˨ 
+dìm	j i˦˨ m 
+dìu	j i˦˨ w 
+dí	j i˦˥ 
+dím	j i˦˥ m 
+dính	j ɨ˦˥ n 
+dò	j ɔː˦˨ 
+dòm	j ɔː˦˨ m 
+dòng	j ɔ˦˨ ŋm 
+dóc	j ɔ˦˥ kp 
+dóm	j ɔː˦˥ m 
+dô	j oː˨˥ 
+dông	j ɔ˨˥ ŋm 
+dõi	j ɔː˨˨ˀ j 
+dõng	j ɔ˨˨ˀ ŋm 
+dù	j u˦˨ 
+dùi	j u˦˨ j 
+dùm	j ɨ˦˨ m 
+dùng	j u˦˨ ŋm 
+dúi	j u˦˥ j 
+dúm	j ɨ˦˥ m 
+dăk	j a˨˥ k 
+dăm	j a˨˥ m 
+dĩ	j i˨˨ˀ 
+dĩa	j iə˨˨ˀ 
+dũng	j u˨˨ˀ ŋm 
+dơ	j əː˨˥ 
+dơi	j əː˨˥ j 
+dơn	j əː˨˥ ŋ 
+dư	j ɨ˨˥ 
+dưa	j ɨə˨˥ 
+dưng	j ɨ˨˥ ŋ 
+dương	j ɨː˨˥ ŋ 
+dưới	j ɨː˦˥ j 
+dường	j ɨː˦˨ ŋ 
+dưỡng	j ɨː˨˨ˀ ŋ 
+dược	j ɨː˨˩ k 
+dượng	j ɨː˨˩ ŋ 
+dượt	j ɨː˨˩ k 
+dạ	j aː˨˩ 
+dại	j aː˨˩ j 
+dạn	j aː˨˩ ŋ 
+dạng	j aː˨˩ ŋ 
+dạo	j aː˨˩ w 
+dạt	j aː˨˩ k 
+dạy	j a˨˩ j 
+dả	j aː˨˨ˀ 
+dải	j aː˨˨ˀ j 
+dấn	j ə˦˥ ŋ 
+dấu	j ə˦˥ w 
+dấy	j ə˦˥ j 
+dầm	j ə˦˨ m 
+dần	j ə˦˨ ŋ 
+dầu	j ə˦˨ w 
+dẫm	j ə˨˨ˀ m 
+dẫn	j ə˨˨ˀ ŋ 
+dẫu	j ə˨˨ˀ w 
+dậm	j ə˨˩ m 
+dập	j ə˨˩ p 
+dậu	j ə˨˩ w 
+dậy	j ə˨˩ j 
+dắt	j a˦˥ k 
+dằm	j a˦˨ m 
+dằn	j a˦˨ ŋ 
+dằng	j a˦˨ ŋ 
+dẳng	j a˨˨ˀ ŋ 
+dặm	j a˨˩ m 
+dặn	j a˨˩ ŋ 
+dẹp	j ɛː˨˩ p 
+dẹt	j ɛː˨˩ k 
+dẻ	j ɛː˨˨ˀ 
+dẻo	j ɛː˨˨ˀ w 
+dẽ	j ɛː˨˨ˀ 
+dế	j eː˦˥ 
+dề	j eː˦˨ 
+dền	j əː˦˨ n 
+dễ	j eː˨˨ˀ 
+dệt	j əː˨˩ t 
+dị	j i˨˩ 
+dịch	j ɨ˨˩ t 
+dịp	j i˨˩ p 
+dịu	j i˨˩ w 
+dọa	j w aː˨˩ 
+dọc	j ɔ˨˩ kp 
+dọn	j ɔː˨˩ ŋ 
+dỏ	j ɔː˨˨ˀ 
+dỏm	j ɔː˨˨ˀ m 
+dốc	j ɔ˦˥ kp 
+dối	j oː˦˥ j 
+dốt	j o˦˥ k 
+dồi	j oː˦˨ j 
+dồn	j o˦˨ ŋ 
+dỗ	j oː˨˨ˀ 
+dỗi	j oː˨˨ˀ j 
+dộc	j ɔ˨˩ kp 
+dội	j oː˨˩ j 
+dộng	j ɔ˨˩ ŋm 
+dột	j o˨˩ k 
+dớn	j əː˦˥ ŋ 
+dớp	j əː˦˥ p 
+dớt	j əː˦˥ k 
+dời	j əː˦˨ j 
+dờn	j əː˦˨ ŋ 
+dở	j əː˨˨ˀ 
+dởm	j əː˨˨ˀ m 
+dỡ	j əː˨˨ˀ 
+dợm	j əː˨˩ m 
+dợt	j əː˨˩ k 
+dụ	j u˨˩ 
+dục	j u˨˩ kp 
+dụm	j ɨ˨˩ m 
+dụng	j u˨˩ ŋm 
+dụt	j u˨˩ kp 
+dứa	j ɨə˦˥ 
+dức	j ɨ˦˥ k 
+dứt	j ɨ˦˥ k 
+dừa	j ɨə˦˨ 
+dừng	j ɨ˦˨ ŋ 
+dử	j ɨ˨˨ˀ 
+dửng	j ɨ˨˨ˀ ŋ 
+dữ	j ɨ˨˨ˀ 
+dự	j ɨ˨˩ 
+dựa	j ɨə˨˩ 
+dựng	j ɨ˨˩ ŋ 
+e	ʔ ɛː˨˥ 
+em	ʔ ɛː˨˥ m 
+en	ʔ ɛː˨˥ ŋ 
+eo	ʔ ɛː˨˥ w 
+ga	ɡ aː˨˥ 
+gai	ɡ aː˨˥ j 
+gam	ɡ aː˨˥ m 
+gan	ɡ aː˨˥ ŋ 
+gang	ɡ aː˨˥ ŋ 
+ganh	ɡ a˨˥ n 
+gay	ɡ a˨˥ j 
+gen	ɡ ɛː˨˥ ŋ 
+ghe	ɡ ɛː˨˥ 
+ghen	ɡ ɛː˨˥ ŋ 
+ghi	ɡ i˨˥ 
+ghim	ɡ i˨˥ m 
+ghiền	ɡ iː˦˨ ŋ 
+ghè	ɡ ɛː˦˨ 
+ghèn	ɡ ɛː˦˨ ŋ 
+ghé	ɡ ɛː˦˥ 
+ghém	ɡ ɛː˦˥ m 
+ghép	ɡ ɛː˦˥ p 
+ghét	ɡ ɛː˦˥ k 
+ghê	ɡ eː˨˥ 
+ghì	ɡ i˦˨ 
+ghìm	ɡ i˦˨ m 
+ghẹ	ɡ ɛː˨˩ 
+ghẹo	ɡ ɛː˨˩ w 
+ghẻ	ɡ ɛː˨˨ˀ 
+ghế	ɡ eː˦˥ 
+ghề	ɡ eː˦˨ 
+ghềnh	ɡ əː˦˨ n 
+ghệ	ɡ eː˨˩ 
+ghệt	ɡ əː˨˩ t 
+gi	j i˨˥ 
+gia	j aː˨˥ 
+giai	j aː˨˥ j 
+giam	j aː˨˥ m 
+gian	j aː˨˥ ŋ 
+giang	j aː˨˥ ŋ 
+giao	j aː˨˥ w 
+gieo	j ɛː˨˥ w 
+gio	j ɔː˨˥ 
+gioan	j w aː˨˥ ŋ 
+giong	j ɔ˨˥ ŋm 
+giun	j u˨˥ ŋm 
+giuộc	j uː˨˩ k 
+già	j aː˦˨ 
+giàn	j aː˦˨ ŋ 
+giàng	j aː˦˨ ŋ 
+giành	j a˦˨ n 
+giàu	j a˦˨ w 
+giày	j a˦˨ j 
+giá	j aː˦˥ 
+giác	j aː˦˥ k 
+giám	j aː˦˥ m 
+gián	j aː˦˥ ŋ 
+giáng	j aː˦˥ ŋ 
+giáo	j aː˦˥ w 
+giáp	j aː˦˥ p 
+giáy	j a˦˥ j 
+giâm	j ə˨˥ m 
+giây	j ə˨˥ j 
+giã	j aː˨˨ˀ 
+giãi	j aː˨˨ˀ j 
+giãn	j aː˨˨ˀ ŋ 
+giãy	j a˨˨ˀ j 
+gié	j ɛː˦˥ 
+giê	j iə˨˥ 
+giêng	j iː˨˥ ŋ 
+giò	j ɔː˦˨ 
+giòi	j ɔː˦˨ j 
+giòn	j ɔː˦˨ ŋ 
+gió	j ɔː˦˥ 
+gióc	j ɔ˦˥ kp 
+gióng	j ɔ˦˥ ŋm 
+giông	j ɔ˨˥ ŋm 
+giùi	j u˦˨ j 
+giùm	j ɨ˦˨ m 
+giú	j u˦˥ 
+giúp	j ɨ˦˥ p 
+giăm	j a˨˥ m 
+giăng	j a˨˥ ŋ 
+giũ	j u˨˨ˀ 
+giũa	j uə˨˨ˀ 
+giơ	j əː˨˥ 
+giương	j ɨː˨˥ ŋ 
+giường	j ɨː˦˨ ŋ 
+giạng	j aː˨˩ ŋ 
+giạt	j aː˨˩ k 
+giả	j aː˨˨ˀ 
+giải	j aː˨˨ˀ j 
+giảm	j aː˨˨ˀ m 
+giản	j aː˨˨ˀ ŋ 
+giảng	j aː˨˨ˀ ŋ 
+giảnh	j a˨˨ˀ n 
+giảo	j aː˨˨ˀ w 
+giấc	j ə˦˥ k 
+giấm	j ə˦˥ m 
+giất	j ə˦˥ k 
+giấu	j ə˦˥ w 
+giấy	j ə˦˥ j 
+giầm	j ə˦˨ m 
+giầu	j ə˦˨ w 
+giầy	j ə˦˨ j 
+giẫm	j ə˨˨ˀ m 
+giậm	j ə˨˩ m 
+giận	j ə˨˩ ŋ 
+giập	j ə˨˩ p 
+giật	j ə˨˩ k 
+giậu	j ə˨˩ w 
+giằm	j a˦˨ m 
+giặc	j a˨˩ k 
+giặt	j a˨˩ k 
+giẹp	j ɛː˨˩ p 
+giẻ	j ɛː˨˨ˀ 
+giếm	j iː˦˥ m 
+giếng	j iː˦˥ ŋ 
+giết	j iː˦˥ k 
+giền	j ə˦˨ ŋ 
+giềng	j iː˦˨ ŋ 
+giễu	j eː˨˨ˀ w 
+giọi	j ɔː˨˩ j 
+giọng	j ɔ˨˩ ŋm 
+giọt	j ɔː˨˩ k 
+giỏ	j ɔː˨˨ˀ 
+giỏi	j ɔː˨˨ˀ j 
+giống	j ɔ˦˥ ŋm 
+giồng	j ɔ˦˨ ŋm 
+giỗ	j oː˨˨ˀ 
+giội	j oː˨˩ j 
+giới	j əː˦˥ j 
+giờ	j əː˦˨ 
+giời	j əː˦˨ j 
+giở	j əː˨˨ˀ 
+giởi	j əː˨˨ˀ j 
+giỡn	j əː˨˨ˀ ŋ 
+giụa	j uə˨˩ 
+giục	j u˨˩ kp 
+giụi	j u˨˩ j 
+giừ	j ɨ˦˨ 
+giữ	j ɨ˨˨ˀ 
+giữa	j ɨə˨˨ˀ 
+giựt	j ɨ˨˩ k 
+go	ɡ ɔː˨˥ 
+gom	ɡ ɔː˨˥ m 
+goá	ɡ w aː˦˥ 
+gu	ɡ u˨˥ 
+guốc	ɡ uː˦˥ k 
+guồng	ɡ uː˦˨ ŋ 
+gà	ɡ aː˦˨ 
+gài	ɡ aː˦˨ j 
+gàn	ɡ aː˦˨ ŋ 
+gàng	ɡ aː˦˨ ŋ 
+gào	ɡ aː˦˨ w 
+gàu	ɡ a˦˨ w 
+gác	ɡ aː˦˥ k 
+gái	ɡ aː˦˥ j 
+gán	ɡ aː˦˥ ŋ 
+gánh	ɡ a˦˥ n 
+gáo	ɡ aː˦˥ w 
+gáp	ɡ aː˦˥ p 
+gáy	ɡ a˦˥ j 
+gân	ɡ ə˨˥ ŋ 
+gâu	ɡ ə˨˥ w 
+gây	ɡ ə˨˥ j 
+gã	ɡ aː˨˨ˀ 
+gãi	ɡ aː˨˨ˀ j 
+gãy	ɡ a˨˨ˀ j 
+gì	j i˦˨ 
+gìa	j iə˦˨ 
+gìn	j ɨ˦˨ n 
+gò	ɡ ɔː˦˨ 
+gòn	ɡ ɔː˦˨ ŋ 
+góc	ɡ ɔ˦˥ kp 
+gói	ɡ ɔː˦˥ j 
+góp	ɡ ɔː˦˥ p 
+gót	ɡ ɔː˦˥ k 
+gôm	ɡ oː˨˥ m 
+gôn	ɡ o˨˥ ŋ 
+gông	ɡ ɔ˨˥ ŋm 
+gõ	ɡ ɔː˨˨ˀ 
+gù	ɡ u˦˨ 
+gùi	ɡ u˦˨ j 
+gút	ɡ u˦˥ kp 
+găm	ɡ a˨˥ m 
+găng	ɡ a˨˥ ŋ 
+gũi	ɡ u˨˨ˀ j 
+gươm	ɡ ɨː˨˥ m 
+gương	ɡ ɨː˨˥ ŋ 
+gượm	ɡ ɨː˨˩ m 
+gượng	ɡ ɨː˨˩ ŋ 
+gạ	ɡ aː˨˩ 
+gạc	ɡ aː˨˩ k 
+gạch	ɡ a˨˩ t 
+gạo	ɡ aː˨˩ w 
+gạt	ɡ aː˨˩ k 
+gả	ɡ aː˨˨ˀ 
+gảy	ɡ a˨˨ˀ j 
+gấc	ɡ ə˦˥ k 
+gấm	ɡ ə˦˥ m 
+gấp	ɡ ə˦˥ p 
+gấu	ɡ ə˦˥ w 
+gấy	ɡ ə˦˥ j 
+gầm	ɡ ə˦˨ m 
+gần	ɡ ə˦˨ ŋ 
+gầy	ɡ ə˦˨ j 
+gẫm	ɡ ə˨˨ˀ m 
+gẫu	ɡ ə˨˨ˀ w 
+gập	ɡ ə˨˩ p 
+gật	ɡ ə˨˩ k 
+gậy	ɡ ə˨˩ j 
+gắm	ɡ a˦˥ m 
+gắn	ɡ a˦˥ ŋ 
+gắng	ɡ a˦˥ ŋ 
+gắp	ɡ a˦˥ p 
+gắt	ɡ a˦˥ k 
+gằn	ɡ a˦˨ ŋ 
+gặm	ɡ a˨˩ m 
+gặng	ɡ a˨˩ ŋ 
+gặp	ɡ a˨˩ p 
+gặt	ɡ a˨˩ k 
+gỉ	j i˨˨ˀ 
+gọi	ɡ ɔː˨˩ j 
+gọn	ɡ ɔː˨˩ ŋ 
+gọng	ɡ ɔ˨˩ ŋm 
+gọt	ɡ ɔː˨˩ k 
+gỏi	ɡ ɔː˨˨ˀ j 
+gốc	ɡ ɔ˦˥ kp 
+gối	ɡ oː˦˥ j 
+gốm	ɡ oː˦˥ m 
+gồ	ɡ oː˦˨ 
+gồm	ɡ oː˦˨ m 
+gồng	ɡ ɔ˦˨ ŋm 
+gỗ	ɡ oː˨˨ˀ 
+gộc	ɡ ɔ˨˩ kp 
+gội	ɡ oː˨˩ j 
+gộp	ɡ oː˨˩ p 
+gớm	ɡ əː˦˥ m 
+gờ	ɡ əː˦˨ 
+gờm	ɡ əː˦˨ m 
+gở	ɡ əː˨˨ˀ 
+gởi	ɡ əː˨˨ˀ j 
+gỡ	ɡ əː˨˨ˀ 
+gợi	ɡ əː˨˩ j 
+gợn	ɡ əː˨˩ ŋ 
+gục	ɡ u˨˩ kp 
+gủ	ɡ u˨˨ˀ 
+gừng	ɡ ɨ˦˨ ŋ 
+gửi	ɡ ɨ˨˨ˀ j 
+ha	h aː˨˥ 
+hai	h aː˨˥ j 
+ham	h aː˨˥ m 
+han	h aː˨˥ ŋ 
+hang	h aː˨˥ ŋ 
+hanh	h a˨˥ n 
+hao	h aː˨˥ w 
+hay	h a˨˥ j 
+hen	h ɛː˨˥ ŋ 
+heo	h ɛː˨˥ w 
+hi	h iː˨˨ 
+hia	h iə˨˥ 
+hic	h i˨˨ c 
+hiu	h iː˨˨ w 
+hiên	h iə˨˨ n 
+hiếm	h iə˨˦ m 
+hiến	h iə˨˦ n 
+hiếp	h iə˦˥ p 
+hiếu	h iə˨˦ w 
+hiền	h iə˨˨ n 
+hiểm	h iə˨˩˨ m 
+hiển	h iə˨˩˨ n 
+hiểu	h iə˨˩˨ w 
+hiện	h iə˨˩ˀ n 
+hiệp	h iə˨˩ p 
+hiệu	h iə˨˩ˀ w 
+ho	h ɔː˨˥ 
+hoa	h w aː˨˥ 
+hoan	h w aː˨˥ ŋ 
+hoang	h w aː˨˥ ŋ 
+hoay	h w a˨˥ j 
+hoen	h w ɛː˨˥ ŋ 
+hoi	h ɔː˨˥ j 
+hong	h ɔ˨˥ ŋm 
+hot	h ɔː˨˥ k 
+hoà	h w aː˦˨ 
+hoài	h w aː˦˨ j 
+hoàn	h w aː˦˨ ŋ 
+hoàng	h w aː˦˨ ŋ 
+hoành	h w a˦˨ n 
+hoá	h w aː˦˥ 
+hoãn	h w aː˨ˀ˥ n 
+hoè	h w ɛː˦˨ 
+hoạ	h w aː˨˩ 
+hoạch	h w a˨˩ c 
+hoại	h w aː˨˩ j 
+hoạn	h w aː˨˩ ŋ 
+hoạt	h w aː˨˩ k 
+hoả	h w aː˨˨ˀ 
+hoải	h w aː˨˨ˀ j 
+hoảng	h w aː˨˨ˀ ŋ 
+hoắc	h w a˦˥ k 
+hoắt	h w a˦˥ k 
+hoẵng	h w a˨ˀ˥ ŋ 
+hoặc	h w a˨˩ k 
+hun	h uː˨˨ n 
+hung	h u˨˥ ŋm 
+huy	h w iː˨˨ 
+huynh	h w i˨˨ ɲ 
+huyên	h w iə˨˨ n 
+huyết	h w iə˦˥ t 
+huyền	h w iə˨˨ n 
+huyện	h w iə˨˩ˀ n 
+huyệt	h w iə˨˩ t 
+huân	h w ə˨˥ ŋ 
+huých	h w i˦˥ c 
+huýt	h w iː˦˥ t 
+huơ	h uə˨˥ 
+huấn	h w ə˦˥ ŋ 
+huế	h w eː˦˥ 
+huề	h w eː˦˨ 
+huệ	h w eː˨˩ 
+huống	h uə˨˦ ŋ 
+huỳnh	h w i˨˨ ɲ 
+huỷ	h w iː˨˩˨ 
+hy	h iː˨˨ 
+hà	h aː˦˨ 
+hài	h aː˦˨ j 
+hàm	h aː˦˨ m 
+hàn	h aː˦˨ ŋ 
+hàng	h aː˦˨ ŋ 
+hành	h a˦˨ n 
+hào	h aː˦˨ w 
+hàu	h a˦˨ w 
+há	h aː˦˥ 
+hách	h a˦˥ c 
+hái	h aː˦˥ j 
+hán	h aː˦˥ ŋ 
+háng	h aː˦˥ ŋ 
+háo	h aː˦˥ w 
+hát	h aː˦˥ k 
+hâm	h ə˨˥ m 
+hân	h ə˨˥ ŋ 
+hãi	h aː˨ˀ˥ j 
+hãm	h aː˨ˀ˥ m 
+hãn	h aː˨ˀ˥ n 
+hãng	h aː˨ˀ˥ ŋ 
+hãnh	h a˨ˀ˥ ɲ 
+hãy	h a˨ˀ˥ j 
+hè	h ɛː˦˨ 
+hèm	h ɛː˦˨ m 
+hèn	h ɛː˦˨ ŋ 
+hé	h ɛː˦˥ 
+héo	h ɛː˦˥ w 
+hét	h ɛː˦˥ k 
+hên	h eː˨˨ n 
+hình	h i˨˨ ɲ 
+hí	h iː˨˦ 
+hít	h iː˦˥ t 
+hò	h ɔː˦˨ 
+hòa	h w aː˦˨ 
+hòm	h ɔː˦˨ m 
+hòn	h ɔː˦˨ ŋ 
+hòng	h ɔ˦˨ ŋm 
+hóa	h w aː˦˥ 
+hóc	h ɔ˦˥ kp 
+hói	h ɔː˦˥ j 
+hóng	h ɔ˦˥ ŋm 
+hóp	h ɔː˦˥ p 
+hót	h ɔː˦˥ k 
+hô	h oː˨˥ 
+hôi	h oː˨˥ j 
+hôm	h oː˨˥ m 
+hôn	h oː˨˨ n 
+hông	h o˨˨ ŋm 
+hù	h uː˨˨ 
+hùa	h uə˦˨ 
+hùm	h uː˨˨ m 
+hùng	h u˦˨ ŋm 
+hú	h uː˨˦ 
+húc	h u˦˥ kp 
+húng	h u˦˥ ŋm 
+húp	h uː˦˥ p 
+hút	h uː˦˥ t 
+hăm	h a˨˥ m 
+hăng	h a˨˥ ŋ 
+hĩm	h iː˨ˀ˥ m 
+hũ	h uː˨ˀ˥ 
+hơ	h əː˨˥ 
+hơi	h əː˨˥ j 
+hơn	h əː˨˥ ŋ 
+hư	h ɨː˨˨ 
+hưng	h ɨ˨˥ ŋ 
+hưu	h ɨ˨˥ w 
+hương	h ɨə˨˨ ŋ 
+hươu	h ɨə˨˨ w 
+hước	h ɨə˦˥ k 
+hướng	h ɨə˨˦ ŋ 
+hường	h ɨə˨˨ ŋ 
+hưởng	h ɨə˨˩˨ ŋ 
+hạ	h aː˨˩ 
+hạc	h aː˨˩ k 
+hạch	h a˨˩ c 
+hại	h aː˨˩ j 
+hạm	h aː˨˩ m 
+hạn	h aː˨˩ ŋ 
+hạng	h aː˨˩ ŋ 
+hạnh	h a˨˩ n 
+hạo	h aː˨˩ w 
+hạp	h aː˨˩ p 
+hạt	h aː˨˩ k 
+hả	h aː˨˨ˀ 
+hải	h aː˨˨ˀ j 
+hảo	h aː˨˨ˀ w 
+hấp	h ə˦˥ p 
+hất	h ə˦˥ k 
+hấu	h ə˦˥ w 
+hầm	h ə˦˨ m 
+hầu	h ə˦˨ w 
+hẩy	h ə˨˨ˀ j 
+hẫng	h ə˨ˀ˥ ŋ 
+hận	h ə˨˩ ŋ 
+hậu	h ə˨˩ w 
+hắc	h a˦˥ k 
+hắn	h a˦˥ ŋ 
+hắt	h a˦˥ k 
+hằng	h a˦˨ ŋ 
+hẳn	h a˨˨ˀ ŋ 
+hẳng	h a˨˨ˀ ŋ 
+hẵng	h a˨ˀ˥ ŋ 
+hẹ	h ɛː˨˩ 
+hẹn	h ɛː˨˩ ŋ 
+hẹp	h ɛː˨˩ p 
+hẻm	h ɛː˨˨ˀ m 
+hếch	h e˦˥ c 
+hến	h eː˨˦ n 
+hết	h eː˦˥ t 
+hề	h eː˦˨ 
+hển	h eː˨˩˨ n 
+hễ	h eː˨ˀ˥ 
+hệ	h eː˨˩ 
+hệch	h e˨˩ c 
+hệt	h eː˨˩ t 
+hỉ	h iː˨˩˨ 
+hịch	h i˨˩ c 
+họ	h ɔː˨˩ 
+họa	h w aː˨˩ 
+học	h ɔ˨˩ kp 
+họng	h ɔ˨˩ ŋm 
+họp	h ɔː˨˩ p 
+hỏ	h ɔː˨˨ˀ 
+hỏa	h w aː˨˨ˀ 
+hỏi	h ɔː˨˨ˀ j 
+hỏn	h ɔː˨˨ˀ ŋ 
+hỏng	h ɔ˨˨ˀ ŋm 
+hố	h oː˦˥ 
+hốc	h o˦˥ kp 
+hối	h oː˦˥ j 
+hống	h o˨˦ ŋm 
+hốt	h oː˦˥ t 
+hồ	h oː˦˨ 
+hồi	h oː˦˨ j 
+hồn	h oː˨˨ n 
+hồng	h o˨˨ ŋm 
+hổ	h oː˨˨ˀ 
+hổi	h oː˨˨ˀ j 
+hổm	h oː˨˨ˀ m 
+hổn	h oː˨˩˨ n 
+hổng	h o˨˩˨ ŋm 
+hỗ	h oː˨ˀ˥ 
+hỗn	h oː˨ˀ˥ n 
+hộ	h oː˨˩ 
+hộc	h o˨˩ kp 
+hội	h oː˨˩ j 
+hộp	h oː˨˩ p 
+hột	h oː˨˩ t 
+hớ	h əː˦˥ 
+hớn	h əː˦˥ ŋ 
+hớp	h əː˦˥ p 
+hớt	h əː˦˥ k 
+hờ	h əː˦˨ 
+hời	h əː˦˨ j 
+hờn	h əː˦˨ ŋ 
+hở	h əː˨˨ˀ 
+hởi	h əː˨˨ˀ j 
+hỡi	h əː˨ˀ˥ j 
+hợi	h əː˨˩ j 
+hợm	h əː˨˩ m 
+hợp	h əː˨˩ p 
+hụ	h uː˨˩ˀ 
+hục	h u˨˩ kp 
+hụi	h uː˨˩ˀ j 
+hụp	h uː˨˩ p 
+hụt	h uː˨˩ t 
+hủ	h uː˨˩˨ 
+hủy	h uː˨˩˨ j 
+hứa	h ɨə˦˥ 
+hức	h ɨ˦˥ k 
+hứng	h ɨ˦˥ ŋ 
+hừng	h ɨ˦˨ ŋ 
+hử	h ɨː˨˩˨ 
+hửi	h ɨ˨˨ˀ j 
+hửng	h ɨ˨˨ˀ ŋ 
+hững	h ɨ˨ˀ˥ ŋ 
+hữu	h ɨ˨ˀ˥ w 
+hực	h ɨ˨˩ k 
+i	ʔ iː˨˨ 
+im	ʔ iː˨˨ m 
+in	ʔ iː˨˨ n 
+inh	ʔ i˨˨ ɲ 
+iu	ʔ iː˨˨ w 
+ke	k ɛː˨˥ 
+kem	k ɛː˨˥ m 
+ken	k ɛː˨˥ ŋ 
+keng	k ɛː˨˥ ŋ 
+keo	k ɛː˨˥ w 
+kha	x aː˨˥ 
+khai	x aː˨˥ j 
+khan	x aː˨˥ ŋ 
+khang	x aː˨˥ ŋ 
+khanh	x a˨˥ n 
+khao	x aː˨˥ w 
+khay	x a˨˥ j 
+khe	x ɛː˨˥ 
+khen	x ɛː˨˥ ŋ 
+khi	x iː˨˨ 
+khinh	x i˨˨ ɲ 
+khiêm	x iə˨˨ m 
+khiên	x iə˨˨ n 
+khiêng	x iə˨˨ ŋ 
+khiêu	x iə˨˨ w 
+khiếm	x iə˨˦ m 
+khiến	x iə˨˦ n 
+khiếp	x iə˦˥ p 
+khiết	x iə˦˥ t 
+khiếu	x iə˨˦ w 
+khiển	x iə˨˩˨ n 
+khiễng	x iə˨ˀ˥ ŋ 
+kho	x ɔː˨˥ 
+khoa	x w aː˨˥ 
+khoai	x w aː˨˥ j 
+khoan	x w aː˨˥ ŋ 
+khoang	x w aː˨˥ ŋ 
+khoanh	x w a˨˥ n 
+khoe	x w ɛː˨˥ 
+khoeo	x w ɛː˨˥ w 
+khom	x ɔː˨˥ m 
+khoá	x w aː˦˥ 
+khoác	x w aː˦˥ k 
+khoái	x w aː˦˥ j 
+khoán	x w aː˦˥ ŋ 
+khoáng	x w aː˦˥ ŋ 
+khoát	x w aː˦˥ k 
+khoé	x w ɛː˦˥ 
+khoét	x w ɛː˦˥ k 
+khoăn	x w a˨˥ ŋ 
+khoả	x w aː˨˨ˀ 
+khoải	x w aː˨˨ˀ j 
+khoản	x w aː˨˨ˀ ŋ 
+khoảng	x w aː˨˨ˀ ŋ 
+khoảnh	x w a˨˨ˀ n 
+khoắn	x w a˦˥ ŋ 
+khoằm	x w a˦˨ m 
+khoẻ	x w ɛː˨˨ˀ 
+khu	x uː˨˨ 
+khua	x uə˨˥ 
+khui	x uː˨˨ j 
+khum	x uː˨˨ m 
+khung	x u˨˥ ŋm 
+khuy	x w iː˨˨ 
+khuya	x w iə˨˥ 
+khuynh	x w i˨˨ ɲ 
+khuyên	x w iə˨˨ n 
+khuyến	x w iə˨˦ n 
+khuyết	x w iə˦˥ t 
+khuân	x w ə˨˥ ŋ 
+khuâng	x w ə˨˥ ŋ 
+khuây	x w ə˨˥ j 
+khuê	x w eː˨˥ 
+khuôn	x uə˨˨ n 
+khuất	x w ə˦˥ k 
+khuấy	x w ə˦˥ j 
+khuẩn	x w ə˨˨ˀ ŋ 
+khuếch	x w e˦˥ c 
+khuỷu	x w iː˨˩˨ w 
+khàn	x aː˦˨ ŋ 
+khàng	x aː˦˨ ŋ 
+khá	x aː˦˥ 
+khác	x aː˦˥ k 
+khách	x a˦˥ c 
+khái	x aː˦˥ j 
+khám	x aː˦˥ m 
+khán	x aː˦˥ ŋ 
+kháng	x aː˦˥ ŋ 
+khánh	x a˦˥ n 
+khát	x aː˦˥ k 
+kháy	x a˦˥ j 
+khâm	x ə˨˥ m 
+khâu	x ə˨˥ w 
+khé	x ɛː˦˥ 
+khéo	x ɛː˦˥ w 
+khép	x ɛː˦˥ p 
+khét	x ɛː˦˥ k 
+khê	x eː˨˥ 
+khêu	x eː˨˥ w 
+khí	x iː˨˦ 
+khía	x iə˦˥ 
+khích	x i˦˥ c 
+khít	x iː˦˥ t 
+khó	x ɔː˦˥ 
+khóa	x w aː˦˥ 
+khóc	x ɔ˦˥ kp 
+khóe	x w ɛː˦˥ 
+khói	x ɔː˦˥ j 
+khóm	x ɔː˦˥ m 
+khô	x oː˨˥ 
+khôi	x oː˨˥ j 
+khôn	x oː˨˨ n 
+không	x o˨˨ ŋm 
+khùng	x u˦˨ ŋm 
+khúc	x u˦˥ kp 
+khăm	x a˨˥ m 
+khăn	x a˨˥ ŋ 
+khăng	x a˨˥ ŋ 
+khơi	x əː˨˥ j 
+khương	x ɨə˨˨ ŋ 
+khạc	x aː˨˩ k 
+khạo	x aː˨˩ w 
+khả	x aː˨˨ˀ 
+khải	x aː˨˨ˀ j 
+khảnh	x a˨˨ˀ n 
+khảo	x aː˨˨ˀ w 
+khảy	x a˨˨ˀ j 
+khấn	x ə˦˥ ŋ 
+khất	x ə˦˥ k 
+khấu	x ə˦˥ w 
+khẩn	x ə˨˨ˀ ŋ 
+khẩu	x ə˨˨ˀ w 
+khập	x ə˨˩ p 
+khắc	x a˦˥ k 
+khắm	x a˦˥ m 
+khắng	x a˦˥ ŋ 
+khắp	x a˦˥ p 
+khắt	x a˦˥ k 
+khẳm	x a˨˨ˀ m 
+khẳn	x a˨˨ˀ ŋ 
+khẳng	x a˨˨ˀ ŋ 
+khẹc	x ɛː˨˩ k 
+khẽ	x ɛː˨ˀ˥ 
+khế	x eː˦˥ 
+khều	x eː˦˨ w 
+khểnh	x e˨˩˨ ɲ 
+khỉ	x iː˨˩˨ 
+khịt	x iː˨˩ t 
+khỏ	x ɔː˨˨ˀ 
+khỏa	x w aː˨˨ˀ 
+khỏe	x w ɛː˨˨ˀ 
+khỏi	x ɔː˨˨ˀ j 
+khố	x oː˦˥ 
+khốc	x o˦˥ kp 
+khối	x oː˦˥ j 
+khốn	x oː˨˦ n 
+khống	x o˨˦ ŋm 
+khổ	x oː˨˨ˀ 
+khổng	x o˨˩˨ ŋm 
+khớp	x əː˦˥ p 
+khờ	x əː˦˨ 
+khởi	x əː˨˨ˀ j 
+khủng	x u˨˨ˀ ŋm 
+khứ	x ɨː˨˦ 
+khứa	x ɨə˦˥ 
+khứng	x ɨ˦˥ ŋ 
+khử	x ɨː˨˩˨ 
+khựng	x ɨ˨˩ ŋ 
+ki	k iː˨˨ 
+kia	k iə˨˥ 
+kim	k iː˨˨ m 
+kinh	k i˨˨ ɲ 
+kiêm	k iə˨˨ m 
+kiên	k iə˨˨ n 
+kiêng	k iə˨˨ ŋ 
+kiêu	k iə˨˨ w 
+kiếm	k iə˨˦ m 
+kiến	k iə˨˦ n 
+kiếng	k iə˨˦ ŋ 
+kiếp	k iə˦˥ p 
+kiết	k iə˦˥ t 
+kiếu	k iə˨˦ w 
+kiềm	k iə˨˨ m 
+kiều	k iə˨˨ w 
+kiểm	k iə˨˩˨ m 
+kiểng	k iə˨˩˨ ŋ 
+kiểu	k iə˨˩˨ w 
+kiệm	k iə˨˩ˀ m 
+kiện	k iə˨˩ˀ n 
+kiệt	k iə˨˩ t 
+kiệu	k iə˨˩ˀ w 
+kong	k ɔ˨˥ ŋm 
+ku	k uː˨˨ 
+kè	k ɛː˦˨ 
+kèm	k ɛː˦˨ m 
+kèn	k ɛː˦˨ ŋ 
+kèo	k ɛː˦˨ w 
+ké	k ɛː˦˥ 
+kém	k ɛː˦˥ m 
+kén	k ɛː˦˥ ŋ 
+kéo	k ɛː˦˥ w 
+kép	k ɛː˦˥ p 
+két	k ɛː˦˥ k 
+kê	k eː˨˥ 
+kênh	k e˨˨ ɲ 
+kêu	k eː˨˥ w 
+kì	k iː˨˨ 
+kìa	k iə˦˨ 
+kìm	k iː˨˨ m 
+kình	k i˨˨ ɲ 
+kí	k iː˨˦ 
+kích	k i˦˥ c 
+kín	k iː˨˦ n 
+kính	k i˨˦ ɲ 
+kíp	k iː˦˥ p 
+kông	k o˨˨ ŋm 
+ký	k iː˨˦ 
+kĩ	k iː˨ˀ˥ 
+kẹc	k ɛː˨˩ k 
+kẹo	k ɛː˨˩ w 
+kẹp	k ɛː˨˩ p 
+kẹt	k ɛː˨˩ k 
+kẻ	k ɛː˨˨ˀ 
+kẻng	k ɛː˨˨ˀ ŋ 
+kẻo	k ɛː˨˨ˀ w 
+kẽ	k ɛː˨ˀ˥ 
+kẽm	k ɛː˨ˀ˥ m 
+kế	k eː˦˥ 
+kếch	k e˦˥ c 
+kết	k eː˦˥ t 
+kề	k eː˦˨ 
+kềm	k eː˦˨ m 
+kền	k eː˨˨ n 
+kềnh	k e˨˨ ɲ 
+kể	k eː˨˨ˀ 
+kệ	k eː˨˩ 
+kệch	k e˨˩ c 
+kệt	k eː˨˩ t 
+kỉ	k iː˨˩˨ 
+kị	k iː˨˩ˀ 
+kịch	k i˨˩ c 
+kịp	k iː˨˩ p 
+kớ	k əː˦˥ 
+kỳ	k iː˨˨ 
+kỵ	k iː˨˩ˀ 
+kỷ	k iː˨˩˨ 
+kỹ	k iː˨ˀ˥ 
+la	l aː˨˥ 
+lai	l aː˨˥ j 
+lam	l aː˨˥ m 
+lan	l aː˨˥ ŋ 
+lang	l aː˨˥ ŋ 
+lanh	l a˨˥ n 
+lao	l aː˨˥ w 
+lat	l aː˨˥ k 
+lau	l a˨˥ w 
+lay	l a˨˥ j 
+le	l ɛː˨˥ 
+lem	l ɛː˨˥ m 
+len	l ɛː˨˥ ŋ 
+leo	l ɛː˨˥ w 
+li	l iː˨˨ 
+lia	l iə˨˥ 
+lim	l iː˨˨ m 
+linh	l i˨˨ ɲ 
+liu	l iː˨˨ w 
+liêm	l iə˨˨ m 
+liên	l iə˨˨ n 
+liêng	l iə˨˨ ŋ 
+liêu	l iə˨˨ w 
+liếc	l iə˦˥ k 
+liếm	l iə˨˦ m 
+liềm	l iə˨˨ m 
+liền	l iə˨˨ n 
+liều	l iə˨˨ w 
+liễu	l iə˨ˀ˥ w 
+liện	l iə˨˩ˀ n 
+liệng	l iə˨˩ˀ ŋ 
+liệt	l iə˨˩ t 
+liệu	l iə˨˩ˀ w 
+lo	l ɔː˨˥ 
+loa	l w aː˨˥ 
+loan	l w aː˨˥ ŋ 
+loang	l w aː˨˥ ŋ 
+loay	l w a˨˥ j 
+lon	l ɔː˨˥ ŋ 
+long	l ɔ˨˥ ŋm 
+loà	l w aː˦˨ 
+loài	l w aː˦˨ j 
+loàn	l w aː˦˨ ŋ 
+loá	l w aː˦˥ 
+loán	l w aː˦˥ ŋ 
+loãng	l w aː˨ˀ˥ ŋ 
+loè	l w ɛː˦˨ 
+loé	l w ɛː˦˥ 
+loét	l w ɛː˦˥ k 
+loại	l w aː˨˩ j 
+loạn	l w aː˨˩ ŋ 
+loạt	l w aː˨˩ k 
+lu	l uː˨˨ 
+lui	l uː˨˨ j 
+lung	l u˨˥ ŋm 
+luyến	l w iə˨˦ n 
+luyện	l w iə˨˩ˀ n 
+luân	l w ə˨˥ ŋ 
+luôn	l uə˨˨ n 
+luận	l w ə˨˩ ŋ 
+luật	l w ə˨˩ k 
+luốc	l uə˦˥ k 
+luống	l uə˨˦ ŋ 
+luồn	l uə˨˨ n 
+luồng	l uə˨˨ ŋ 
+luộc	l uə˨˩ k 
+luỹ	l w iː˨ˀ˥ 
+ly	l iː˨˨ 
+là	l aː˦˨ 
+lài	l aː˦˨ j 
+làm	l aː˦˨ m 
+làn	l aː˦˨ ŋ 
+làng	l aː˦˨ ŋ 
+lành	l a˦˨ n 
+lào	l aː˦˨ w 
+lá	l aː˦˥ 
+lác	l aː˦˥ k 
+lách	l a˦˥ c 
+lái	l aː˦˥ j 
+lán	l aː˦˥ ŋ 
+láng	l aː˦˥ ŋ 
+lánh	l a˦˥ n 
+láo	l aː˦˥ w 
+lát	l aː˦˥ k 
+láy	l a˦˥ j 
+lâm	l ə˨˥ m 
+lân	l ə˨˥ ŋ 
+lâu	l ə˨˥ w 
+lây	l ə˨˥ j 
+lãi	l aː˨ˀ˥ j 
+lãm	l aː˨ˀ˥ m 
+lãng	l aː˨ˀ˥ ŋ 
+lãnh	l a˨ˀ˥ ɲ 
+lão	l aː˨ˀ˥ w 
+lè	l ɛː˦˨ 
+lé	l ɛː˦˥ 
+lén	l ɛː˦˥ ŋ 
+léo	l ɛː˦˥ w 
+lép	l ɛː˦˥ p 
+lét	l ɛː˦˥ k 
+lê	l eː˨˥ 
+lên	l eː˨˨ n 
+lênh	l e˨˨ ɲ 
+lêu	l eː˨˥ w 
+lì	l iː˨˨ 
+lìa	l iə˦˨ 
+lìm	l iː˨˨ m 
+lìn	l iː˨˨ n 
+lí	l iː˨˦ 
+lính	l i˨˦ ɲ 
+líp	l iː˦˥ p 
+lít	l iː˦˥ t 
+líu	l iː˨˦ w 
+lò	l ɔː˦˨ 
+lòi	l ɔː˦˨ j 
+lòm	l ɔː˦˨ m 
+lòn	l ɔː˦˨ ŋ 
+lòng	l ɔ˦˨ ŋm 
+ló	l ɔː˦˥ 
+lóc	l ɔ˦˥ kp 
+lóng	l ɔ˦˥ ŋm 
+lót	l ɔː˦˥ k 
+lô	l oː˨˥ 
+lôi	l oː˨˥ j 
+lông	l o˨˨ ŋm 
+lõ	l ɔː˨ˀ˥ 
+lõi	l ɔː˨ˀ˥ j 
+lõm	l ɔː˨ˀ˥ m 
+lõng	l ɔ˨ˀ˥ ŋm 
+lù	l uː˨˨ 
+lùa	l uə˦˨ 
+lùi	l uː˨˨ j 
+lùm	l uː˨˨ m 
+lùn	l uː˨˨ n 
+lùng	l u˦˨ ŋm 
+lú	l uː˨˦ 
+lúa	l uə˦˥ 
+lúc	l u˦˥ kp 
+lún	l uː˨˦ n 
+lúng	l u˦˥ ŋm 
+lý	l iː˨˦ 
+lăk	l a˨˥ k 
+lăm	l a˨˥ m 
+lăn	l a˨˥ ŋ 
+lăng	l a˨˥ ŋ 
+lĩnh	l i˨ˀ˥ ɲ 
+lũ	l uː˨ˀ˥ 
+lũng	l u˨ˀ˥ ŋm 
+lũy	l uː˨ˀ˥ j 
+lơ	l əː˨˥ 
+lơi	l əː˨˥ j 
+lơn	l əː˨˥ ŋ 
+lư	l ɨː˨˨ 
+lưng	l ɨ˨˥ ŋ 
+lưu	l ɨ˨˥ w 
+lươn	l ɨə˨˨ n 
+lương	l ɨə˨˨ ŋ 
+lưới	l ɨə˨˦ j 
+lướt	l ɨə˦˥ t 
+lười	l ɨə˨˨ j 
+lườm	l ɨə˨˨ m 
+lườn	l ɨə˨˨ n 
+lường	l ɨə˨˨ ŋ 
+lưỡi	l ɨə˨ˀ˥ j 
+lưỡng	l ɨə˨ˀ˥ ŋ 
+lược	l ɨə˨˩ k 
+lượm	l ɨə˨˩ˀ m 
+lượn	l ɨə˨˩ˀ n 
+lượng	l ɨə˨˩ˀ ŋ 
+lượt	l ɨə˨˩ t 
+lạ	l aː˨˩ 
+lạc	l aː˨˩ k 
+lạch	l a˨˩ c 
+lại	l aː˨˩ j 
+lạm	l aː˨˩ m 
+lạng	l aː˨˩ ŋ 
+lạnh	l a˨˩ n 
+lạp	l aː˨˩ p 
+lạt	l aː˨˩ k 
+lạy	l a˨˩ j 
+lả	l aː˨˨ˀ 
+lảng	l aː˨˨ˀ ŋ 
+lảo	l aː˨˨ˀ w 
+lấm	l ə˦˥ m 
+lấn	l ə˦˥ ŋ 
+lấp	l ə˦˥ p 
+lấy	l ə˦˥ j 
+lầm	l ə˦˨ m 
+lần	l ə˦˨ ŋ 
+lầu	l ə˦˨ w 
+lầy	l ə˦˨ j 
+lẩm	l ə˨˨ˀ m 
+lẩn	l ə˨˨ˀ ŋ 
+lẩu	l ə˨˨ˀ w 
+lẩy	l ə˨˨ˀ j 
+lẫm	l ə˨ˀ˥ m 
+lẫn	l ə˨ˀ˥ n 
+lẫy	l ə˨ˀ˥ j 
+lận	l ə˨˩ ŋ 
+lập	l ə˨˩ p 
+lật	l ə˨˩ k 
+lậu	l ə˨˩ w 
+lắc	l a˦˥ k 
+lắm	l a˦˥ m 
+lắng	l a˦˥ ŋ 
+lắp	l a˦˥ p 
+lằn	l a˦˨ ŋ 
+lẳng	l a˨˨ˀ ŋ 
+lẵng	l a˨ˀ˥ ŋ 
+lặn	l a˨˩ ŋ 
+lặng	l a˨˩ ŋ 
+lặp	l a˨˩ p 
+lặt	l a˨˩ k 
+lẹ	l ɛː˨˩ 
+lẹo	l ɛː˨˩ w 
+lẻ	l ɛː˨˨ˀ 
+lẻn	l ɛː˨˨ˀ ŋ 
+lẽ	l ɛː˨ˀ˥ 
+lẽo	l ɛː˨ˀ˥ w 
+lết	l eː˦˥ t 
+lề	l eː˦˨ 
+lềnh	l e˨˨ ɲ 
+lều	l eː˦˨ w 
+lễ	l eː˨ˀ˥ 
+lệ	l eː˨˩ 
+lệch	l e˨˩ c 
+lệnh	l e˨˩ˀ ɲ 
+lỉnh	l i˨˩˨ ɲ 
+lị	l iː˨˩ˀ 
+lịa	l iə˨˩ 
+lịch	l i˨˩ c 
+lịm	l iː˨˩ˀ m 
+lọ	l ɔː˨˩ 
+lọc	l ɔ˨˩ kp 
+lọi	l ɔː˨˩ j 
+lọn	l ɔː˨˩ ŋ 
+lọng	l ɔ˨˩ ŋm 
+lọt	l ɔː˨˩ k 
+lỏi	l ɔː˨˨ˀ j 
+lỏm	l ɔː˨˨ˀ m 
+lỏng	l ɔ˨˨ˀ ŋm 
+lố	l oː˦˥ 
+lốc	l o˦˥ kp 
+lối	l oː˦˥ j 
+lốp	l oː˦˥ p 
+lốt	l oː˦˥ t 
+lồ	l oː˦˨ 
+lồi	l oː˦˨ j 
+lồn	l oː˨˨ n 
+lồng	l o˨˨ ŋm 
+lỗ	l oː˨ˀ˥ 
+lỗi	l oː˨ˀ˥ j 
+lộ	l oː˨˩ 
+lộc	l o˨˩ kp 
+lội	l oː˨˩ j 
+lộn	l oː˨˩ˀ n 
+lộng	l o˨˩ˀ ŋm 
+lộp	l oː˨˩ p 
+lột	l oː˨˩ t 
+lớn	l əː˦˥ ŋ 
+lớp	l əː˦˥ p 
+lờ	l əː˦˨ 
+lời	l əː˦˨ j 
+lờn	l əː˦˨ ŋ 
+lở	l əː˨˨ˀ 
+lởi	l əː˨˨ˀ j 
+lỡ	l əː˨ˀ˥ 
+lợi	l əː˨˩ j 
+lợm	l əː˨˩ m 
+lợn	l əː˨˩ ŋ 
+lợp	l əː˨˩ p 
+lụa	l uə˨˩ 
+lục	l u˨˩ kp 
+lụm	l uː˨˩ˀ m 
+lụt	l uː˨˩ t 
+lụy	l uː˨˩ˀ j 
+lủi	l uː˨˩˨ j 
+lủng	l u˨˨ˀ ŋm 
+lứa	l ɨə˦˥ 
+lức	l ɨ˦˥ k 
+lừa	l ɨə˦˨ 
+lừng	l ɨ˦˨ ŋ 
+lửa	l ɨə˨˨ˀ 
+lửng	l ɨ˨˨ˀ ŋ 
+lữ	l ɨː˨ˀ˥ 
+lữa	l ɨə˨ˀ˥ 
+lự	l ɨː˨˩ˀ 
+lựa	l ɨə˨˩ 
+lực	l ɨ˨˩ k 
+lựu	l ɨ˨˩ w 
+ma	m aː˨˥ 
+mai	m aː˨˥ j 
+man	m aː˨˥ ŋ 
+mang	m aː˨˥ ŋ 
+manh	m a˨˥ n 
+mau	m a˨˥ w 
+may	m a˨˥ j 
+me	m ɛː˨˥ 
+men	m ɛː˨˥ ŋ 
+meo	m ɛː˨˥ w 
+mi	m iː˨˨ 
+min	m iː˨˨ n 
+minh	m i˨˨ ɲ 
+miu	m iː˨˨ w 
+miên	m iə˨˨ n 
+miêu	m iə˨˨ w 
+miến	m iə˨˦ n 
+miếng	m iə˨˦ ŋ 
+miết	m iə˦˥ t 
+miếu	m iə˨˦ w 
+miền	m iə˨˨ n 
+miểng	m iə˨˩˨ ŋ 
+miễn	m iə˨ˀ˥ n 
+miện	m iə˨˩ˀ n 
+miệng	m iə˨˩ˀ ŋ 
+miệt	m iə˨˩ t 
+mo	m ɔː˨˥ 
+moa	m w aː˨˥ 
+moi	m ɔː˨˥ j 
+mong	m ɔ˨˥ ŋm 
+moóc	m ɔː˦˥ k 
+moạ	m w aː˨˩ 
+moả	m w aː˨˨ˀ 
+mu	m uː˨˨ 
+mua	m uə˨˥ 
+mui	m uː˨˨ j 
+mun	m uː˨˨ n 
+muôi	m uə˨˨ j 
+muôn	m uə˨˨ n 
+muông	m uə˨˨ ŋ 
+muối	m uə˨˦ j 
+muốn	m uə˨˦ n 
+muống	m uə˨˦ ŋ 
+muỗi	m uə˨ˀ˥ j 
+muỗng	m uə˨ˀ˥ ŋ 
+muội	m uə˨˩ˀ j 
+muộn	m uə˨˩ˀ n 
+mà	m aː˦˨ 
+mài	m aː˦˨ j 
+màn	m aː˦˨ ŋ 
+màng	m aː˦˨ ŋ 
+mành	m a˦˨ n 
+mào	m aː˦˨ w 
+màu	m a˦˨ w 
+mày	m a˦˨ j 
+má	m aː˦˥ 
+mác	m aː˦˥ k 
+mách	m a˦˥ c 
+mái	m aː˦˥ j 
+mán	m aː˦˥ ŋ 
+máng	m aː˦˥ ŋ 
+mánh	m a˦˥ n 
+máo	m aː˦˥ w 
+mát	m aː˦˥ k 
+máu	m a˦˥ w 
+máy	m a˦˥ j 
+mâm	m ə˨˥ m 
+mân	m ə˨˥ ŋ 
+mâu	m ə˨˥ w 
+mây	m ə˨˥ j 
+mã	m aː˨ˀ˥ 
+mãi	m aː˨ˀ˥ j 
+mãn	m aː˨ˀ˥ n 
+mãnh	m a˨ˀ˥ ɲ 
+mão	m aː˨ˀ˥ w 
+mãu	m a˨ˀ˥ w 
+mè	m ɛː˦˨ 
+mèm	m ɛː˦˨ m 
+mèo	m ɛː˦˨ w 
+mé	m ɛː˦˥ 
+méc	m ɛː˦˥ k 
+mén	m ɛː˦˥ ŋ 
+méo	m ɛː˦˥ w 
+mép	m ɛː˦˥ p 
+mét	m ɛː˦˥ k 
+mê	m eː˨˥ 
+mênh	m e˨˨ ɲ 
+mì	m iː˨˨ 
+mìn	m iː˨˨ n 
+mình	m i˨˨ ɲ 
+mí	m iː˨˦ 
+mía	m iə˦˥ 
+mím	m iː˨˦ m 
+mít	m iː˦˥ t 
+mò	m ɔː˦˨ 
+mòi	m ɔː˦˨ j 
+mòn	m ɔː˦˨ ŋ 
+mòng	m ɔ˦˨ ŋm 
+mó	m ɔː˦˥ 
+móc	m ɔ˦˥ kp 
+móm	m ɔː˦˥ m 
+món	m ɔː˦˥ ŋ 
+móng	m ɔ˦˥ ŋm 
+móp	m ɔː˦˥ p 
+mót	m ɔː˦˥ k 
+mô	m oː˨˥ 
+môi	m oː˨˥ j 
+môn	m oː˨˨ n 
+mông	m o˨˨ ŋm 
+mõ	m ɔː˨ˀ˥ 
+mù	m uː˨˨ 
+mùa	m uə˦˨ 
+mùi	m uː˨˨ j 
+mùn	m uː˨˨ n 
+mùng	m u˦˨ ŋm 
+múa	m uə˦˥ 
+múc	m u˦˥ kp 
+múi	m uː˨˦ j 
+múp	m uː˦˥ p 
+mút	m uː˦˥ t 
+măm	m a˨˥ m 
+măng	m a˨˥ ŋ 
+mĩ	m iː˨ˀ˥ 
+mũ	m uː˨ˀ˥ 
+mũi	m uː˨ˀ˥ j 
+mơ	m əː˨˥ 
+mơn	m əː˨˥ ŋ 
+mưa	m ɨə˨˥ 
+mưu	m ɨ˨˥ w 
+mươi	m ɨə˨˨ j 
+mương	m ɨə˨˨ ŋ 
+mướn	m ɨə˨˦ n 
+mướp	m ɨə˦˥ p 
+mướt	m ɨə˦˥ t 
+mười	m ɨə˨˨ j 
+mường	m ɨə˨˨ ŋ 
+mượn	m ɨə˨˩ˀ n 
+mượt	m ɨə˨˩ t 
+mạ	m aː˨˩ 
+mạc	m aː˨˩ k 
+mạch	m a˨˩ c 
+mại	m aː˨˩ j 
+mạn	m aː˨˩ ŋ 
+mạng	m aː˨˩ ŋ 
+mạnh	m a˨˩ n 
+mạo	m aː˨˩ w 
+mạt	m aː˨˩ k 
+mả	m aː˨˨ˀ 
+mải	m aː˨˨ˀ j 
+mảng	m aː˨˨ˀ ŋ 
+mảnh	m a˨˨ˀ n 
+mảy	m a˨˨ˀ j 
+mấn	m ə˦˥ ŋ 
+mất	m ə˦˥ k 
+mấu	m ə˦˥ w 
+mấy	m ə˦˥ j 
+mầm	m ə˦˨ m 
+mần	m ə˦˨ ŋ 
+mầu	m ə˦˨ w 
+mầy	m ə˦˨ j 
+mẩn	m ə˨˨ˀ ŋ 
+mẩu	m ə˨˨ˀ w 
+mẩy	m ə˨˨ˀ j 
+mẫn	m ə˨ˀ˥ n 
+mẫu	m ə˨ˀ˥ w 
+mận	m ə˨˩ ŋ 
+mập	m ə˨˩ p 
+mật	m ə˨˩ k 
+mậu	m ə˨˩ w 
+mắc	m a˦˥ k 
+mắm	m a˦˥ m 
+mắn	m a˦˥ ŋ 
+mắng	m a˦˥ ŋ 
+mắt	m a˦˥ k 
+mẳn	m a˨˨ˀ ŋ 
+mặc	m a˨˩ k 
+mặn	m a˨˩ ŋ 
+mặt	m a˨˩ k 
+mẹ	m ɛː˨˩ 
+mẹo	m ɛː˨˩ w 
+mẻ	m ɛː˨˨ˀ 
+mẽ	m ɛː˨ˀ˥ 
+mến	m eː˨˦ n 
+mếu	m eː˦˥ w 
+mề	m eː˦˨ 
+mềm	m eː˦˨ m 
+mền	m eː˨˨ n 
+mễ	m eː˨ˀ˥ 
+mệ	m eː˨˩ 
+mệnh	m e˨˩ˀ ɲ 
+mệt	m eː˨˩ t 
+mỉ	m iː˨˩˨ 
+mỉa	m iə˨˨ˀ 
+mỉm	m iː˨˩˨ m 
+mị	m iː˨˩ˀ 
+mịn	m iː˨˩ˀ n 
+mịt	m iː˨˩ t 
+mọc	m ɔ˨˩ kp 
+mọi	m ɔː˨˩ j 
+mọn	m ɔː˨˩ ŋ 
+mọng	m ɔ˨˩ ŋm 
+mọt	m ɔː˨˩ k 
+mỏ	m ɔː˨˨ˀ 
+mỏi	m ɔː˨˨ˀ j 
+mỏng	m ɔ˨˨ˀ ŋm 
+mốc	m o˦˥ kp 
+mối	m oː˦˥ j 
+mống	m o˨˦ ŋm 
+mốt	m oː˦˥ t 
+mồ	m oː˦˨ 
+mồi	m oː˦˨ j 
+mồm	m oː˦˨ m 
+mồng	m o˨˨ ŋm 
+mổ	m oː˨˨ˀ 
+mỗi	m oː˨ˀ˥ j 
+mộ	m oː˨˩ 
+mộc	m o˨˩ kp 
+mộng	m o˨˩ˀ ŋm 
+một	m oː˨˩ t 
+mớ	m əː˦˥ 
+mới	m əː˦˥ j 
+mớm	m əː˦˥ m 
+mờ	m əː˦˨ 
+mời	m əː˦˨ j 
+mở	m əː˨˨ˀ 
+mỡ	m əː˨ˀ˥ 
+mợ	m əː˨˩ 
+mụ	m uː˨˩ˀ 
+mục	m u˨˩ kp 
+mụn	m uː˨˩ˀ n 
+mụp	m uː˨˩ p 
+mụt	m uː˨˩ t 
+mủ	m uː˨˩˨ 
+mủi	m uː˨˩˨ j 
+mủn	m uː˨˩˨ n 
+mứa	m ɨə˦˥ 
+mức	m ɨ˦˥ k 
+mứt	m ɨ˦˥ k 
+mừng	m ɨ˦˨ ŋ 
+mửa	m ɨə˨˨ˀ 
+mực	m ɨ˨˩ k 
+mỹ	m iː˨ˀ˥ 
+na	n aː˨˥ 
+nai	n aː˨˥ j 
+nam	n aː˨˥ m 
+nan	n aː˨˥ ŋ 
+nang	n aː˨˥ ŋ 
+nanh	n a˨˥ n 
+nao	n aː˨˥ w 
+nay	n a˨˥ j 
+nem	n ɛː˨˥ m 
+neo	n ɛː˨˥ w 
+neon	n ɛː˨˥ w 
+net	n ɛː˨˥ k 
+nga	ŋ aː˨˥ 
+ngai	ŋ aː˨˥ j 
+ngan	ŋ aː˨˥ ŋ 
+ngang	ŋ aː˨˥ ŋ 
+ngao	ŋ aː˨˥ w 
+ngay	ŋ a˨˥ j 
+nghe	ŋ ɛː˨˥ 
+nghen	ŋ ɛː˨˥ ŋ 
+nghi	ŋ iː˨˨ 
+nghiêm	ŋ iə˨˨ m 
+nghiên	ŋ iə˨˨ n 
+nghiêng	ŋ iə˨˨ ŋ 
+nghiếm	ŋ iə˨˦ m 
+nghiến	ŋ iə˨˦ n 
+nghiềm	ŋ iə˨˨ m 
+nghiền	ŋ iə˨˨ n 
+nghiệm	ŋ iə˨˩ˀ m 
+nghiện	ŋ iə˨˩ˀ n 
+nghiệp	ŋ iə˨˩ p 
+nghiệt	ŋ iə˨˩ t 
+nghè	ŋ ɛː˦˨ 
+nghèo	ŋ ɛː˦˨ w 
+nghé	ŋ ɛː˦˥ 
+nghén	ŋ ɛː˦˥ ŋ 
+nghê	ŋ eː˨˥ 
+nghênh	ŋ e˨˨ ɲ 
+nghêu	ŋ eː˨˥ w 
+nghìm	ŋ iː˨˨ m 
+nghìn	ŋ iː˨˨ n 
+nghía	ŋ iə˦˥ 
+nghĩ	ŋ iː˨ˀ˥ 
+nghĩa	ŋ iə˨ˀ˥ 
+nghĩnh	ŋ i˨ˀ˥ ɲ 
+nghẹ	ŋ ɛː˨˩ 
+nghẹn	ŋ ɛː˨˩ ŋ 
+nghẹo	ŋ ɛː˨˩ w 
+nghẹt	ŋ ɛː˨˩ k 
+nghẽn	ŋ ɛː˨ˀ˥ n 
+nghếch	ŋ e˦˥ c 
+nghề	ŋ eː˦˨ 
+nghệ	ŋ eː˨˩ 
+nghỉ	ŋ iː˨˩˨ 
+nghị	ŋ iː˨˩ˀ 
+nghịch	ŋ i˨˩ c 
+nghịt	ŋ iː˨˩ t 
+nghịu	ŋ iː˨˩ˀ w 
+ngoa	ŋ w aː˨˥ 
+ngoan	ŋ w aː˨˥ ŋ 
+ngoc	ŋ ɔ˨˥ kp 
+ngoi	ŋ ɔː˨˥ j 
+ngon	ŋ ɔː˨˥ ŋ 
+ngoài	ŋ w aː˦˨ j 
+ngoái	ŋ w aː˦˥ j 
+ngoáy	ŋ w a˦˥ j 
+ngoãn	ŋ w aː˨ˀ˥ n 
+ngoèo	ŋ w ɛː˦˨ w 
+ngoé	ŋ w ɛː˦˥ 
+ngoém	ŋ w ɛː˦˥ m 
+ngoại	ŋ w aː˨˩ j 
+ngoạm	ŋ w aː˨˩ m 
+ngoạn	ŋ w aː˨˩ ŋ 
+ngoải	ŋ w aː˨˨ˀ j 
+ngoảnh	ŋ w a˨˨ˀ n 
+ngoảy	ŋ w a˨˨ˀ j 
+ngoắc	ŋ w a˦˥ k 
+ngoắt	ŋ w a˦˥ k 
+ngoằn	ŋ w a˦˨ ŋ 
+ngoẵng	ŋ w a˨ˀ˥ ŋ 
+ngoặc	ŋ w a˨˩ k 
+ngoặt	ŋ w a˨˩ k 
+ngoẹo	ŋ w ɛː˨˩ w 
+ngu	ŋ uː˨˨ 
+nguy	ŋ w iː˨˨ 
+nguyên	ŋ w iə˨˨ n 
+nguyền	ŋ w iə˨˨ n 
+nguyển	ŋ w iə˨˩˨ n 
+nguyễn	ŋ w iə˨ˀ˥ n 
+nguyện	ŋ w iə˨˩ˀ n 
+nguyệt	ŋ w iə˨˩ t 
+nguôi	ŋ uə˨˨ j 
+nguồn	ŋ uə˨˨ n 
+nguội	ŋ uə˨˩ˀ j 
+nguỵ	ŋ w iː˨˩ˀ 
+ngà	ŋ aː˦˨ 
+ngài	ŋ aː˦˨ j 
+ngàn	ŋ aː˦˨ ŋ 
+ngành	ŋ a˦˨ n 
+ngào	ŋ aː˦˨ w 
+ngày	ŋ a˦˨ j 
+ngác	ŋ aː˦˥ k 
+ngách	ŋ a˦˥ c 
+ngái	ŋ aː˦˥ j 
+ngám	ŋ aː˦˥ m 
+ngán	ŋ aː˦˥ ŋ 
+ngáo	ŋ aː˦˥ w 
+ngáp	ŋ aː˦˥ p 
+ngát	ŋ aː˦˥ k 
+ngáy	ŋ a˦˥ j 
+ngâm	ŋ ə˨˥ m 
+ngân	ŋ ə˨˥ ŋ 
+ngâu	ŋ ə˨˥ w 
+ngây	ŋ ə˨˥ j 
+ngã	ŋ aː˨ˀ˥ 
+ngãi	ŋ aː˨ˀ˥ j 
+ngò	ŋ ɔː˦˨ 
+ngòi	ŋ ɔː˦˨ j 
+ngó	ŋ ɔː˦˥ 
+ngóc	ŋ ɔ˦˥ kp 
+ngói	ŋ ɔː˦˥ j 
+ngón	ŋ ɔː˦˥ ŋ 
+ngóng	ŋ ɔ˦˥ ŋm 
+ngót	ŋ ɔː˦˥ k 
+ngô	ŋ oː˨˥ 
+ngôi	ŋ oː˨˥ j 
+ngôn	ŋ oː˨˨ n 
+ngông	ŋ o˨˨ ŋm 
+ngõ	ŋ ɔː˨ˀ˥ 
+ngõi	ŋ ɔː˨ˀ˥ j 
+ngù	ŋ uː˨˨ 
+ngùi	ŋ uː˨˨ j 
+ngùng	ŋ u˦˨ ŋm 
+ngút	ŋ uː˦˥ t 
+ngăm	ŋ a˨˥ m 
+ngăn	ŋ a˨˥ ŋ 
+ngũ	ŋ uː˨ˀ˥ 
+ngơ	ŋ əː˨˥ 
+ngơi	ŋ əː˨˥ j 
+ngư	ŋ ɨː˨˨ 
+ngưng	ŋ ɨ˨˥ ŋ 
+ngươi	ŋ ɨə˨˨ j 
+ngước	ŋ ɨə˦˥ k 
+người	ŋ ɨə˨˨ j 
+ngưỡng	ŋ ɨə˨ˀ˥ ŋ 
+ngược	ŋ ɨə˨˩ k 
+ngượng	ŋ ɨə˨˩ˀ ŋ 
+ngạc	ŋ aː˨˩ k 
+ngại	ŋ aː˨˩ j 
+ngạo	ŋ aː˨˩ w 
+ngạt	ŋ aː˨˩ k 
+ngả	ŋ aː˨˨ˀ 
+ngải	ŋ aː˨˨ˀ j 
+ngấm	ŋ ə˦˥ m 
+ngấn	ŋ ə˦˥ ŋ 
+ngất	ŋ ə˦˥ k 
+ngấu	ŋ ə˦˥ w 
+ngấy	ŋ ə˦˥ j 
+ngầm	ŋ ə˦˨ m 
+ngần	ŋ ə˦˨ ŋ 
+ngầu	ŋ ə˦˨ w 
+ngẩm	ŋ ə˨˨ˀ m 
+ngẩn	ŋ ə˨˨ˀ ŋ 
+ngẩng	ŋ ə˨˨ˀ ŋ 
+ngẫm	ŋ ə˨ˀ˥ m 
+ngẫu	ŋ ə˨ˀ˥ w 
+ngậm	ŋ ə˨˩ m 
+ngập	ŋ ə˨˩ p 
+ngậy	ŋ ə˨˩ j 
+ngắm	ŋ a˦˥ m 
+ngắn	ŋ a˦˥ ŋ 
+ngắt	ŋ a˦˥ k 
+ngặt	ŋ a˨˩ k 
+ngọ	ŋ ɔː˨˩ 
+ngọc	ŋ ɔ˨˩ kp 
+ngọn	ŋ ɔː˨˩ ŋ 
+ngọng	ŋ ɔ˨˩ ŋm 
+ngọt	ŋ ɔː˨˩ k 
+ngỏ	ŋ ɔː˨˨ˀ 
+ngố	ŋ oː˦˥ 
+ngốc	ŋ o˦˥ kp 
+ngốn	ŋ oː˨˦ n 
+ngồi	ŋ oː˦˨ j 
+ngổn	ŋ oː˨˩˨ n 
+ngỗng	ŋ o˨ˀ˥ ŋm 
+ngộ	ŋ oː˨˩ 
+ngộp	ŋ oː˨˩ p 
+ngột	ŋ oː˨˩ t 
+ngớ	ŋ əː˦˥ 
+ngớp	ŋ əː˦˥ p 
+ngớt	ŋ əː˦˥ k 
+ngờ	ŋ əː˦˨ 
+ngời	ŋ əː˦˨ j 
+ngỡ	ŋ əː˨ˀ˥ 
+ngợi	ŋ əː˨˩ j 
+ngợm	ŋ əː˨˩ m 
+ngợp	ŋ əː˨˩ p 
+ngụ	ŋ uː˨˩ˀ 
+ngục	ŋ u˨˩ kp 
+ngụm	ŋ uː˨˩ˀ m 
+ngụp	ŋ uː˨˩ p 
+ngụy	ŋ uː˨˩ˀ j 
+ngủ	ŋ uː˨˩˨ 
+ngủi	ŋ uː˨˩˨ j 
+ngủm	ŋ uː˨˩˨ m 
+ngủn	ŋ uː˨˩˨ n 
+ngứa	ŋ ɨə˦˥ 
+ngừ	ŋ ɨː˨˨ 
+ngừa	ŋ ɨə˦˨ 
+ngừng	ŋ ɨ˦˨ ŋ 
+ngửa	ŋ ɨə˨˨ˀ 
+ngửi	ŋ ɨ˨˨ˀ j 
+ngữ	ŋ ɨː˨ˀ˥ 
+ngự	ŋ ɨː˨˩ˀ 
+ngựa	ŋ ɨə˨˩ 
+ngực	ŋ ɨ˨˩ k 
+nha	ɲ aː˨˥ 
+nhai	ɲ aː˨˥ j 
+nhan	ɲ aː˨˥ ŋ 
+nhang	ɲ aː˨˥ ŋ 
+nhanh	ɲ a˨˥ n 
+nhao	ɲ aː˨˥ w 
+nhat	ɲ aː˨˥ k 
+nhau	ɲ a˨˥ w 
+nhe	ɲ ɛː˨˥ 
+nheo	ɲ ɛː˨˥ w 
+nhi	ɲ iː˨˨ 
+nhiên	ɲ iə˨˨ n 
+nhiêu	ɲ iə˨˨ w 
+nhiếc	ɲ iə˦˥ k 
+nhiếp	ɲ iə˦˥ p 
+nhiều	ɲ iə˨˨ w 
+nhiễm	ɲ iə˨ˀ˥ m 
+nhiễu	ɲ iə˨ˀ˥ w 
+nhiệm	ɲ iə˨˩ˀ m 
+nhiệt	ɲ iə˨˩ t 
+nho	ɲ ɔː˨˥ 
+nhoi	ɲ ɔː˨˥ j 
+nhoà	ɲ w aː˦˨ 
+nhoáng	ɲ w aː˦˥ ŋ 
+nhoét	ɲ w ɛː˦˥ k 
+nhoẻn	ɲ w ɛː˨˨ˀ ŋ 
+nhu	ɲ uː˨˨ 
+nhung	ɲ u˨˥ ŋm 
+nhuyễn	ɲ w iə˨ˀ˥ n 
+nhuận	ɲ w ə˨˩ ŋ 
+nhuốm	ɲ uə˨˦ m 
+nhuộm	ɲ uə˨˩ˀ m 
+nhuỵ	ɲ w iː˨˩ˀ 
+nhà	ɲ aː˦˨ 
+nhài	ɲ aː˦˨ j 
+nhàm	ɲ aː˦˨ m 
+nhàn	ɲ aː˦˨ ŋ 
+nhàng	ɲ aː˦˨ ŋ 
+nhành	ɲ a˦˨ n 
+nhào	ɲ aː˦˨ w 
+nhàu	ɲ a˦˨ w 
+nhá	ɲ aː˦˥ 
+nhác	ɲ aː˦˥ k 
+nhách	ɲ a˦˥ c 
+nhái	ɲ aː˦˥ j 
+nhám	ɲ aː˦˥ m 
+nhánh	ɲ a˦˥ n 
+nháo	ɲ aː˦˥ w 
+nháp	ɲ aː˦˥ p 
+nhát	ɲ aː˦˥ k 
+nháy	ɲ a˦˥ j 
+nhâm	ɲ ə˨˥ m 
+nhân	ɲ ə˨˥ ŋ 
+nhât	ɲ ə˨˥ k 
+nhây	ɲ ə˨˥ j 
+nhã	ɲ aː˨ˀ˥ 
+nhãi	ɲ aː˨ˀ˥ j 
+nhãn	ɲ aː˨ˀ˥ n 
+nhãng	ɲ aː˨ˀ˥ ŋ 
+nhão	ɲ aː˨ˀ˥ w 
+nhè	ɲ ɛː˦˨ 
+nhé	ɲ ɛː˦˥ 
+nhéo	ɲ ɛː˦˥ w 
+nhép	ɲ ɛː˦˥ p 
+nhét	ɲ ɛː˦˥ k 
+nhì	ɲ iː˨˨ 
+nhìn	ɲ iː˨˨ n 
+nhí	ɲ iː˨˦ 
+nhích	ɲ i˦˥ c 
+nhím	ɲ iː˨˦ m 
+nhíp	ɲ iː˦˥ p 
+nhít	ɲ iː˦˥ t 
+nhíu	ɲ iː˨˦ w 
+nhòm	ɲ ɔː˦˨ m 
+nhóc	ɲ ɔ˦˥ kp 
+nhói	ɲ ɔː˦˥ j 
+nhóm	ɲ ɔː˦˥ m 
+nhón	ɲ ɔː˦˥ ŋ 
+nhót	ɲ ɔː˦˥ k 
+nhô	ɲ oː˨˥ 
+nhôm	ɲ oː˨˥ m 
+nhông	ɲ o˨˨ ŋm 
+nhôông	ɲ oː˨˥ ŋm 
+nhú	ɲ uː˨˦ 
+nhúc	ɲ u˦˥ kp 
+nhúm	ɲ uː˨˦ m 
+nhún	ɲ uː˨˦ n 
+nhúng	ɲ u˦˥ ŋm 
+nhút	ɲ uː˦˥ t 
+nhăm	ɲ a˨˥ m 
+nhăn	ɲ a˨˥ ŋ 
+nhăng	ɲ a˨˥ ŋ 
+nhĩ	ɲ iː˨ˀ˥ 
+nhũn	ɲ uː˨ˀ˥ n 
+nhũng	ɲ u˨ˀ˥ ŋm 
+nhơ	ɲ əː˨˥ 
+nhơi	ɲ əː˨˥ j 
+nhơn	ɲ əː˨˥ ŋ 
+như	ɲ ɨː˨˨ 
+nhưng	ɲ ɨ˨˥ ŋ 
+nhướn	ɲ ɨə˨˦ n 
+nhường	ɲ ɨə˨˨ ŋ 
+nhược	ɲ ɨə˨˩ k 
+nhượng	ɲ ɨə˨˩ˀ ŋ 
+nhạc	ɲ aː˨˩ k 
+nhại	ɲ aː˨˩ j 
+nhạn	ɲ aː˨˩ ŋ 
+nhạo	ɲ aː˨˩ w 
+nhạt	ɲ aː˨˩ k 
+nhạy	ɲ a˨˩ j 
+nhả	ɲ aː˨˨ˀ 
+nhảm	ɲ aː˨˨ˀ m 
+nhảy	ɲ a˨˨ˀ j 
+nhấc	ɲ ə˦˥ k 
+nhấm	ɲ ə˦˥ m 
+nhấn	ɲ ə˦˥ ŋ 
+nhấp	ɲ ə˦˥ p 
+nhất	ɲ ə˦˥ k 
+nhầm	ɲ ə˦˨ m 
+nhầy	ɲ ə˦˨ j 
+nhẩm	ɲ ə˨˨ˀ m 
+nhẫn	ɲ ə˨ˀ˥ n 
+nhậm	ɲ ə˨˩ m 
+nhận	ɲ ə˨˩ ŋ 
+nhập	ɲ ə˨˩ p 
+nhật	ɲ ə˨˩ k 
+nhậu	ɲ ə˨˩ w 
+nhắc	ɲ a˦˥ k 
+nhắm	ɲ a˦˥ m 
+nhắn	ɲ a˦˥ ŋ 
+nhắt	ɲ a˦˥ k 
+nhằm	ɲ a˦˨ m 
+nhằn	ɲ a˦˨ ŋ 
+nhằng	ɲ a˦˨ ŋ 
+nhẵn	ɲ a˨ˀ˥ n 
+nhặng	ɲ a˨˩ ŋ 
+nhặt	ɲ a˨˩ k 
+nhẹ	ɲ ɛː˨˩ 
+nhẹn	ɲ ɛː˨˩ ŋ 
+nhẹp	ɲ ɛː˨˩ p 
+nhẽo	ɲ ɛː˨ˀ˥ w 
+nhếch	ɲ e˦˥ c 
+nhể	ɲ eː˨˨ˀ 
+nhễ	ɲ eː˨ˀ˥ 
+nhện	ɲ eː˨˩ˀ n 
+nhỉ	ɲ iː˨˩˨ 
+nhỉnh	ɲ i˨˩˨ ɲ 
+nhị	ɲ iː˨˩ˀ 
+nhịn	ɲ iː˨˩ˀ n 
+nhịp	ɲ iː˨˩ p 
+nhọ	ɲ ɔː˨˩ 
+nhọc	ɲ ɔ˨˩ kp 
+nhọn	ɲ ɔː˨˩ ŋ 
+nhọt	ɲ ɔː˨˩ k 
+nhỏ	ɲ ɔː˨˨ˀ 
+nhỏng	ɲ ɔ˨˨ˀ ŋm 
+nhố	ɲ oː˦˥ 
+nhối	ɲ oː˦˥ j 
+nhốt	ɲ oː˦˥ t 
+nhồi	ɲ oː˦˨ j 
+nhổ	ɲ oː˨˨ˀ 
+nhổm	ɲ oː˨˨ˀ m 
+nhộn	ɲ oː˨˩ˀ n 
+nhộng	ɲ o˨˩ˀ ŋm 
+nhột	ɲ oː˨˩ t 
+nhớ	ɲ əː˦˥ 
+nhớn	ɲ əː˦˥ ŋ 
+nhớp	ɲ əː˦˥ p 
+nhớt	ɲ əː˦˥ k 
+nhờ	ɲ əː˦˨ 
+nhời	ɲ əː˦˨ j 
+nhờn	ɲ əː˦˨ ŋ 
+nhở	ɲ əː˨˨ˀ 
+nhởi	ɲ əː˨˨ˀ j 
+nhỡ	ɲ əː˨ˀ˥ 
+nhợn	ɲ əː˨˩ ŋ 
+nhợt	ɲ əː˨˩ k 
+nhục	ɲ u˨˩ kp 
+nhủ	ɲ uː˨˩˨ 
+nhủi	ɲ uː˨˩˨ j 
+nhức	ɲ ɨ˦˥ k 
+nhừ	ɲ ɨː˨˨ 
+nhử	ɲ ɨː˨˩˨ 
+những	ɲ ɨ˨ˀ˥ ŋ 
+nhựa	ɲ ɨə˨˩ 
+ni	n iː˨˨ 
+ninh	n i˨˨ ɲ 
+niu	n iː˨˨ w 
+niêm	n iə˨˨ m 
+niên	n iə˨˨ n 
+niêu	n iə˨˨ w 
+niềm	n iə˨˨ m 
+niền	n iə˨˨ n 
+niềng	n iə˨˨ ŋ 
+niễng	n iə˨ˀ˥ ŋ 
+niệm	n iə˨˩ˀ m 
+niệt	n iə˨˩ t 
+no	n ɔː˨˥ 
+noi	n ɔː˨˥ j 
+nom	n ɔː˨˥ m 
+non	n ɔː˨˥ ŋ 
+nong	n ɔ˨˥ ŋm 
+noãn	n w aː˨ˀ˥ n 
+nui	n uː˨˨ j 
+nung	n u˨˥ ŋm 
+nuy	n w iː˨˨ 
+nuôi	n uə˨˨ j 
+nuối	n uə˨˦ j 
+nuốt	n uə˦˥ t 
+nuột	n uə˨˩ t 
+ny	n iː˨˨ 
+nài	n aː˦˨ j 
+nàn	n aː˦˨ ŋ 
+nàng	n aː˦˨ ŋ 
+nành	n a˦˨ n 
+nào	n aː˦˨ w 
+này	n a˦˨ j 
+ná	n aː˦˥ 
+nách	n a˦˥ c 
+nái	n aː˦˥ j 
+nám	n aː˦˥ m 
+nán	n aː˦˥ ŋ 
+náng	n aː˦˥ ŋ 
+náo	n aː˦˥ w 
+nát	n aː˦˥ k 
+náu	n a˦˥ w 
+nâng	n ə˨˥ ŋ 
+nâu	n ə˨˥ w 
+nã	n aː˨ˀ˥ 
+não	n aː˨ˀ˥ w 
+nãy	n a˨ˀ˥ j 
+nè	n ɛː˦˨ 
+né	n ɛː˦˥ 
+ném	n ɛː˦˥ m 
+nén	n ɛː˦˥ ŋ 
+nép	n ɛː˦˥ p 
+nét	n ɛː˦˥ k 
+nê	n eː˨˥ 
+nêm	n eː˨˥ m 
+nên	n eː˨˨ n 
+nêu	n eː˨˥ w 
+ních	n i˦˥ c 
+nín	n iː˨˦ n 
+níu	n iː˨˦ w 
+nòi	n ɔː˦˨ j 
+nòng	n ɔ˦˨ ŋm 
+nó	n ɔː˦˥ 
+nóc	n ɔ˦˥ kp 
+nói	n ɔː˦˥ j 
+nón	n ɔː˦˥ ŋ 
+nóng	n ɔ˦˥ ŋm 
+nô	n oː˨˥ 
+nôi	n oː˨˥ j 
+nôm	n oː˨˥ m 
+nôn	n oː˨˨ n 
+nông	n o˨˨ ŋm 
+nõ	n ɔː˨ˀ˥ 
+nõn	n ɔː˨ˀ˥ n 
+nùi	n uː˨˨ j 
+nùng	n u˦˨ ŋm 
+núc	n u˦˥ kp 
+núi	n uː˨˦ j 
+núm	n uː˨˦ m 
+núp	n uː˦˥ p 
+nút	n uː˦˥ t 
+năm	n a˨˥ m 
+năng	n a˨˥ ŋ 
+nĩa	n iə˨ˀ˥ 
+nơ	n əː˨˥ 
+nơi	n əː˨˥ j 
+nương	n ɨə˨˨ ŋ 
+nước	n ɨə˦˥ k 
+nướng	n ɨə˨˦ ŋ 
+nướu	n ɨə˨˦ w 
+nười	n ɨə˨˨ j 
+nườm	n ɨə˨˨ m 
+nượp	n ɨə˨˩ p 
+nạ	n aː˨˩ 
+nạc	n aː˨˩ k 
+nại	n aː˨˩ j 
+nạm	n aː˨˩ m 
+nạn	n aː˨˩ ŋ 
+nạng	n aː˨˩ ŋ 
+nạo	n aː˨˩ w 
+nạp	n aː˨˩ p 
+nạt	n aː˨˩ k 
+nạy	n a˨˩ j 
+nải	n aː˨˨ˀ j 
+nản	n aː˨˨ˀ ŋ 
+nảy	n a˨˨ˀ j 
+nấc	n ə˦˥ k 
+nấm	n ə˦˥ m 
+nấp	n ə˦˥ p 
+nấu	n ə˦˥ w 
+nấy	n ə˦˥ j 
+nần	n ə˦˨ ŋ 
+nầy	n ə˦˨ j 
+nẩu	n ə˨˨ˀ w 
+nẩy	n ə˨˨ˀ j 
+nẫu	n ə˨ˀ˥ w 
+nập	n ə˨˩ p 
+nậy	n ə˨˩ j 
+nắm	n a˦˥ m 
+nắn	n a˦˥ ŋ 
+nắng	n a˦˥ ŋ 
+nắp	n a˦˥ p 
+nằm	n a˦˨ m 
+nằng	n a˦˨ ŋ 
+nẳm	n a˨˨ˀ m 
+nẵng	n a˨ˀ˥ ŋ 
+nặc	n a˨˩ k 
+nặn	n a˨˩ ŋ 
+nặng	n a˨˩ ŋ 
+nẹp	n ɛː˨˩ p 
+nẻ	n ɛː˨˨ˀ 
+nẻo	n ɛː˨˨ˀ w 
+nếm	n eː˦˥ m 
+nến	n eː˨˦ n 
+nếp	n eː˦˥ p 
+nết	n eː˦˥ t 
+nếu	n eː˦˥ w 
+nề	n eː˦˨ 
+nền	n eː˨˨ n 
+nể	n eː˨˨ˀ 
+nệm	n eː˨˩ m 
+nện	n eː˨˩ˀ n 
+nỉ	n iː˨˩˨ 
+nịch	n i˨˩ c 
+nịnh	n i˨˩ˀ ɲ 
+nịt	n iː˨˩ t 
+nọ	n ɔː˨˩ 
+nọc	n ɔ˨˩ kp 
+nọng	n ɔ˨˩ ŋm 
+nỏ	n ɔː˨˨ˀ 
+nốc	n o˦˥ kp 
+nối	n oː˦˥ j 
+nốt	n oː˦˥ t 
+nồi	n oː˦˨ j 
+nồng	n o˨˨ ŋm 
+nổ	n oː˨˨ˀ 
+nổi	n oː˨˨ˀ j 
+nỗ	n oː˨ˀ˥ 
+nỗi	n oː˨ˀ˥ j 
+nộ	n oː˨˩ 
+nội	n oː˨˩ j 
+nộm	n oː˨˩ m 
+nộp	n oː˨˩ p 
+nớ	n əː˦˥ 
+nới	n əː˦˥ j 
+nở	n əː˨˨ˀ 
+nỡ	n əː˨ˀ˥ 
+nợ	n əː˨˩ 
+nụ	n uː˨˩ˀ 
+nứa	n ɨə˦˥ 
+nức	n ɨ˦˥ k 
+nứng	n ɨ˦˥ ŋ 
+nứt	n ɨ˦˥ k 
+nừng	n ɨ˦˨ ŋ 
+nửa	n ɨə˨˨ˀ 
+nữ	n ɨː˨ˀ˥ 
+nữa	n ɨə˨ˀ˥ 
+nực	n ɨ˨˩ k 
+nựng	n ɨ˨˩ ŋ 
+o	ʔ ɔː˨˥ 
+oai	w aː˨˥ j 
+oan	w aː˨˥ ŋ 
+oanh	w a˨˥ n 
+oi	ʔ ɔː˨˥ j 
+ok	ʔ ɔ˨˥ kp 
+om	ʔ ɔː˨˥ m 
+ong	ʔ ɔ˨˥ ŋm 
+oà	w aː˦˨ 
+oách	w a˦˥ c 
+oái	w aː˦˥ j 
+oán	w aː˦˥ ŋ 
+oóc	ʔ ɔː˦˥ k 
+oải	w aː˨˨ˀ j 
+oắt	w a˦˥ k 
+oằn	w a˦˨ ŋ 
+oẳng	w a˨˨ˀ ŋ 
+oặt	w a˨˩ k 
+pa	p aː˨˥ 
+panh	p a˨˥ n 
+pao	p aː˨˥ w 
+pha	f aː˨˥ 
+phai	f aː˨˥ j 
+phan	f aː˨˥ ŋ 
+phang	f aː˨˥ ŋ 
+phanh	f a˨˥ n 
+phao	f aː˨˥ w 
+phau	f a˨˥ w 
+phay	f a˨˥ j 
+phe	f ɛː˨˥ 
+phen	f ɛː˨˥ ŋ 
+pheng	f ɛː˨˥ ŋ 
+phi	f iː˨˨ 
+phim	f iː˨˨ m 
+phin	f iː˨˨ n 
+phiu	f iː˨˨ w 
+phiên	f iə˨˨ n 
+phiếm	f iə˨˦ m 
+phiến	f iə˨˦ n 
+phiếu	f iə˨˦ w 
+phiền	f iə˨˨ n 
+pho	f ɔː˨˥ 
+phoi	f ɔː˨˥ j 
+phong	f ɔ˨˥ ŋm 
+phu	f uː˨˨ 
+phun	f uː˨˨ n 
+phuy	f w iː˨˨ 
+phà	f aː˦˨ 
+phàm	f aː˦˨ m 
+phàn	f aː˦˨ ŋ 
+phàng	f aː˦˨ ŋ 
+phào	f aː˦˨ w 
+phá	f aː˦˥ 
+phác	f aː˦˥ k 
+phách	f a˦˥ c 
+phái	f aː˦˥ j 
+phán	f aː˦˥ ŋ 
+pháo	f aː˦˥ w 
+pháp	f aː˦˥ p 
+phát	f aː˦˥ k 
+phân	f ə˨˥ ŋ 
+phây	f ə˨˥ j 
+phè	f ɛː˦˨ 
+phèn	f ɛː˦˨ ŋ 
+phèo	f ɛː˦˨ w 
+phép	f ɛː˦˥ p 
+phét	f ɛː˦˥ k 
+phê	f eː˨˥ 
+phên	f eː˨˨ n 
+phì	f iː˨˨ 
+phình	f i˨˨ ɲ 
+phí	f iː˨˦ 
+phía	f iə˦˥ 
+phích	f i˦˥ c 
+phím	f iː˨˦ m 
+phò	f ɔː˦˨ 
+phòi	f ɔː˦˨ j 
+phòng	f ɔ˦˨ ŋm 
+phó	f ɔː˦˥ 
+phóng	f ɔ˦˥ ŋm 
+phô	f oː˨˥ 
+phôi	f oː˨˥ j 
+phông	f o˨˨ ŋm 
+phù	f uː˨˨ 
+phùn	f uː˨˨ n 
+phùng	f u˦˨ ŋm 
+phú	f uː˨˦ 
+phúc	f u˦˥ kp 
+phút	f uː˦˥ t 
+phũ	f uː˨ˀ˥ 
+phơ	f əː˨˥ 
+phơi	f əː˨˥ j 
+phương	f ɨə˨˨ ŋ 
+phước	f ɨə˦˥ k 
+phường	f ɨə˨˨ ŋ 
+phượng	f ɨə˨˩ˀ ŋ 
+phượt	f ɨə˨˩ t 
+phạm	f aː˨˩ m 
+phạt	f aː˨˩ k 
+phả	f aː˨˨ˀ 
+phải	f aː˨˨ˀ j 
+phản	f aː˨˨ˀ ŋ 
+phấn	f ə˦˥ ŋ 
+phất	f ə˦˥ k 
+phần	f ə˦˨ ŋ 
+phẩm	f ə˨˨ˀ m 
+phẩy	f ə˨˨ˀ j 
+phẫu	f ə˨ˀ˥ w 
+phận	f ə˨˩ ŋ 
+phập	f ə˨˩ p 
+phật	f ə˨˩ k 
+phẳng	f a˨˨ˀ ŋ 
+phế	f eː˦˥ 
+phếch	f e˦˥ c 
+phết	f eː˦˥ t 
+phễu	f eː˨ˀ˥ w 
+phệ	f eː˨˩ 
+phỉ	f iː˨˩˨ 
+phỉnh	f i˨˩˨ ɲ 
+phị	f iː˨˩ˀ 
+phịch	f i˨˩ c 
+phọt	f ɔː˨˩ k 
+phỏng	f ɔ˨˨ˀ ŋm 
+phố	f oː˦˥ 
+phối	f oː˦˥ j 
+phốt	f oː˦˥ t 
+phồng	f o˨˨ ŋm 
+phổ	f oː˨˨ˀ 
+phổi	f oː˨˨ˀ j 
+phổng	f o˨˩˨ ŋm 
+phỗng	f o˨ˀ˥ ŋm 
+phới	f əː˦˥ j 
+phớt	f əː˦˥ k 
+phở	f əː˨˨ˀ 
+phụ	f uː˨˩ˀ 
+phục	f u˨˩ kp 
+phụng	f u˨˩ ŋm 
+phụt	f uː˨˩ t 
+phủ	f uː˨˩˨ 
+phủi	f uː˨˩˨ j 
+phức	f ɨ˦˥ k 
+phừng	f ɨ˦˨ ŋ 
+pin	p iː˨˨ n 
+pê	p eː˨˥ 
+pí	p iː˨˦ 
+pích	p i˦˥ c 
+píp	p iː˦˥ p 
+pô	p oː˨˥ 
+pương	p ɨə˨˨ ŋ 
+qua	k w aː˨˨ 
+quai	k w aː˨˨ j 
+quan	k w aː˨˨ n 
+quang	k w aː˨˨ ŋ 
+quanh	k w a˨˨ ɲ 
+quay	k w a˨˨ j 
+que	k w ɛː˨˨ 
+quen	k w ɛː˨˨ n 
+qui	k w iː˨˨ 
+quy	k w iː˨˨ 
+quyên	k w iə˨˨ n 
+quyến	k w iə˨˦ n 
+quyết	k w iə˦˥ t 
+quyền	k w iə˨˨ n 
+quyển	k w iə˨˩˨ n 
+quyện	k w iə˨˩ˀ n 
+quyệt	k w iə˨˩ t 
+quà	k w aː˨˨ 
+quàng	k w aː˨˨ ŋ 
+quành	k w a˨˨ ɲ 
+quào	k w aː˨˨ w 
+quá	k w aː˨˦ 
+quách	k w a˦˥ c 
+quái	k w aː˨˦ j 
+quán	k w aː˨˦ n 
+quáng	k w aː˨˦ ŋ 
+quánh	k w a˨˦ ɲ 
+quát	k w aː˦˥ t 
+quân	k w ə˨˨ n 
+quây	k w ə˨˨ j 
+quãng	k w aː˨ˀ˥ ŋ 
+què	k w ɛː˨˨ 
+qué	k w ɛː˨˦ 
+quét	k w ɛː˦˥ t 
+quê	k w eː˨˨ 
+quên	k w eː˨˨ n 
+quí	k w iː˨˦ 
+quít	k w iː˦˥ t 
+quý	k w iː˨˦ 
+quýnh	k w i˨˦ ɲ 
+quýt	k w iː˦˥ t 
+quăn	k w a˨˨ n 
+quăng	k w a˨˨ ŋ 
+quơ	k w əː˨˨ 
+quạ	k w aː˨˩ˀ 
+quạc	k w aː˨˩ k 
+quại	k w aː˨˩ˀ j 
+quạnh	k w a˨˩ˀ ɲ 
+quạt	k w aː˨˩ t 
+quạu	k w a˨˩ˀ w 
+quả	k w aː˨˩˨ 
+quản	k w aː˨˩˨ n 
+quảng	k w aː˨˩˨ ŋ 
+quảy	k w a˨˩˨ j 
+quấc	k w ə˦˥ k 
+quấn	k w ə˨˦ n 
+quất	k w ə˦˥ t 
+quấy	k w ə˨˦ j 
+quần	k w ə˨˨ n 
+quầng	k w ə˨˨ ŋ 
+quầy	k w ə˨˨ j 
+quẩn	k w ə˨˩˨ n 
+quẩy	k w ə˨˩˨ j 
+quẫy	k w ə˨ˀ˥ j 
+quận	k w ə˨˩ˀ n 
+quật	k w ə˨˩ t 
+quậy	k w ə˨˩ˀ j 
+quắt	k w a˦˥ t 
+quằn	k w a˨˨ n 
+quặm	k w a˨˩ˀ m 
+quặn	k w a˨˩ˀ n 
+quặng	k w a˨˩ˀ ŋ 
+quặt	k w a˨˩ t 
+quẹo	k w ɛː˨˩ˀ w 
+quẹt	k w ɛː˨˩ t 
+quẻ	k w ɛː˨˩˨ 
+quế	k w eː˨˦ 
+quết	k w eː˦˥ t 
+quỉ	k w iː˨˩˨ 
+quốc	k w oː˦˥ k 
+quở	k w əː˨˩˨ 
+quỳ	k w iː˨˨ 
+quỳnh	k w i˨˨ ɲ 
+quỵ	k w iː˨˩ˀ 
+quỵt	k w iː˨˩ t 
+quỷ	k w iː˨˩˨ 
+quỹ	k w iː˨ˀ˥ 
+ra	r aː˨˥ 
+rai	r aː˨˥ j 
+ram	r aː˨˥ m 
+ran	r aː˨˥ ŋ 
+rang	r aː˨˥ ŋ 
+ranh	r a˨˥ n 
+rao	r aː˨˥ w 
+rau	r a˨˥ w 
+ray	r a˨˥ j 
+ren	r ɛː˨˥ ŋ 
+reo	r ɛː˨˥ w 
+ri	r i˨˥ 
+ria	r iə˨˥ 
+rinh	r ɨ˨˥ n 
+riu	r i˨˥ w 
+riêng	r iː˨˥ ŋ 
+riêu	r iː˨˥ w 
+riết	r iː˦˥ k 
+riềng	r iː˦˨ ŋ 
+riệu	r iː˨˩ w 
+ro	r ɔː˨˥ 
+roi	r ɔː˨˥ j 
+rong	r ɔ˨˥ ŋm 
+room	r ɔː˨˥ m 
+ru	r u˨˥ 
+rum	r ɨ˨˥ m 
+run	r u˨˥ ŋm 
+rung	r u˨˥ ŋm 
+ruốc	r uː˦˥ k 
+ruồi	r uː˦˨ j 
+ruồng	r uː˦˨ ŋ 
+ruộng	r uː˨˩ ŋ 
+ruột	r uː˨˩ k 
+rà	r aː˦˨ 
+ràn	r aː˦˨ ŋ 
+ràng	r aː˦˨ ŋ 
+rành	r a˦˨ n 
+rào	r aː˦˨ w 
+rày	r a˦˨ j 
+rá	r aː˦˥ 
+rác	r aː˦˥ k 
+rách	r a˦˥ t 
+rái	r aː˦˥ j 
+rám	r aː˦˥ m 
+rán	r aː˦˥ ŋ 
+ráng	r aː˦˥ ŋ 
+ráo	r aː˦˥ w 
+ráp	r aː˦˥ p 
+rát	r aː˦˥ k 
+ráy	r a˦˥ j 
+râm	r ə˨˥ m 
+rân	r ə˨˥ ŋ 
+râu	r ə˨˥ w 
+rây	r ə˨˥ j 
+rã	r aː˨˨ˀ 
+rãi	r aː˨˨ˀ j 
+rãnh	r a˨˨ˀ n 
+rãy	r a˨˨ˀ j 
+rèm	r ɛː˦˨ m 
+rèn	r ɛː˦˨ ŋ 
+ré	r ɛː˦˥ 
+rén	r ɛː˦˥ ŋ 
+réo	r ɛː˦˥ w 
+rét	r ɛː˦˥ k 
+rê	r eː˨˥ 
+rên	r əː˨˥ n 
+rêu	r eː˨˥ w 
+rì	r i˦˨ 
+rìa	r iə˦˨ 
+rình	r ɨ˦˨ n 
+rìu	r i˦˨ w 
+rích	r ɨ˦˥ t 
+rít	r ɨ˦˥ t 
+ríu	r i˦˥ w 
+rò	r ɔː˦˨ 
+ròm	r ɔː˦˨ m 
+ròng	r ɔ˦˨ ŋm 
+róc	r ɔ˦˥ kp 
+rót	r ɔː˦˥ k 
+rô	r oː˨˥ 
+rông	r ɔ˨˥ ŋm 
+rõ	r ɔː˨˨ˀ 
+rùa	r uə˦˨ 
+rùm	r ɨ˦˨ m 
+rùn	r u˦˨ ŋm 
+rùng	r u˦˨ ŋm 
+rú	r u˦˥ 
+rúc	r u˦˥ kp 
+rún	r u˦˥ ŋm 
+rút	r u˦˥ kp 
+răn	r a˨˥ ŋ 
+răng	r a˨˥ ŋ 
+rũ	r u˨˨ˀ 
+rũa	r uə˨˨ˀ 
+rơ	r əː˨˥ 
+rơi	r əː˨˥ j 
+rơm	r əː˨˥ m 
+rưng	r ɨ˨˥ ŋ 
+rươi	r ɨː˨˥ j 
+rương	r ɨː˨˥ ŋ 
+rước	r ɨː˦˥ k 
+rưới	r ɨː˦˥ j 
+rướm	r ɨː˦˥ m 
+rướn	r ɨː˦˥ ŋ 
+rường	r ɨː˦˨ ŋ 
+rưởi	r ɨː˨˨ˀ j 
+rưỡi	r ɨː˨˨ˀ j 
+rượi	r ɨː˨˩ j 
+rượt	r ɨː˨˩ k 
+rượu	r ɨː˨˩ w 
+rạ	r aː˨˩ 
+rạc	r aː˨˩ k 
+rạch	r a˨˩ t 
+rạn	r aː˨˩ ŋ 
+rạng	r aː˨˩ ŋ 
+rạo	r aː˨˩ w 
+rạp	r aː˨˩ p 
+rạt	r aː˨˩ k 
+rải	r aː˨˨ˀ j 
+rảnh	r a˨˨ˀ n 
+rảo	r aː˨˨ˀ w 
+rảy	r a˨˨ˀ j 
+rấm	r ə˦˥ m 
+rấn	r ə˦˥ ŋ 
+rấp	r ə˦˥ p 
+rất	r ə˦˥ k 
+rầm	r ə˦˨ m 
+rầu	r ə˦˨ w 
+rầy	r ə˦˨ j 
+rẩy	r ə˨˨ˀ j 
+rẫy	r ə˨˨ˀ j 
+rậm	r ə˨˩ m 
+rận	r ə˨˩ ŋ 
+rập	r ə˨˩ p 
+rắc	r a˦˥ k 
+rắm	r a˦˥ m 
+rắn	r a˦˥ ŋ 
+rắp	r a˦˥ p 
+rắt	r a˦˥ k 
+rằm	r a˦˨ m 
+rằn	r a˦˨ ŋ 
+rằng	r a˦˨ ŋ 
+rặn	r a˨˩ ŋ 
+rặng	r a˨˩ ŋ 
+rẻ	r ɛː˨˨ˀ 
+rẻo	r ɛː˨˨ˀ w 
+rẽ	r ɛː˨˨ˀ 
+rế	r eː˦˥ 
+rếch	r əː˦˥ t 
+rết	r əː˦˥ t 
+rề	r eː˦˨ 
+rền	r əː˦˨ n 
+rể	r eː˨˨ˀ 
+rễ	r eː˨˨ˀ 
+rệ	r eː˨˩ 
+rệp	r eː˨˩ p 
+rệt	r əː˨˩ t 
+rỉ	r i˨˨ˀ 
+rỉa	r iə˨˨ˀ 
+rịch	r ɨ˨˩ t 
+rịn	r ɨ˨˩ n 
+rọ	r ɔː˨˩ 
+rọc	r ɔ˨˩ kp 
+rọi	r ɔː˨˩ j 
+rối	r oː˦˥ j 
+rốn	r o˦˥ ŋ 
+rống	r ɔ˦˥ ŋm 
+rốt	r o˦˥ k 
+rồ	r oː˦˨ 
+rồi	r oː˦˨ j 
+rồng	r ɔ˦˨ ŋm 
+rổ	r oː˨˨ˀ 
+rỗi	r oː˨˨ˀ j 
+rỗng	r ɔ˨˨ˀ ŋm 
+rộ	r oː˨˩ 
+rộn	r o˨˩ ŋ 
+rộng	r ɔ˨˩ ŋm 
+rớ	r əː˦˥ 
+rớm	r əː˦˥ m 
+rớp	r əː˦˥ p 
+rớt	r əː˦˥ k 
+rờ	r əː˦˨ 
+rời	r əː˦˨ j 
+rờn	r əː˦˨ ŋ 
+rởm	r əː˨˨ˀ m 
+rỡ	r əː˨˨ˀ 
+rợ	r əː˨˩ 
+rợn	r əː˨˩ ŋ 
+rợp	r əː˨˩ p 
+rục	r u˨˩ kp 
+rụi	r u˨˩ j 
+rụng	r u˨˩ ŋm 
+rụt	r u˨˩ kp 
+rủ	r u˨˨ˀ 
+rủa	r uə˨˨ˀ 
+rủi	r u˨˨ˀ j 
+rủn	r u˨˨ˀ ŋm 
+rứa	r ɨə˦˥ 
+rứt	r ɨ˦˥ k 
+rừng	r ɨ˦˨ ŋ 
+rử	r ɨ˨˨ˀ 
+rửa	r ɨə˨˨ˀ 
+rữa	r ɨə˨˨ˀ 
+rựa	r ɨə˨˩ 
+rực	r ɨ˨˩ k 
+sa	s aː˨˥ 
+sai	s aː˨˥ j 
+sam	s aː˨˥ m 
+san	s aː˨˥ ŋ 
+sang	s aː˨˥ ŋ 
+sanh	s a˨˥ n 
+sao	s aː˨˥ w 
+sau	s a˨˥ w 
+say	s a˨˥ j 
+se	s ɛː˨˥ 
+sen	s ɛː˨˥ ŋ 
+seo	s ɛː˨˥ w 
+si	s iː˨˨ 
+sim	s iː˨˨ m 
+sin	s iː˨˨ n 
+sing	s i˨˨ ɲ 
+sinh	s i˨˨ ɲ 
+siêng	s iə˨˨ ŋ 
+siêu	s iə˨˨ w 
+siết	s iə˦˥ t 
+so	s ɔː˨˥ 
+soi	s ɔː˨˥ j 
+son	s ɔː˨˥ ŋ 
+song	s ɔ˨˥ ŋm 
+soài	s w aː˦˨ j 
+soát	s w aː˦˥ k 
+soóc	s ɔː˦˥ k 
+soạn	s w aː˨˩ ŋ 
+soọc	s ɔː˨˩ k 
+su	s uː˨˨ 
+sui	s uː˨˨ j 
+sum	s uː˨˨ m 
+sun	s uː˨˨ n 
+sung	s u˨˥ ŋm 
+suy	s w iː˨˨ 
+suyễn	s w iə˨ˀ˥ n 
+suôn	s uə˨˨ n 
+suýt	s w iː˦˥ t 
+suất	s w ə˦˥ k 
+suối	s uə˨˦ j 
+suốt	s uə˦˥ t 
+suỵt	s w iː˨˩ t 
+sà	s aː˦˨ 
+sài	s aː˦˨ j 
+sàn	s aː˦˨ ŋ 
+sàng	s aː˦˨ ŋ 
+sành	s a˦˨ n 
+sào	s aː˦˨ w 
+sá	s aː˦˥ 
+sách	s a˦˥ c 
+sái	s aː˦˥ j 
+sám	s aː˦˥ m 
+sán	s aː˦˥ ŋ 
+sáng	s aː˦˥ ŋ 
+sánh	s a˦˥ n 
+sáo	s aː˦˥ w 
+sáp	s aː˦˥ p 
+sát	s aː˦˥ k 
+sáu	s a˦˥ w 
+sâm	s ə˨˥ m 
+sân	s ə˨˥ ŋ 
+sâu	s ə˨˥ w 
+sãi	s aː˨ˀ˥ j 
+séc	s ɛː˦˥ k 
+sét	s ɛː˦˥ k 
+sên	s eː˨˨ n 
+sênh	s e˨˨ ɲ 
+sình	s i˨˨ ɲ 
+sính	s i˨˦ ɲ 
+síp	s iː˦˥ p 
+sít	s iː˦˥ t 
+sò	s ɔː˦˨ 
+sòng	s ɔ˦˨ ŋm 
+sóc	s ɔ˦˥ kp 
+sói	s ɔː˦˥ j 
+sóng	s ɔ˦˥ ŋm 
+sót	s ɔː˦˥ k 
+sô	s oː˨˥ 
+sôi	s oː˨˥ j 
+sông	s o˨˨ ŋm 
+sõi	s ɔː˨ˀ˥ j 
+sùi	s uː˨˨ j 
+sùng	s u˦˨ ŋm 
+sú	s uː˨˦ 
+súc	s u˦˥ kp 
+sún	s uː˨˦ n 
+súng	s u˦˥ ŋm 
+sút	s uː˦˥ t 
+săm	s a˨˥ m 
+săn	s a˨˥ ŋ 
+sĩ	s iː˨ˀ˥ 
+sũng	s u˨ˀ˥ ŋm 
+sơ	s əː˨˥ 
+sơn	s əː˨˥ ŋ 
+sư	s ɨː˨˨ 
+sưa	s ɨə˨˥ 
+sưng	s ɨ˨˥ ŋ 
+sưu	s ɨ˨˥ w 
+sương	s ɨə˨˨ ŋ 
+sướng	s ɨə˨˦ ŋ 
+sướt	s ɨə˦˥ t 
+sườn	s ɨə˨˨ n 
+sưởi	s ɨə˨˩˨ j 
+sượng	s ɨə˨˩ˀ ŋ 
+sạc	s aː˨˩ k 
+sạch	s a˨˩ c 
+sạm	s aː˨˩ m 
+sạn	s aː˨˩ ŋ 
+sạp	s aː˨˩ p 
+sạt	s aː˨˩ k 
+sả	s aː˨˨ˀ 
+sải	s aː˨˨ˀ j 
+sản	s aː˨˨ˀ ŋ 
+sảnh	s a˨˨ˀ n 
+sảo	s aː˨˨ˀ w 
+sảy	s a˨˨ˀ j 
+sấm	s ə˦˥ m 
+sấp	s ə˦˥ p 
+sấu	s ə˦˥ w 
+sấy	s ə˦˥ j 
+sầm	s ə˦˨ m 
+sầu	s ə˦˨ w 
+sầy	s ə˦˨ j 
+sẩm	s ə˨˨ˀ m 
+sẩy	s ə˨˨ˀ j 
+sẫm	s ə˨ˀ˥ m 
+sậm	s ə˨˩ m 
+sập	s ə˨˩ p 
+sậy	s ə˨˩ j 
+sắc	s a˦˥ k 
+sắm	s a˦˥ m 
+sắn	s a˦˥ ŋ 
+sắp	s a˦˥ p 
+sắt	s a˦˥ k 
+sẳn	s a˨˨ˀ ŋ 
+sẵn	s a˨ˀ˥ n 
+sặc	s a˨˩ k 
+sẹo	s ɛː˨˩ w 
+sẻ	s ɛː˨˨ˀ 
+sẽ	s ɛː˨ˀ˥ 
+sến	s eː˨˦ n 
+sếp	s eː˦˥ p 
+sếu	s eː˦˥ w 
+sệt	s eː˨˩ t 
+sỉ	s iː˨˩˨ 
+sỉa	s iə˨˨ˀ 
+sọ	s ɔː˨˩ 
+sọc	s ɔ˨˩ kp 
+sọt	s ɔː˨˩ k 
+sỏ	s ɔː˨˨ˀ 
+sỏi	s ɔː˨˨ˀ j 
+số	s oː˦˥ 
+sốc	s o˦˥ kp 
+sống	s o˨˦ ŋm 
+sốt	s oː˦˥ t 
+sồi	s oː˦˨ j 
+sổ	s oː˨˨ˀ 
+sổng	s o˨˩˨ ŋm 
+sớm	s əː˦˥ m 
+sớt	s əː˦˥ k 
+sờ	s əː˦˨ 
+sờn	s əː˦˨ ŋ 
+sở	s əː˨˨ˀ 
+sởi	s əː˨˨ˀ j 
+sởn	s əː˨˨ˀ ŋ 
+sợ	s əː˨˩ 
+sợi	s əː˨˩ j 
+sục	s u˨˩ kp 
+sụn	s uː˨˩ˀ n 
+sụp	s uː˨˩ p 
+sụt	s uː˨˩ t 
+sủa	s uə˨˨ˀ 
+sủi	s uː˨˩˨ j 
+sứ	s ɨː˨˦ 
+sứa	s ɨə˦˥ 
+sức	s ɨ˦˥ k 
+sứt	s ɨ˦˥ k 
+sừng	s ɨ˦˨ ŋ 
+sử	s ɨː˨˩˨ 
+sửa	s ɨə˨˨ˀ 
+sửng	s ɨ˨˨ˀ ŋ 
+sửu	s ɨ˨˨ˀ w 
+sữa	s ɨə˨ˀ˥ 
+sững	s ɨ˨ˀ˥ ŋ 
+sự	s ɨː˨˩ˀ 
+sực	s ɨ˨˩ k 
+sỹ	s iː˨ˀ˥ 
+ta	t aː˨˥ 
+tai	t aː˨˥ j 
+tam	t aː˨˥ m 
+tan	t aː˨˥ ŋ 
+tang	t aː˨˥ ŋ 
+tanh	t a˨˥ n 
+tao	t aː˨˥ w 
+tau	t a˨˥ w 
+tay	t a˨˥ j 
+tem	t ɛː˨˥ m 
+teo	t ɛː˨˥ w 
+tha	tʰ aː˨˥ 
+thai	tʰ aː˨˥ j 
+tham	tʰ aː˨˥ m 
+than	tʰ aː˨˥ ŋ 
+thang	tʰ aː˨˥ ŋ 
+thanh	tʰ a˨˥ n 
+thao	tʰ aː˨˥ w 
+thau	tʰ a˨˥ w 
+thay	tʰ a˨˥ j 
+the	tʰ ɛː˨˥ 
+then	tʰ ɛː˨˥ ŋ 
+theo	tʰ ɛː˨˥ w 
+thi	tʰ iː˨˨ 
+thinh	tʰ i˨˨ ɲ 
+thiu	tʰ iː˨˨ w 
+thiêm	tʰ iə˨˨ m 
+thiên	tʰ iə˨˨ n 
+thiêng	tʰ iə˨˨ ŋ 
+thiêu	tʰ iə˨˨ w 
+thiếc	tʰ iə˦˥ k 
+thiến	tʰ iə˨˦ n 
+thiếp	tʰ iə˦˥ p 
+thiết	tʰ iə˦˥ t 
+thiếu	tʰ iə˨˦ w 
+thiền	tʰ iə˨˨ n 
+thiểu	tʰ iə˨˩˨ w 
+thiện	tʰ iə˨˩ˀ n 
+thiệp	tʰ iə˨˩ p 
+thiệt	tʰ iə˨˩ t 
+thiệu	tʰ iə˨˩ˀ w 
+tho	tʰ ɔː˨˥ 
+thoa	tʰ w aː˨˥ 
+thoai	tʰ w aː˨˥ j 
+thoang	tʰ w aː˨˥ ŋ 
+thoi	tʰ ɔː˨˥ j 
+thon	tʰ ɔː˨˥ ŋ 
+thong	tʰ ɔ˨˥ ŋm 
+thoái	tʰ w aː˦˥ j 
+thoáng	tʰ w aː˦˥ ŋ 
+thoát	tʰ w aː˦˥ k 
+thoại	tʰ w aː˨˩ j 
+thoạt	tʰ w aː˨˩ k 
+thoả	tʰ w aː˨˨ˀ 
+thoải	tʰ w aː˨˨ˀ j 
+thoảng	tʰ w aː˨˨ˀ ŋ 
+thu	tʰ uː˨˨ 
+thua	tʰ uə˨˥ 
+thui	tʰ uː˨˨ j 
+thun	tʰ uː˨˨ n 
+thung	tʰ u˨˥ ŋm 
+thuyên	tʰ w iə˨˨ n 
+thuyết	tʰ w iə˦˥ t 
+thuyền	tʰ w iə˨˨ n 
+thuê	tʰ w eː˨˥ 
+thuôn	tʰ uə˨˨ n 
+thuý	tʰ w iː˨˦ 
+thuần	tʰ w ə˦˨ ŋ 
+thuẫn	tʰ w ə˨ˀ˥ n 
+thuận	tʰ w ə˨˩ ŋ 
+thuật	tʰ w ə˨˩ k 
+thuế	tʰ w eː˦˥ 
+thuốc	tʰ uə˦˥ k 
+thuổng	tʰ uə˨˩˨ ŋ 
+thuộc	tʰ uə˨˩ k 
+thuột	tʰ uə˨˩ t 
+thuở	tʰ uə˨˨ˀ 
+thuỳ	tʰ w iː˨˨ 
+thuỵ	tʰ w iː˨˩ˀ 
+thuỷ	tʰ w iː˨˩˨ 
+thyền	tʰ iə˨˨ n 
+thà	tʰ aː˦˨ 
+thành	tʰ a˦˨ n 
+thào	tʰ aː˦˨ w 
+thác	tʰ aː˦˥ k 
+thách	tʰ a˦˥ c 
+thái	tʰ aː˦˥ j 
+thám	tʰ aː˦˥ m 
+thán	tʰ aː˦˥ ŋ 
+tháng	tʰ aː˦˥ ŋ 
+thánh	tʰ a˦˥ n 
+tháo	tʰ aː˦˥ w 
+tháp	tʰ aː˦˥ p 
+tháu	tʰ a˦˥ w 
+tháy	tʰ a˦˥ j 
+thâm	tʰ ə˨˥ m 
+thân	tʰ ə˨˥ ŋ 
+thâu	tʰ ə˨˥ w 
+thây	tʰ ə˨˥ j 
+thè	tʰ ɛː˦˨ 
+thèm	tʰ ɛː˦˨ m 
+thép	tʰ ɛː˦˥ p 
+thét	tʰ ɛː˦˥ k 
+thê	tʰ eː˨˥ 
+thêm	tʰ eː˨˥ m 
+thêu	tʰ eː˨˥ w 
+thì	tʰ iː˨˨ 
+thìa	tʰ iə˦˨ 
+thìn	tʰ iː˨˨ n 
+thình	tʰ i˨˨ ɲ 
+thí	tʰ iː˨˦ 
+thích	tʰ i˦˥ c 
+thím	tʰ iː˨˦ m 
+thính	tʰ i˨˦ ɲ 
+thò	tʰ ɔː˦˨ 
+thòi	tʰ ɔː˦˨ j 
+thòng	tʰ ɔ˦˨ ŋm 
+thóc	tʰ ɔ˦˥ kp 
+thói	tʰ ɔː˦˥ j 
+thóp	tʰ ɔː˦˥ p 
+thót	tʰ ɔː˦˥ k 
+thô	tʰ oː˨˥ 
+thôi	tʰ oː˨˥ j 
+thôn	tʰ oː˨˨ n 
+thông	tʰ o˨˨ ŋm 
+thù	tʰ uː˨˨ 
+thùa	tʰ uə˦˨ 
+thùng	tʰ u˦˨ ŋm 
+thùy	tʰ uː˨˨ j 
+thú	tʰ uː˨˦ 
+thúc	tʰ u˦˥ kp 
+thúi	tʰ uː˨˦ j 
+thúng	tʰ u˦˥ ŋm 
+thúy	tʰ uː˨˦ j 
+thăm	tʰ a˨˥ m 
+thăn	tʰ a˨˥ ŋ 
+thăng	tʰ a˨˥ ŋ 
+thơ	tʰ əː˨˥ 
+thơi	tʰ əː˨˥ j 
+thơm	tʰ əː˨˥ m 
+thư	tʰ ɨː˨˨ 
+thưa	tʰ ɨə˨˥ 
+thương	tʰ ɨə˨˨ ŋ 
+thước	tʰ ɨə˦˥ k 
+thướt	tʰ ɨə˦˥ t 
+thường	tʰ ɨə˨˨ ŋ 
+thưởng	tʰ ɨə˨˩˨ ŋ 
+thược	tʰ ɨə˨˩ k 
+thượng	tʰ ɨə˨˩ˀ ŋ 
+thạc	tʰ aː˨˩ k 
+thạch	tʰ a˨˩ c 
+thạo	tʰ aː˨˩ w 
+thả	tʰ aː˨˨ˀ 
+thải	tʰ aː˨˨ˀ j 
+thảm	tʰ aː˨˨ˀ m 
+thản	tʰ aː˨˨ˀ ŋ 
+thảnh	tʰ a˨˨ˀ n 
+thảo	tʰ aː˨˨ˀ w 
+thảy	tʰ a˨˨ˀ j 
+thấm	tʰ ə˦˥ m 
+thấp	tʰ ə˦˥ p 
+thất	tʰ ə˦˥ k 
+thấu	tʰ ə˦˥ w 
+thấy	tʰ ə˦˥ j 
+thầm	tʰ ə˦˨ m 
+thần	tʰ ə˦˨ ŋ 
+thầu	tʰ ə˦˨ w 
+thầy	tʰ ə˦˨ j 
+thẩm	tʰ ə˨˨ˀ m 
+thẩn	tʰ ə˨˨ˀ ŋ 
+thẩy	tʰ ə˨˨ˀ j 
+thậm	tʰ ə˨˩ m 
+thận	tʰ ə˨˩ ŋ 
+thập	tʰ ə˨˩ p 
+thật	tʰ ə˨˩ k 
+thắc	tʰ a˦˥ k 
+thắm	tʰ a˦˥ m 
+thắn	tʰ a˦˥ ŋ 
+thắng	tʰ a˦˥ ŋ 
+thắp	tʰ a˦˥ p 
+thắt	tʰ a˦˥ k 
+thằn	tʰ a˦˨ ŋ 
+thằng	tʰ a˦˨ ŋ 
+thẳm	tʰ a˨˨ˀ m 
+thẳng	tʰ a˨˨ˀ ŋ 
+thẹn	tʰ ɛː˨˩ ŋ 
+thẹo	tʰ ɛː˨˩ w 
+thẻ	tʰ ɛː˨˨ˀ 
+thế	tʰ eː˦˥ 
+thề	tʰ eː˦˨ 
+thềm	tʰ eː˦˨ m 
+thều	tʰ eː˦˨ w 
+thể	tʰ eː˨˨ˀ 
+thỉnh	tʰ i˨˩˨ ɲ 
+thỉu	tʰ iː˨˩˨ w 
+thị	tʰ iː˨˩ˀ 
+thịch	tʰ i˨˩ c 
+thịnh	tʰ i˨˩ˀ ɲ 
+thịt	tʰ iː˨˩ t 
+thọ	tʰ ɔː˨˩ 
+thọc	tʰ ɔ˨˩ kp 
+thọt	tʰ ɔː˨˩ k 
+thỏ	tʰ ɔː˨˨ˀ 
+thỏa	tʰ w aː˨˨ˀ 
+thốc	tʰ o˦˥ kp 
+thối	tʰ oː˦˥ j 
+thốn	tʰ oː˨˦ n 
+thống	tʰ o˨˦ ŋm 
+thốt	tʰ oː˦˥ t 
+thồ	tʰ oː˦˨ 
+thồn	tʰ oː˨˨ n 
+thổ	tʰ oː˨˨ˀ 
+thổi	tʰ oː˨˨ˀ j 
+thổn	tʰ oː˨˩˨ n 
+thớt	tʰ əː˦˥ k 
+thờ	tʰ əː˦˨ 
+thời	tʰ əː˦˨ j 
+thở	tʰ əː˨˨ˀ 
+thợ	tʰ əː˨˩ 
+thụ	tʰ uː˨˩ˀ 
+thục	tʰ u˨˩ kp 
+thụt	tʰ uː˨˩ t 
+thụy	tʰ uː˨˩ˀ j 
+thủ	tʰ uː˨˩˨ 
+thủa	tʰ uə˨˨ˀ 
+thủi	tʰ uː˨˩˨ j 
+thủm	tʰ uː˨˩˨ m 
+thủng	tʰ u˨˨ˀ ŋm 
+thủy	tʰ uː˨˩˨ j 
+thứ	tʰ ɨː˨˦ 
+thức	tʰ ɨ˦˥ k 
+thừ	tʰ ɨː˨˨ 
+thừa	tʰ ɨə˦˨ 
+thừng	tʰ ɨ˦˨ ŋ 
+thử	tʰ ɨː˨˩˨ 
+thửa	tʰ ɨə˨˨ˀ 
+thự	tʰ ɨː˨˩ˀ 
+thực	tʰ ɨ˨˩ k 
+ti	t iː˨˨ 
+tia	t iə˨˥ 
+tim	t iː˨˨ m 
+tin	t iː˨˨ n 
+tinh	t i˨˨ ɲ 
+tiêm	t iə˨˨ m 
+tiên	t iə˨˨ n 
+tiêu	t iə˨˨ w 
+tiếc	t iə˦˥ k 
+tiến	t iə˨˦ n 
+tiếng	t iə˨˦ ŋ 
+tiếp	t iə˦˥ p 
+tiết	t iə˦˥ t 
+tiếu	t iə˨˦ w 
+tiềm	t iə˨˨ m 
+tiền	t iə˨˨ n 
+tiều	t iə˨˨ w 
+tiển	t iə˨˩˨ n 
+tiểng	t iə˨˩˨ ŋ 
+tiểu	t iə˨˩˨ w 
+tiễn	t iə˨ˀ˥ n 
+tiệc	t iə˨˩ k 
+tiệm	t iə˨˩ˀ m 
+tiện	t iə˨˩ˀ n 
+tiệp	t iə˨˩ p 
+to	t ɔː˨˥ 
+toa	t w aː˨˥ 
+toan	t w aː˨˥ ŋ 
+toang	t w aː˨˥ ŋ 
+toe	t w ɛː˨˥ 
+toi	t ɔː˨˥ j 
+ton	t ɔː˨˥ ŋ 
+tong	t ɔ˨˥ ŋm 
+toà	t w aː˦˨ 
+toàn	t w aː˦˨ ŋ 
+toác	t w aː˦˥ k 
+toái	t w aː˦˥ j 
+toán	t w aː˦˥ ŋ 
+toáng	t w aː˦˥ ŋ 
+toát	t w aː˦˥ k 
+toé	t w ɛː˦˥ 
+toét	t w ɛː˦˥ k 
+toạc	t w aː˨˩ k 
+toả	t w aː˨˨ˀ 
+tra	tɕ aː˨˨ 
+trai	tɕ aː˨˨ j 
+trang	tɕ aː˨˨ ŋ 
+tranh	tɕ a˨˨ ɲ 
+trao	tɕ aː˨˨ w 
+trau	tɕ a˨˨ w 
+tre	tɕ ɛː˨˨ 
+treo	tɕ ɛː˨˨ w 
+tri	tɕ iː˨˨ 
+tring	tɕ i˨˨ ɲ 
+trinh	tɕ i˨˨ ɲ 
+triết	tɕ iə˦˥ t 
+triền	tɕ iə˨˨ n 
+triều	tɕ iə˨˨ w 
+triển	tɕ iə˨˩˨ n 
+triện	tɕ iə˨˩ˀ n 
+triệt	tɕ iə˨˩ t 
+triệu	tɕ iə˨˩ˀ w 
+tro	tɕ ɔː˨˨ 
+trong	tɕ ɔ˨˨ ŋm 
+tru	tɕ uː˨˨ 
+trung	tɕ u˨˨ ŋm 
+truy	tɕ w iː˨˨ 
+truyền	tɕ w iə˨˨ n 
+truyện	tɕ w iə˨˩ˀ n 
+truông	tɕ uə˨˨ ŋ 
+truất	tɕ w ə˦˥ t 
+truồng	tɕ uə˨˨ ŋ 
+truờng	tɕ uə˨˨ ŋ 
+trà	tɕ aː˨˨ 
+tràm	tɕ aː˨˨ m 
+tràn	tɕ aː˨˨ n 
+tràng	tɕ aː˨˨ ŋ 
+trành	tɕ a˨˨ ɲ 
+trào	tɕ aː˨˨ w 
+trá	tɕ aː˨˦ 
+trác	tɕ aː˦˥ k 
+trách	tɕ a˦˥ c 
+trái	tɕ aː˨˦ j 
+trám	tɕ aː˨˦ m 
+trán	tɕ aː˨˦ n 
+tráng	tɕ aː˨˦ ŋ 
+tránh	tɕ a˨˦ ɲ 
+tráo	tɕ aː˨˦ w 
+tráp	tɕ aː˦˥ p 
+trát	tɕ aː˦˥ t 
+trâm	tɕ ə˨˨ m 
+trân	tɕ ə˨˨ n 
+trâu	tɕ ə˨˨ w 
+trã	tɕ aː˨ˀ˥ 
+trèo	tɕ ɛː˨˨ w 
+trét	tɕ ɛː˦˥ t 
+trên	tɕ eː˨˨ n 
+trêu	tɕ eː˨˨ w 
+trì	tɕ iː˨˨ 
+trình	tɕ i˨˨ ɲ 
+trí	tɕ iː˨˦ 
+trích	tɕ i˦˥ c 
+trính	tɕ i˨˦ ɲ 
+trò	tɕ ɔː˨˨ 
+tròn	tɕ ɔː˨˨ n 
+tròng	tɕ ɔ˨˨ ŋm 
+tróc	tɕ ɔ˦˥ kp 
+trói	tɕ ɔː˨˦ j 
+trót	tɕ ɔː˦˥ t 
+trôi	tɕ oː˨˨ j 
+trông	tɕ o˨˨ ŋm 
+trù	tɕ uː˨˨ 
+trùm	tɕ uː˨˨ m 
+trùn	tɕ uː˨˨ n 
+trùng	tɕ u˨˨ ŋm 
+trú	tɕ uː˨˦ 
+trúc	tɕ u˦˥ kp 
+trúng	tɕ u˨˦ ŋm 
+trút	tɕ uː˦˥ t 
+trăm	tɕ a˨˨ m 
+trăn	tɕ a˨˨ n 
+trăng	tɕ a˨˨ ŋ 
+trĩ	tɕ iː˨ˀ˥ 
+trĩu	tɕ iː˨ˀ˥ w 
+trũng	tɕ u˨ˀ˥ ŋm 
+trơ	tɕ əː˨˨ 
+trơn	tɕ əː˨˨ n 
+trư	tɕ ɨː˨˨ 
+trưa	tɕ ɨə˨˨ 
+trưng	tɕ ɨ˨˨ ŋ 
+trương	tɕ ɨə˨˨ ŋ 
+trước	tɕ ɨə˦˥ k 
+trườn	tɕ ɨə˨˨ n 
+trường	tɕ ɨə˨˨ ŋ 
+trưởng	tɕ ɨə˨˩˨ ŋ 
+trượng	tɕ ɨə˨˩ˀ ŋ 
+trượt	tɕ ɨə˨˩ t 
+trạc	tɕ aː˨˩ k 
+trại	tɕ aː˨˩ˀ j 
+trạm	tɕ aː˨˩ˀ m 
+trạng	tɕ aː˨˩ˀ ŋ 
+trả	tɕ aː˨˩˨ 
+trải	tɕ aː˨˩˨ j 
+trảm	tɕ aː˨˩˨ m 
+trảng	tɕ aː˨˩˨ ŋ 
+trấn	tɕ ə˨˦ n 
+trấu	tɕ ə˨˦ w 
+trầm	tɕ ə˨˨ m 
+trần	tɕ ə˨˨ n 
+trầu	tɕ ə˨˨ w 
+trầy	tɕ ə˨˨ j 
+trẩu	tɕ ə˨˩˨ w 
+trẫm	tɕ ə˨ˀ˥ m 
+trận	tɕ ə˨˩ˀ n 
+trật	tɕ ə˨˩ t 
+trắc	tɕ a˦˥ k 
+trắm	tɕ a˨˦ m 
+trắng	tɕ a˨˦ ŋ 
+trặc	tɕ a˨˩ k 
+trẹo	tɕ ɛː˨˩ˀ w 
+trẻ	tɕ ɛː˨˩˨ 
+trề	tɕ eː˨˨ 
+trển	tɕ eː˨˩˨ n 
+trễ	tɕ eː˨ˀ˥ 
+trệ	tɕ eː˨˩ˀ 
+trệt	tɕ eː˨˩ t 
+trị	tɕ iː˨˩ˀ 
+trịch	tɕ i˨˩ c 
+trịnh	tɕ i˨˩ˀ ɲ 
+trọ	tɕ ɔː˨˩ˀ 
+trọc	tɕ ɔ˨˩ kp 
+trọi	tɕ ɔː˨˩ˀ j 
+trọn	tɕ ɔː˨˩ˀ n 
+trọng	tɕ ɔ˨˩ˀ ŋm 
+trỏ	tɕ ɔː˨˩˨ 
+trỏng	tɕ ɔ˨˩˨ ŋm 
+trốc	tɕ o˦˥ kp 
+trối	tɕ oː˨˦ j 
+trốn	tɕ oː˨˦ n 
+trống	tɕ o˨˦ ŋm 
+trồ	tɕ oː˨˨ 
+trồi	tɕ oː˨˨ j 
+trồng	tɕ o˨˨ ŋm 
+trổ	tɕ oː˨˩˨ 
+trội	tɕ oː˨˩ˀ j 
+trộm	tɕ oː˨˩ˀ m 
+trộn	tɕ oː˨˩ˀ n 
+trớn	tɕ əː˨˦ n 
+trời	tɕ əː˨˨ j 
+trở	tɕ əː˨˩˨ 
+trợ	tɕ əː˨˩ˀ 
+trợn	tɕ əː˨˩ˀ n 
+trợt	tɕ əː˨˩ t 
+trụ	tɕ uː˨˩ˀ 
+trục	tɕ u˨˩ kp 
+trụi	tɕ uː˨˩ˀ j 
+trụng	tɕ u˨˩ˀ ŋm 
+trủ	tɕ uː˨˩˨ 
+trứng	tɕ ɨ˨˦ ŋ 
+trừ	tɕ ɨː˨˨ 
+trừng	tɕ ɨ˨˨ ŋ 
+trữ	tɕ ɨː˨ˀ˥ 
+trực	tɕ ɨ˨˩ k 
+tu	t uː˨˨ 
+tua	t uə˨˥ 
+tui	t uː˨˨ j 
+tum	t uː˨˨ m 
+tung	t u˨˥ ŋm 
+tuy	t w iː˨˨ 
+tuyên	t w iə˨˨ n 
+tuyến	t w iə˨˦ n 
+tuyết	t w iə˦˥ t 
+tuyền	t w iə˨˨ n 
+tuyển	t w iə˨˩˨ n 
+tuyệt	t w iə˨˩ t 
+tuân	t w ə˨˥ ŋ 
+tuôn	t uə˨˨ n 
+tuý	t w iː˨˦ 
+tuýp	t w iː˦˥ p 
+tuýt	t w iː˦˥ t 
+tuấn	t w ə˦˥ ŋ 
+tuất	t w ə˦˥ k 
+tuần	t w ə˦˨ ŋ 
+tuế	t w eː˦˥ 
+tuệ	t w eː˨˩ 
+tuốt	t uə˦˥ t 
+tuồng	t uə˨˨ ŋ 
+tuổi	t uə˨˩˨ j 
+tuột	t uə˨˩ t 
+tuỳ	t w iː˨˨ 
+tuỵ	t w iː˨˩ˀ 
+tuỷ	t w iː˨˩˨ 
+ty	t iː˨˨ 
+tà	t aː˦˨ 
+tài	t aː˦˨ j 
+tàn	t aː˦˨ ŋ 
+tàng	t aː˦˨ ŋ 
+tàu	t a˦˨ w 
+tày	t a˦˨ j 
+tá	t aː˦˥ 
+tác	t aː˦˥ k 
+tách	t a˦˥ c 
+tái	t aː˦˥ j 
+tám	t aː˦˥ m 
+tán	t aː˦˥ ŋ 
+táng	t aː˦˥ ŋ 
+tánh	t a˦˥ n 
+táo	t aː˦˥ w 
+táp	t aː˦˥ p 
+tát	t aː˦˥ k 
+tâm	t ə˨˥ m 
+tân	t ə˨˥ ŋ 
+tâng	t ə˨˥ ŋ 
+tâu	t ə˨˥ w 
+tây	t ə˨˥ j 
+tã	t aː˨ˀ˥ 
+tãi	t aː˨ˀ˥ j 
+tè	t ɛː˦˨ 
+té	t ɛː˦˥ 
+tém	t ɛː˦˥ m 
+tép	t ɛː˦˥ p 
+tét	t ɛː˦˥ k 
+tê	t eː˨˥ 
+têm	t eː˨˥ m 
+tên	t eː˨˨ n 
+tênh	t e˨˨ ɲ 
+tì	t iː˨˨ 
+tìm	t iː˨˨ m 
+tình	t i˨˨ ɲ 
+tí	t iː˨˦ 
+tía	t iə˦˥ 
+tích	t i˦˥ c 
+tím	t iː˨˦ m 
+tín	t iː˨˦ n 
+tính	t i˨˦ ɲ 
+típ	t iː˦˥ p 
+tít	t iː˦˥ t 
+tíu	t iː˨˦ w 
+tò	t ɔː˦˨ 
+tòa	t w aː˦˨ 
+tòi	t ɔː˦˨ j 
+tóc	t ɔ˦˥ kp 
+tóm	t ɔː˦˥ m 
+tóp	t ɔː˦˥ p 
+tót	t ɔː˦˥ k 
+tô	t oː˨˥ 
+tôi	t oː˨˥ j 
+tôm	t oː˨˥ m 
+tôn	t oː˨˨ n 
+tông	t o˨˨ ŋm 
+tõm	t ɔː˨ˀ˥ m 
+tù	t uː˨˨ 
+tùng	t u˦˨ ŋm 
+tùy	t uː˨˨ j 
+tú	t uː˨˦ 
+túa	t uə˦˥ 
+túc	t u˦˥ kp 
+túi	t uː˨˦ j 
+túm	t uː˨˦ m 
+túng	t u˦˥ ŋm 
+tút	t uː˦˥ t 
+túy	t uː˨˦ j 
+tý	t iː˨˦ 
+tăm	t a˨˥ m 
+tăn	t a˨˥ ŋ 
+tăng	t a˨˥ ŋ 
+tĩnh	t i˨ˀ˥ ɲ 
+tơ	t əː˨˥ 
+tơi	t əː˨˥ j 
+tư	t ɨː˨˨ 
+tưng	t ɨ˨˥ ŋ 
+tươi	t ɨə˨˨ j 
+tươm	t ɨə˨˨ m 
+tương	t ɨə˨˨ ŋ 
+tước	t ɨə˦˥ k 
+tưới	t ɨə˨˦ j 
+tướng	t ɨə˨˦ ŋ 
+tường	t ɨə˨˨ ŋ 
+tườu	t ɨə˨˨ w 
+tưởng	t ɨə˨˩˨ ŋ 
+tượng	t ɨə˨˩ˀ ŋ 
+tạ	t aː˨˩ 
+tạc	t aː˨˩ k 
+tại	t aː˨˩ j 
+tạm	t aː˨˩ m 
+tạng	t aː˨˩ ŋ 
+tạnh	t a˨˩ n 
+tạo	t aː˨˩ w 
+tạp	t aː˨˩ p 
+tạt	t aː˨˩ k 
+tả	t aː˨˨ˀ 
+tải	t aː˨˨ˀ j 
+tản	t aː˨˨ˀ ŋ 
+tảng	t aː˨˨ˀ ŋ 
+tảo	t aː˨˨ˀ w 
+tấc	t ə˦˥ k 
+tấm	t ə˦˥ m 
+tấn	t ə˦˥ ŋ 
+tấp	t ə˦˥ p 
+tất	t ə˦˥ k 
+tấu	t ə˦˥ w 
+tầm	t ə˦˨ m 
+tần	t ə˦˨ ŋ 
+tầng	t ə˦˨ ŋ 
+tẩm	t ə˨˨ˀ m 
+tẩn	t ə˨˨ˀ ŋ 
+tẩu	t ə˨˨ˀ w 
+tẩy	t ə˨˨ˀ j 
+tận	t ə˨˩ ŋ 
+tập	t ə˨˩ p 
+tật	t ə˨˩ k 
+tậu	t ə˨˩ w 
+tắc	t a˦˥ k 
+tắm	t a˦˥ m 
+tắn	t a˦˥ ŋ 
+tắp	t a˦˥ p 
+tắt	t a˦˥ k 
+tằm	t a˦˨ m 
+tặc	t a˨˩ k 
+tặng	t a˨˩ ŋ 
+tẹo	t ɛː˨˩ w 
+tẹt	t ɛː˨˩ k 
+tẻ	t ɛː˨˨ˀ 
+tế	t eː˦˥ 
+tếch	t e˦˥ c 
+tết	t eː˦˥ t 
+tể	t eː˨˨ˀ 
+tệ	t eː˨˩ 
+tệp	t eː˨˩ p 
+tỉ	t iː˨˩˨ 
+tỉa	t iə˨˨ˀ 
+tỉnh	t i˨˩˨ ɲ 
+tị	t iː˨˩ˀ 
+tịch	t i˨˩ c 
+tịnh	t i˨˩ˀ ɲ 
+tịt	t iː˨˩ t 
+tọp	t ɔː˨˩ p 
+tọt	t ɔː˨˩ k 
+tỏ	t ɔː˨˨ˀ 
+tỏa	t w aː˨˨ˀ 
+tỏi	t ɔː˨˨ˀ j 
+tỏm	t ɔː˨˨ˀ m 
+tố	t oː˦˥ 
+tốc	t o˦˥ kp 
+tối	t oː˦˥ j 
+tốn	t oː˨˦ n 
+tống	t o˨˦ ŋm 
+tốp	t oː˦˥ p 
+tốt	t oː˦˥ t 
+tồi	t oː˦˨ j 
+tồn	t oː˨˨ n 
+tổ	t oː˨˨ˀ 
+tổn	t oː˨˩˨ n 
+tổng	t o˨˩˨ ŋm 
+tộ	t oː˨˩ 
+tộc	t o˨˩ kp 
+tội	t oː˨˩ j 
+tột	t oː˨˩ t 
+tớ	t əː˦˥ 
+tới	t əː˦˥ j 
+tờ	t əː˦˨ 
+tởm	t əː˨˨ˀ m 
+tởn	t əː˨˨ˀ ŋ 
+tợ	t əː˨˩ 
+tợn	t əː˨˩ ŋ 
+tợp	t əː˨˩ p 
+tụ	t uː˨˩ˀ 
+tục	t u˨˩ kp 
+tụi	t uː˨˩ˀ j 
+tụm	t uː˨˩ˀ m 
+tụng	t u˨˩ ŋm 
+tụt	t uː˨˩ t 
+tủ	t uː˨˩˨ 
+tủi	t uː˨˩˨ j 
+tứ	t ɨː˨˦ 
+tức	t ɨ˦˥ k 
+từ	t ɨː˨˨ 
+từng	t ɨ˦˨ ŋ 
+tử	t ɨː˨˩˨ 
+tửu	t ɨ˨˨ˀ w 
+tự	t ɨː˨˩ˀ 
+tựa	t ɨə˨˩ 
+tựu	t ɨ˨˩ w 
+tỷ	t iː˨˩˨ 
+u	ʔ uː˨˨ 
+ung	ʔ u˨˥ ŋm 
+uy	w iː˨˨ 
+uyên	w iə˨˨ n 
+uyển	w iə˨˩˨ n 
+uên	w eː˨˨ n 
+uôn	ʔ uə˨˨ n 
+uý	w iː˨˦ 
+uất	w ə˦˥ k 
+uốn	ʔ uə˨˦ n 
+uống	ʔ uə˨˦ ŋ 
+uổng	ʔ uə˨˩˨ ŋ 
+va	v aː˨˥ 
+vai	v aː˨˥ j 
+van	v aː˨˥ ŋ 
+vang	v aː˨˥ ŋ 
+vay	v a˨˥ j 
+ve	v ɛː˨˥ 
+ven	v ɛː˨˥ ŋ 
+veo	v ɛː˨˥ w 
+vi	v iː˨˨ 
+vinh	v i˨˨ ɲ 
+viêm	v iə˨˨ m 
+viên	v iə˨˨ n 
+viêt	v iə˨˨ t 
+viếng	v iə˨˦ ŋ 
+viết	v iə˦˥ t 
+viền	v iə˨˨ n 
+viễn	v iə˨ˀ˥ n 
+việc	v iə˨˩ k 
+viện	v iə˨˩ˀ n 
+việt	v iə˨˩ t 
+vo	v ɔː˨˥ 
+voa	v w aː˨˥ 
+voan	v w aː˨˥ ŋ 
+voi	v ɔː˨˥ j 
+vong	v ɔ˨˥ ŋm 
+voọc	v ɔː˨˩ k 
+vu	v uː˨˨ 
+vua	v uə˨˥ 
+vui	v uː˨˨ j 
+vun	v uː˨˨ n 
+vung	v u˨˥ ŋm 
+vuông	v uə˨˨ ŋ 
+vuốt	v uə˦˥ t 
+vuột	v uə˨˩ t 
+vy	v iː˨˨ 
+và	v aː˦˨ 
+vài	v aː˦˨ j 
+vàn	v aː˦˨ ŋ 
+vàng	v aː˦˨ ŋ 
+vành	v a˦˨ n 
+vào	v aː˦˨ w 
+vá	v aː˦˥ 
+vác	v aː˦˥ k 
+vách	v a˦˥ c 
+vái	v aː˦˥ j 
+ván	v aː˦˥ ŋ 
+váng	v aː˦˥ ŋ 
+vánh	v a˦˥ n 
+vát	v aː˦˥ k 
+váy	v a˦˥ j 
+vân	v ə˨˥ ŋ 
+vâng	v ə˨˥ ŋ 
+vây	v ə˨˥ j 
+vã	v aː˨ˀ˥ 
+vãi	v aː˨ˀ˥ j 
+vè	v ɛː˦˨ 
+vèo	v ɛː˦˨ w 
+vé	v ɛː˦˥ 
+vén	v ɛː˦˥ ŋ 
+véo	v ɛː˦˥ w 
+vét	v ɛː˦˥ k 
+vê	v eː˨˥ 
+vênh	v e˨˨ ɲ 
+vì	v iː˨˨ 
+ví	v iː˨˦ 
+vía	v iə˦˥ 
+vích	v i˦˥ c 
+vít	v iː˦˥ t 
+víu	v iː˨˦ w 
+vò	v ɔː˦˨ 
+vòi	v ɔː˦˨ j 
+vòm	v ɔː˦˨ m 
+vòng	v ɔ˦˨ ŋm 
+vó	v ɔː˦˥ 
+vóc	v ɔ˦˥ kp 
+vón	v ɔː˦˥ ŋ 
+vót	v ɔː˦˥ k 
+vô	v oː˨˥ 
+vôi	v oː˨˥ j 
+vôn	v oː˨˨ n 
+vông	v o˨˨ ŋm 
+võ	v ɔː˨ˀ˥ 
+võng	v ɔ˨ˀ˥ ŋm 
+vù	v uː˨˨ 
+vùi	v uː˨˨ j 
+vùng	v u˦˨ ŋm 
+vú	v uː˨˦ 
+vút	v uː˦˥ t 
+văn	v a˨˥ ŋ 
+văng	v a˨˥ ŋ 
+vĩ	v iː˨ˀ˥ 
+vĩnh	v i˨ˀ˥ ɲ 
+vũ	v uː˨ˀ˥ 
+vũng	v u˨ˀ˥ ŋm 
+vơ	v əː˨˥ 
+vơi	v əː˨˥ j 
+vưu	v ɨ˨˥ w 
+vươn	v ɨə˨˨ n 
+vương	v ɨə˨˨ ŋ 
+vướng	v ɨə˨˦ ŋ 
+vườn	v ɨə˨˨ n 
+vượn	v ɨə˨˩ˀ n 
+vượng	v ɨə˨˩ˀ ŋ 
+vượt	v ɨə˨˩ t 
+vạ	v aː˨˩ 
+vạc	v aː˨˩ k 
+vạch	v a˨˩ c 
+vạn	v aː˨˩ ŋ 
+vạng	v aː˨˩ ŋ 
+vạt	v aː˨˩ k 
+vả	v aː˨˨ˀ 
+vải	v aː˨˨ˀ j 
+vảng	v aː˨˨ˀ ŋ 
+vảy	v a˨˨ˀ j 
+vấn	v ə˦˥ ŋ 
+vấp	v ə˦˥ p 
+vất	v ə˦˥ k 
+vấy	v ə˦˥ j 
+vần	v ə˦˨ ŋ 
+vầng	v ə˦˨ ŋ 
+vầy	v ə˦˨ j 
+vẩn	v ə˨˨ˀ ŋ 
+vẫn	v ə˨ˀ˥ n 
+vẫy	v ə˨ˀ˥ j 
+vận	v ə˨˩ ŋ 
+vật	v ə˨˩ k 
+vậy	v ə˨˩ j 
+vắng	v a˦˥ ŋ 
+vắt	v a˦˥ k 
+vằn	v a˦˨ ŋ 
+vẳng	v a˨˨ˀ ŋ 
+vặc	v a˨˩ k 
+vặn	v a˨˩ ŋ 
+vặt	v a˨˩ k 
+vẹm	v ɛː˨˩ m 
+vẹn	v ɛː˨˩ ŋ 
+vẹo	v ɛː˨˩ w 
+vẹt	v ɛː˨˩ k 
+vẻ	v ɛː˨˨ˀ 
+vẽ	v ɛː˨ˀ˥ 
+vế	v eː˦˥ 
+vết	v eː˦˥ t 
+vếu	v eː˦˥ w 
+về	v eː˦˨ 
+vểnh	v e˨˩˨ ɲ 
+vệ	v eː˨˩ 
+vện	v eː˨˩ˀ n 
+vệt	v eː˨˩ t 
+vỉ	v iː˨˩˨ 
+vỉa	v iə˨˨ˀ 
+vị	v iː˨˩ˀ 
+vịm	v iː˨˩ˀ m 
+vịn	v iː˨˩ˀ n 
+vịnh	v i˨˩ˀ ɲ 
+vịt	v iː˨˩ t 
+vọc	v ɔ˨˩ kp 
+vọng	v ɔ˨˩ ŋm 
+vọt	v ɔː˨˩ k 
+vỏ	v ɔː˨˨ˀ 
+vốc	v o˦˥ kp 
+vốn	v oː˨˦ n 
+vồ	v oː˦˨ 
+vồng	v o˨˨ ŋm 
+vỗ	v oː˨ˀ˥ 
+vội	v oː˨˩ j 
+vớ	v əː˦˥ 
+với	v əː˦˥ j 
+vớt	v əː˦˥ k 
+vờ	v əː˦˨ 
+vời	v əː˦˨ j 
+vờn	v əː˦˨ ŋ 
+vở	v əː˨˨ˀ 
+vỡ	v əː˨ˀ˥ 
+vợ	v əː˨˩ 
+vợi	v əː˨˩ j 
+vợt	v əː˨˩ k 
+vụ	v uː˨˩ˀ 
+vục	v u˨˩ kp 
+vụn	v uː˨˩ˀ n 
+vụng	v u˨˩ ŋm 
+vụt	v uː˨˩ t 
+vứt	v ɨ˦˥ k 
+vừa	v ɨə˦˨ 
+vừng	v ɨ˦˨ ŋ 
+vữa	v ɨə˨ˀ˥ 
+vững	v ɨ˨ˀ˥ ŋ 
+vựa	v ɨə˨˩ 
+vực	v ɨ˨˩ k 
+xa	s aː˨˥ 
+xang	s aː˨˥ ŋ 
+xanh	s a˨˥ n 
+xao	s aː˨˥ w 
+xay	s a˨˥ j 
+xe	s ɛː˨˥ 
+xem	s ɛː˨˥ m 
+xen	s ɛː˨˥ ŋ 
+xi	s iː˨˨ 
+xin	s iː˨˨ n 
+xinh	s i˨˨ ɲ 
+xiêm	s iə˨˨ m 
+xiên	s iə˨˨ n 
+xiêu	s iə˨˨ w 
+xiếc	s iə˦˥ k 
+xiết	s iə˦˥ t 
+xiềng	s iə˨˨ ŋ 
+xoa	s w aː˨˥ 
+xoang	s w aː˨˥ ŋ 
+xoay	s w a˨˥ j 
+xoe	s w ɛː˨˥ 
+xoi	s ɔː˨˥ j 
+xong	s ɔ˨˥ ŋm 
+xoong	s ɔː˨˥ ŋ 
+xoài	s w aː˦˨ j 
+xoàn	s w aː˦˨ ŋ 
+xoá	s w aː˦˥ 
+xoáy	s w a˦˥ j 
+xoã	s w aː˨ˀ˥ 
+xoè	s w ɛː˦˨ 
+xoăn	s w a˨˥ ŋ 
+xoạc	s w aː˨˩ k 
+xoắn	s w a˦˥ ŋ 
+xu	s uː˨˨ 
+xua	s uə˨˥ 
+xui	s uː˨˨ j 
+xung	s u˨˥ ŋm 
+xuyên	s w iə˨˨ n 
+xuyến	s w iə˨˦ n 
+xuân	s w ə˨˥ ŋ 
+xuôi	s uə˨˨ j 
+xuýt	s w iː˦˥ t 
+xuất	s w ə˦˥ k 
+xuống	s uə˨˦ ŋ 
+xuồng	s uə˨˨ ŋ 
+xà	s aː˦˨ 
+xài	s aː˦˨ j 
+xàm	s aː˦˨ m 
+xào	s aː˦˨ w 
+xá	s aː˦˥ 
+xác	s aː˦˥ k 
+xách	s a˦˥ c 
+xái	s aː˦˥ j 
+xám	s aː˦˥ m 
+xáo	s aː˦˥ w 
+xát	s aː˦˥ k 
+xáy	s a˦˥ j 
+xâm	s ə˨˥ m 
+xâu	s ə˨˥ w 
+xây	s ə˨˥ j 
+xã	s aː˨ˀ˥ 
+xèng	s ɛː˦˨ ŋ 
+xèo	s ɛː˦˨ w 
+xé	s ɛː˦˥ 
+xém	s ɛː˦˥ m 
+xén	s ɛː˦˥ ŋ 
+xéo	s ɛː˦˥ w 
+xét	s ɛː˦˥ k 
+xê	s eː˨˥ 
+xì	s iː˨˨ 
+xí	s iː˨˦ 
+xía	s iə˦˥ 
+xích	s i˦˥ c 
+xính	s i˨˦ ɲ 
+xít	s iː˦˥ t 
+xíu	s iː˨˦ w 
+xòa	s w aː˦˨ 
+xòe	s w ɛː˦˨ 
+xó	s ɔː˦˥ 
+xóa	s w aː˦˥ 
+xóc	s ɔ˦˥ kp 
+xói	s ɔː˦˥ j 
+xóm	s ɔː˦˥ m 
+xót	s ɔː˦˥ k 
+xô	s oː˨˥ 
+xôi	s oː˨˥ j 
+xôn	s oː˨˨ n 
+xông	s o˨˨ ŋm 
+xõa	s w aː˨ˀ˥ 
+xù	s uː˨˨ 
+xùy	s uː˨˨ j 
+xúc	s u˦˥ kp 
+xúi	s uː˨˦ j 
+xúm	s uː˨˦ m 
+xúng	s u˦˥ ŋm 
+xúp	s uː˦˥ p 
+xút	s uː˦˥ t 
+xăm	s a˨˥ m 
+xăng	s a˨˥ ŋ 
+xơ	s əː˨˥ 
+xơi	s əː˨˥ j 
+xưa	s ɨə˨˥ 
+xưng	s ɨ˨˥ ŋ 
+xương	s ɨə˨˨ ŋ 
+xước	s ɨə˦˥ k 
+xướng	s ɨə˨˦ ŋ 
+xưởng	s ɨə˨˩˨ ŋ 
+xạ	s aː˨˩ 
+xạc	s aː˨˩ k 
+xạch	s a˨˩ c 
+xạo	s aː˨˩ w 
+xả	s aː˨˨ˀ 
+xảo	s aː˨˨ˀ w 
+xảy	s a˨˨ˀ j 
+xấp	s ə˦˥ p 
+xấu	s ə˦˥ w 
+xẩm	s ə˨˨ˀ m 
+xắn	s a˦˥ ŋ 
+xắt	s a˦˥ k 
+xẹp	s ɛː˨˩ p 
+xẻ	s ɛː˨˨ˀ 
+xẻng	s ɛː˨˨ˀ ŋ 
+xẽ	s ɛː˨ˀ˥ 
+xế	s eː˦˥ 
+xếch	s e˦˥ c 
+xếp	s eː˦˥ p 
+xệ	s eː˨˩ 
+xệch	s e˨˩ c 
+xỉ	s iː˨˩˨ 
+xỉa	s iə˨˨ˀ 
+xỉn	s iː˨˩˨ n 
+xỉu	s iː˨˩˨ w 
+xị	s iː˨˩ˀ 
+xịn	s iː˨˩ˀ n 
+xịt	s iː˨˩ t 
+xỏ	s ɔː˨˨ˀ 
+xốc	s o˦˥ kp 
+xối	s oː˦˥ j 
+xốn	s oː˨˦ n 
+xống	s o˨˦ ŋm 
+xốp	s oː˦˥ p 
+xốt	s oː˦˥ t 
+xộn	s oː˨˩ˀ n 
+xới	s əː˦˥ j 
+xởi	s əː˨˨ˀ j 
+xứ	s ɨː˨˦ 
+xức	s ɨ˦˥ k 
+xứng	s ɨ˦˥ ŋ 
+xử	s ɨː˨˩˨ 
+xực	s ɨ˨˩ k 
+y	ʔ iː˨˨ 
+yên	ʔ iə˨˨ n 
+yêu	ʔ iə˨˨ w 
+yếm	ʔ iə˨˦ m 
+yến	ʔ iə˨˦ n 
+yết	ʔ iə˦˥ t 
+yếu	ʔ iə˨˦ w 
+yểm	ʔ iə˨˩˨ m 
+yểu	ʔ iə˨˩˨ w 
+à	ʔ aː˦˨ 
+àm	ʔ aː˦˨ m 
+ào	ʔ aː˦˨ w 
+á	ʔ aː˦˥ 
+ác	ʔ aː˦˥ k 
+ách	ʔ a˦˥ c 
+ái	ʔ aː˦˥ j 
+ám	ʔ aː˦˥ m 
+án	ʔ aː˦˥ ŋ 
+áng	ʔ aː˦˥ ŋ 
+ánh	ʔ a˦˥ n 
+áo	ʔ aː˦˥ w 
+áp	ʔ aː˦˥ p 
+át	ʔ aː˦˥ k 
+â	ʔ ə˨˥ 
+âm	ʔ ə˨˥ m 
+ân	ʔ ə˨˥ ŋ 
+âu	ʔ ə˨˥ w 
+ây	ʔ ə˨˥ j 
+éc	ʔ ɛː˦˥ k 
+ém	ʔ ɛː˦˥ m 
+én	ʔ ɛː˦˥ ŋ 
+éo	ʔ ɛː˦˥ w 
+ép	ʔ ɛː˦˥ p 
+ét	ʔ ɛː˦˥ k 
+ê	ʔ eː˨˥ 
+êm	ʔ eː˨˥ m 
+ì	ʔ iː˨˨ 
+í	ʔ iː˨˦ 
+ích	ʔ i˦˥ c 
+ít	ʔ iː˦˥ t 
+òa	w aː˦˨ 
+ó	ʔ ɔː˦˥ 
+óc	ʔ ɔ˦˥ kp 
+ói	ʔ ɔː˦˥ j 
+óng	ʔ ɔ˦˥ ŋm 
+ót	ʔ ɔː˦˥ k 
+ô	ʔ oː˨˥ 
+ôi	ʔ oː˨˥ j 
+ôm	ʔ oː˨˥ m 
+ôn	ʔ oː˨˨ n 
+ông	ʔ o˨˨ ŋm 
+ù	ʔ uː˨˨ 
+ùn	ʔ uː˨˨ n 
+ú	ʔ uː˨˦ 
+úa	ʔ uə˦˥ 
+úc	ʔ u˦˥ kp 
+úi	ʔ uː˨˦ j 
+úng	ʔ u˦˥ ŋm 
+úp	ʔ uː˦˥ p 
+út	ʔ uː˦˥ t 
+úy	ʔ uː˨˦ j 
+ý	ʔ iː˨˦ 
+ă	ʔ a˨˥ 
+ăn	ʔ a˨˥ ŋ 
+đa	ɗ aː˨˥ 
+đai	ɗ aː˨˥ j 
+đam	ɗ aː˨˥ m 
+đan	ɗ aː˨˥ ŋ 
+đang	ɗ aː˨˥ ŋ 
+đanh	ɗ a˨˥ n 
+đao	ɗ aː˨˥ w 
+đau	ɗ a˨˥ w 
+đay	ɗ a˨˥ j 
+đe	ɗ ɛː˨˥ 
+đem	ɗ ɛː˨˥ m 
+đen	ɗ ɛː˨˥ ŋ 
+đeo	ɗ ɛː˨˥ w 
+đi	ɗ iː˨˨ 
+đia	ɗ iə˨˥ 
+đinh	ɗ i˨˨ ɲ 
+điên	ɗ iə˨˨ n 
+điêu	ɗ iə˨˨ w 
+điếc	ɗ iə˦˥ k 
+điếm	ɗ iə˨˦ m 
+điếu	ɗ iə˨˦ w 
+điềm	ɗ iə˨˨ m 
+điền	ɗ iə˨˨ n 
+điều	ɗ iə˨˨ w 
+điểm	ɗ iə˨˩˨ m 
+điển	ɗ iə˨˩˨ n 
+điểu	ɗ iə˨˩˨ w 
+điện	ɗ iə˨˩ˀ n 
+điệp	ɗ iə˨˩ p 
+điệu	ɗ iə˨˩ˀ w 
+đo	ɗ ɔː˨˥ 
+đoan	ɗ w aː˨˥ ŋ 
+đong	ɗ ɔ˨˥ ŋm 
+đoàn	ɗ w aː˦˨ ŋ 
+đoàng	ɗ w aː˦˨ ŋ 
+đoá	ɗ w aː˦˥ 
+đoán	ɗ w aː˦˥ ŋ 
+đoạn	ɗ w aː˨˩ ŋ 
+đoạt	ɗ w aː˨˩ k 
+đoản	ɗ w aː˨˨ˀ ŋ 
+đu	ɗ uː˨˨ 
+đua	ɗ uə˨˥ 
+đun	ɗ uː˨˨ n 
+đung	ɗ u˨˥ ŋm 
+đuôi	ɗ uə˨˨ j 
+đuông	ɗ uə˨˨ ŋ 
+đuốc	ɗ uə˦˥ k 
+đuối	ɗ uə˨˦ j 
+đuổi	ɗ uə˨˩˨ j 
+đà	ɗ aː˦˨ 
+đài	ɗ aː˦˨ j 
+đàm	ɗ aː˦˨ m 
+đàn	ɗ aː˦˨ ŋ 
+đàng	ɗ aː˦˨ ŋ 
+đành	ɗ a˦˨ n 
+đào	ɗ aː˦˨ w 
+đày	ɗ a˦˨ j 
+đá	ɗ aː˦˥ 
+đác	ɗ aː˦˥ k 
+đái	ɗ aː˦˥ j 
+đám	ɗ aː˦˥ m 
+đán	ɗ aː˦˥ ŋ 
+đáng	ɗ aː˦˥ ŋ 
+đánh	ɗ a˦˥ n 
+đáo	ɗ aː˦˥ w 
+đáp	ɗ aː˦˥ p 
+đát	ɗ aː˦˥ k 
+đáy	ɗ a˦˥ j 
+đâm	ɗ ə˨˥ m 
+đâu	ɗ ə˨˥ w 
+đây	ɗ ə˨˥ j 
+đã	ɗ aː˨ˀ˥ 
+đãi	ɗ aː˨ˀ˥ j 
+đãng	ɗ aː˨ˀ˥ ŋ 
+đè	ɗ ɛː˦˨ 
+đèn	ɗ ɛː˦˨ ŋ 
+đèo	ɗ ɛː˦˨ w 
+đéo	ɗ ɛː˦˥ w 
+đê	ɗ eː˨˥ 
+đêm	ɗ eː˨˥ m 
+đênh	ɗ e˨˨ ɲ 
+đì	ɗ iː˨˨ 
+đìa	ɗ iə˦˨ 
+đình	ɗ i˨˨ ɲ 
+đìu	ɗ iː˨˨ w 
+đía	ɗ iə˦˥ 
+đích	ɗ i˦˥ c 
+đính	ɗ i˨˦ ɲ 
+đít	ɗ iː˦˥ t 
+đò	ɗ ɔː˦˨ 
+đòi	ɗ ɔː˦˨ j 
+đòm	ɗ ɔː˦˨ m 
+đòn	ɗ ɔː˦˨ ŋ 
+đó	ɗ ɔː˦˥ 
+đóa	ɗ w aː˦˥ 
+đói	ɗ ɔː˦˥ j 
+đóm	ɗ ɔː˦˥ m 
+đón	ɗ ɔː˦˥ ŋ 
+đóng	ɗ ɔ˦˥ ŋm 
+đô	ɗ oː˨˥ 
+đôi	ɗ oː˨˥ j 
+đôn	ɗ oː˨˨ n 
+đông	ɗ o˨˨ ŋm 
+đù	ɗ uː˨˨ 
+đùa	ɗ uə˦˨ 
+đùi	ɗ uː˨˨ j 
+đùm	ɗ uː˨˨ m 
+đùng	ɗ u˦˨ ŋm 
+đú	ɗ uː˨˦ 
+đúc	ɗ u˦˥ kp 
+đúng	ɗ u˦˥ ŋm 
+đúp	ɗ uː˦˥ p 
+đút	ɗ uː˦˥ t 
+đăm	ɗ a˨˥ m 
+đăng	ɗ a˨˥ ŋ 
+đĩ	ɗ iː˨ˀ˥ 
+đĩa	ɗ iə˨ˀ˥ 
+đũa	ɗ uə˨ˀ˥ 
+đũng	ɗ u˨ˀ˥ ŋm 
+đũy	ɗ uː˨ˀ˥ j 
+đơ	ɗ əː˨˥ 
+đơm	ɗ əː˨˥ m 
+đơn	ɗ əː˨˥ ŋ 
+đưa	ɗ ɨə˨˥ 
+đương	ɗ ɨə˨˨ ŋ 
+đước	ɗ ɨə˦˥ k 
+đường	ɗ ɨə˨˨ ŋ 
+được	ɗ ɨə˨˩ k 
+đượm	ɗ ɨə˨˩ˀ m 
+đạc	ɗ aː˨˩ k 
+đại	ɗ aː˨˩ j 
+đạm	ɗ aː˨˩ m 
+đạn	ɗ aː˨˩ ŋ 
+đạo	ɗ aː˨˩ w 
+đạp	ɗ aː˨˩ p 
+đạt	ɗ aː˨˩ k 
+đả	ɗ aː˨˨ˀ 
+đảm	ɗ aː˨˨ˀ m 
+đảng	ɗ aː˨˨ˀ ŋ 
+đảnh	ɗ a˨˨ˀ n 
+đảo	ɗ aː˨˨ˀ w 
+đấm	ɗ ə˦˥ m 
+đấng	ɗ ə˦˥ ŋ 
+đất	ɗ ə˦˥ k 
+đấu	ɗ ə˦˥ w 
+đấy	ɗ ə˦˥ j 
+đầm	ɗ ə˦˨ m 
+đần	ɗ ə˦˨ ŋ 
+đầu	ɗ ə˦˨ w 
+đầy	ɗ ə˦˨ j 
+đẩu	ɗ ə˨˨ˀ w 
+đẩy	ɗ ə˨˨ˀ j 
+đẫm	ɗ ə˨ˀ˥ m 
+đẫn	ɗ ə˨ˀ˥ n 
+đẫy	ɗ ə˨ˀ˥ j 
+đậm	ɗ ə˨˩ m 
+đận	ɗ ə˨˩ ŋ 
+đập	ɗ ə˨˩ p 
+đật	ɗ ə˨˩ k 
+đậu	ɗ ə˨˩ w 
+đậy	ɗ ə˨˩ j 
+đắc	ɗ a˦˥ k 
+đắm	ɗ a˦˥ m 
+đắn	ɗ a˦˥ ŋ 
+đắng	ɗ a˦˥ ŋ 
+đắp	ɗ a˦˥ p 
+đắt	ɗ a˦˥ k 
+đằm	ɗ a˦˨ m 
+đằng	ɗ a˦˨ ŋ 
+đẳng	ɗ a˨˨ˀ ŋ 
+đặc	ɗ a˨˩ k 
+đặng	ɗ a˨˩ ŋ 
+đặt	ɗ a˨˩ k 
+đẹp	ɗ ɛː˨˩ p 
+đẻ	ɗ ɛː˨˨ˀ 
+đẻn	ɗ ɛː˨˨ˀ ŋ 
+đẽo	ɗ ɛː˨ˀ˥ w 
+đế	ɗ eː˦˥ 
+đếch	ɗ e˦˥ c 
+đếm	ɗ eː˦˥ m 
+đến	ɗ eː˨˦ n 
+đề	ɗ eː˦˨ 
+đềm	ɗ eː˦˨ m 
+đền	ɗ eː˨˨ n 
+đều	ɗ eː˦˨ w 
+để	ɗ eː˨˨ˀ 
+đểu	ɗ eː˨˨ˀ w 
+đễnh	ɗ e˨ˀ˥ ɲ 
+đệ	ɗ eː˨˩ 
+đệm	ɗ eː˨˩ m 
+đệt	ɗ eː˨˩ t 
+đỉa	ɗ iə˨˨ˀ 
+đỉnh	ɗ i˨˩˨ ɲ 
+địa	ɗ iə˨˩ 
+địch	ɗ i˨˩ c 
+định	ɗ i˨˩ˀ ɲ 
+địt	ɗ iː˨˩ t 
+đọ	ɗ ɔː˨˩ 
+đọa	ɗ w aː˨˩ 
+đọc	ɗ ɔ˨˩ kp 
+đọi	ɗ ɔː˨˩ j 
+đọng	ɗ ɔ˨˩ ŋm 
+đọt	ɗ ɔː˨˩ k 
+đỏ	ɗ ɔː˨˨ˀ 
+đỏm	ɗ ɔː˨˨ˀ m 
+đỏng	ɗ ɔ˨˨ˀ ŋm 
+đố	ɗ oː˦˥ 
+đốc	ɗ o˦˥ kp 
+đối	ɗ oː˦˥ j 
+đốm	ɗ oː˦˥ m 
+đốn	ɗ oː˨˦ n 
+đống	ɗ o˨˦ ŋm 
+đốt	ɗ oː˦˥ t 
+đồ	ɗ oː˦˨ 
+đồi	ɗ oː˦˨ j 
+đồn	ɗ oː˨˨ n 
+đồng	ɗ o˨˨ ŋm 
+đổ	ɗ oː˨˨ˀ 
+đổi	ɗ oː˨˨ˀ j 
+đỗ	ɗ oː˨ˀ˥ 
+đỗi	ɗ oː˨ˀ˥ j 
+độ	ɗ oː˨˩ 
+độc	ɗ o˨˩ kp 
+đội	ɗ oː˨˩ j 
+độn	ɗ oː˨˩ˀ n 
+động	ɗ o˨˩ˀ ŋm 
+đột	ɗ oː˨˩ t 
+đớ	ɗ əː˦˥ 
+đới	ɗ əː˦˥ j 
+đớn	ɗ əː˦˥ ŋ 
+đớp	ɗ əː˦˥ p 
+đờ	ɗ əː˦˨ 
+đời	ɗ əː˦˨ j 
+đờm	ɗ əː˦˨ m 
+đờn	ɗ əː˦˨ ŋ 
+đở	ɗ əː˨˨ˀ 
+đỡ	ɗ əː˨ˀ˥ 
+đợi	ɗ əː˨˩ j 
+đợt	ɗ əː˨˩ k 
+đụ	ɗ uː˨˩ˀ 
+đục	ɗ u˨˩ kp 
+đụn	ɗ uː˨˩ˀ n 
+đụng	ɗ u˨˩ ŋm 
+đụt	ɗ uː˨˩ t 
+đủ	ɗ uː˨˩˨ 
+đứa	ɗ ɨə˦˥ 
+đức	ɗ ɨ˦˥ k 
+đứng	ɗ ɨ˦˥ ŋ 
+đứt	ɗ ɨ˦˥ k 
+đừng	ɗ ɨ˦˨ ŋ 
+đực	ɗ ɨ˨˩ k 
+đựng	ɗ ɨ˨˩ ŋ 
+ĩ	ʔ iː˨ˀ˥ 
+ơ	ʔ əː˨˥ 
+ơi	ʔ əː˨˥ j 
+ơn	ʔ əː˨˥ ŋ 
+ư	ʔ ɨː˨˨ 
+ưa	ʔ ɨə˨˥ 
+ưng	ʔ ɨ˨˥ ŋ 
+ưu	ʔ ɨ˨˥ w 
+ươi	ʔ ɨə˨˨ j 
+ươm	ʔ ɨə˨˨ m 
+ươn	ʔ ɨə˨˨ n 
+ương	ʔ ɨə˨˨ ŋ 
+ước	ʔ ɨə˦˥ k 
+ướp	ʔ ɨə˦˥ p 
+ướt	ʔ ɨə˦˥ t 
+ưỡn	ʔ ɨə˨ˀ˥ n 
+ạ	ʔ aː˨˩ 
+ạt	ʔ aː˨˩ k 
+ả	ʔ aː˨˨ˀ 
+ải	ʔ aː˨˨ˀ j 
+ảm	ʔ aː˨˨ˀ m 
+ảnh	ʔ a˨˨ˀ n 
+ảo	ʔ aː˨˨ˀ w 
+ấm	ʔ ə˦˥ m 
+ấn	ʔ ə˦˥ ŋ 
+ấp	ʔ ə˦˥ p 
+ất	ʔ ə˦˥ k 
+ấu	ʔ ə˦˥ w 
+ấy	ʔ ə˦˥ j 
+ầm	ʔ ə˦˨ m 
+ầu	ʔ ə˦˨ w 
+ầy	ʔ ə˦˨ j 
+ẩm	ʔ ə˨˨ˀ m 
+ẩn	ʔ ə˨˨ˀ ŋ 
+ẩu	ʔ ə˨˨ˀ w 
+ậm	ʔ ə˨˩ m 
+ập	ʔ ə˨˩ p 
+ắng	ʔ a˦˥ ŋ 
+ắp	ʔ a˦˥ p 
+ắt	ʔ a˦˥ k 
+ẳng	ʔ a˨˨ˀ ŋ 
+ẵm	ʔ a˨ˀ˥ m 
+ẹ	ʔ ɛː˨˩ 
+ẹp	ʔ ɛː˨˩ p 
+ẻm	ʔ ɛː˨˨ˀ m 
+ế	ʔ eː˦˥ 
+ếch	ʔ e˦˥ c 
+ềnh	ʔ e˨˨ ɲ 
+ễnh	ʔ e˨ˀ˥ ɲ 
+ỉa	ʔ iə˨˨ˀ 
+ỉm	ʔ iː˨˩˨ m 
+ỉn	ʔ iː˨˩˨ n 
+ỉu	ʔ iː˨˩˨ w 
+ị	ʔ iː˨˩ˀ 
+ịch	ʔ i˨˩ c 
+ịn	ʔ iː˨˩ˀ n 
+ịt	ʔ iː˨˩ t 
+ọe	w ɛː˨˩ 
+ỏi	ʔ ɔː˨˨ˀ j 
+ốc	ʔ o˦˥ kp 
+ối	ʔ oː˦˥ j 
+ốm	ʔ oː˦˥ m 
+ống	ʔ o˨˦ ŋm 
+ốp	ʔ oː˦˥ p 
+ồ	ʔ oː˦˨ 
+ồm	ʔ oː˦˨ m 
+ồn	ʔ oː˨˨ n 
+ồng	ʔ o˨˨ ŋm 
+ổ	ʔ oː˨˨ˀ 
+ổi	ʔ oː˨˨ˀ j 
+ổn	ʔ oː˨˩˨ n 
+ổng	ʔ o˨˩˨ ŋm 
+ộc	ʔ o˨˩ kp 
+ộp	ʔ oː˨˩ p 
+ớ	ʔ əː˦˥ 
+ớn	ʔ əː˦˥ ŋ 
+ớt	ʔ əː˦˥ k 
+ờ	ʔ əː˦˨ 
+ở	ʔ əː˨˨ˀ 
+ởn	ʔ əː˨˨ˀ ŋ 
+ợ	ʔ əː˨˩ 
+ụ	ʔ uː˨˩ˀ 
+ục	ʔ u˨˩ kp 
+ủ	ʔ uː˨˩˨ 
+ủa	ʔ uə˨˨ˀ 
+ủi	ʔ uː˨˩˨ j 
+ủn	ʔ uː˨˩˨ n 
+ủng	ʔ u˨˨ˀ ŋm 
+ủy	ʔ uː˨˩˨ j 
+ứ	ʔ ɨː˨˦ 
+ứa	ʔ ɨə˦˥ 
+ức	ʔ ɨ˦˥ k 
+ứng	ʔ ɨ˦˥ ŋ 
+ừ	ʔ ɨː˨˨ 
+ừa	ʔ ɨə˦˨ 
+ừm	ʔ ɨ˦˨ m 
+ửng	ʔ ɨ˨˨ˀ ŋ 
+ực	ʔ ɨ˨˩ k 

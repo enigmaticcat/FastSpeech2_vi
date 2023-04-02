@@ -1,0 +1,1 @@
+python preprocess.py config/ViSSpeech/preprocess.yaml

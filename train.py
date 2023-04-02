@@ -29,6 +29,7 @@ def main(args, configs):
     )
     batch_size = train_config["optimizer"]["batch_size"]
     group_size = 4  # Set this larger than 1 to enable sorting in Dataset
+    print(batch_size, group_size, ' => ', (batch_size * group_size), ': ', len(dataset))
     assert batch_size * group_size < len(dataset)
     loader = DataLoader(
         dataset,
@@ -71,11 +72,12 @@ def main(args, configs):
     outer_bar = tqdm(total=total_step, desc="Training", position=0)
     outer_bar.n = args.restore_step
     outer_bar.update()
-
+    
     while True:
         inner_bar = tqdm(total=len(loader), desc="Epoch {}".format(epoch), position=1)
         for batchs in loader:
             for batch in batchs:
+                #print("train max input:", (batch[0]))
                 batch = to_device(batch, device)
 
                 # Forward

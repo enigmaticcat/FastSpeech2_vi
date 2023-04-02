@@ -1,0 +1,1 @@
+python prepare_align.py config/ViSSpeech/preprocess.yaml
