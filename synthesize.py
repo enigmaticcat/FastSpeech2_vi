@@ -94,6 +94,7 @@ def preprocess_vietnamese(text, preprocess_config):
         if w in lexicon:
             phones += lexicon[w]
         else:
+            #phones += list(w)
             phones.append('sp')
 
     phones = "{" + " ".join(phones) + "}"
