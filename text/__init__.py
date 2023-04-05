@@ -30,7 +30,7 @@ def text_to_sequence(text, cleaner_names):
     """
     sequence = []
 
-    is_vietnamese = cleaner_names == 'vietnamese_cleaners'
+    is_vietnamese = 'vietnamese_cleaners' in cleaner_names
 
     # Check for curly braces and treat their contents as ARPAbet:
     while len(text):
@@ -78,7 +78,10 @@ def _symbols_to_sequence(symbols, vi_lang=False):
         return [_symbol_to_id[s] for s in symbols if _should_keep_symbol(s, vi_lang)]
 
 def _arpabet_to_sequence(text, vi_lang=False):
-    return _symbols_to_sequence(["@" + s for s in text.split()], vi_lang)
+    if vi_lang:
+        return _symbols_to_sequence([s for s in text.split()], vi_lang)
+    else:
+        return _symbols_to_sequence(["@" + s for s in text.split()], vi_lang)
 
 
 def _should_keep_symbol(s, vi_lang=False):
