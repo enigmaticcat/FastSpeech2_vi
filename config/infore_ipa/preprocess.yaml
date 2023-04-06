@@ -2,9 +2,9 @@ dataset: "infore"
 
 path:
   corpus_path: "./input/infore"
-  lexicon_path: "lexicon/vi-lexicon.txt"
+  lexicon_path: "mfa/vietnamese_mfa.dict"
   raw_path: "./raw_data/"
-  preprocessed_path: "./preprocessed_data/infore"
+  preprocessed_path: "./preprocessed_data/infore_ipa"
 
 preprocessing:
   val_size: 512
