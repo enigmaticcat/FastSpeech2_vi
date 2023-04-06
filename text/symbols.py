@@ -36,7 +36,9 @@ symbols_vi = (
     [_pad]
     + list(_special)
     + list(_punctuation)
-    + list(_letters_vi)
+    + list(_letters)
+    + _arpabet
+    + _vietnamese_ipa
     + _silences
 )
 

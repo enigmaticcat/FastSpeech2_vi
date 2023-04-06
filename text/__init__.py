@@ -78,10 +78,7 @@ def _symbols_to_sequence(symbols, vi_lang=False):
         return [_symbol_to_id[s] for s in symbols if _should_keep_symbol(s, vi_lang)]
 
 def _arpabet_to_sequence(text, vi_lang=False):
-    if vi_lang:
-        return _symbols_to_sequence([s for s in text.split()], vi_lang)
-    else:
-        return _symbols_to_sequence(["@" + s for s in text.split()], vi_lang)
+    return _symbols_to_sequence(["@" + s for s in text.split()], vi_lang)
 
 
 def _should_keep_symbol(s, vi_lang=False):
