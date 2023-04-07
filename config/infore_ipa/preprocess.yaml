@@ -1,8 +1,8 @@
-dataset: "infore"
+dataset: "infore_ipa"
 
 path:
   corpus_path: "./input/infore"
-  lexicon_path: "mfa/vietnamese_mfa.dict"
+  lexicon_path: "lexicon/vietnamese_mfa.txt"
   raw_path: "./raw_data/"
   preprocessed_path: "./preprocessed_data/infore_ipa"
 
