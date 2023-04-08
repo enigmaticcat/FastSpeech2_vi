@@ -1,4 +1,4 @@
-dataset: "ViSSpeech"
+dataset: "infore"
 
 path:
   corpus_path: "./input/infore"
