@@ -1,2 +1,0 @@
-rem python train.py -p config/LJSpeech/preprocess.yaml -m config/LJSpeech/model.yaml -t config/LJSpeech/train.yaml
-python train.py -p config/ViSSpeech/preprocess.yaml -m config/ViSSpeech/model.yaml -t config/ViSSpeech/train.yaml

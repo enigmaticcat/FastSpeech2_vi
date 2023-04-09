@@ -1,1 +1,1 @@
-mfa align --clean -t ./temp ./raw_data/infore ./mfa/vi-lexicon.dict ./mfa/vi_mfa.zip ./preprocessed_data/infore/TextGrid/infore
+mfa align -t ./temp ./raw_data/infore ./mfa/vi-new-lexicon.dict ./mfa/vi_new_mfa.zip ./preprocessed_data/infore/TextGrid/infore

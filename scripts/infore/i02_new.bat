@@ -1,1 +1,0 @@
-mfa train --clean -t ./temp ./raw_data/infore ./lexicon/vi-new-lexicon.txt ./mfa/vi_new_mfa.zip
