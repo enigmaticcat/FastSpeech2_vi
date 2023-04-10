@@ -6998,3 +6998,6 @@ yểu	yeeu3
 ỳ	y2
 ỷ	y3
 ỹ	y4
+<sp>	sp
+<spn>	spn
+<sil>	sil

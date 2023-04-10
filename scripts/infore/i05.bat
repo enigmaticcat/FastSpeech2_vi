@@ -1,1 +1,1 @@
-python train.py --restore_step 8000 -p config/infore/preprocess.yaml -m config/infore/model.yaml -t config/infore/train.yaml
+python preprocess.py config/infore/preprocess.yaml

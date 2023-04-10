@@ -1,1 +1,1 @@
-python preprocess.py config/infore/preprocess.yaml
+python fix_align.py preprocessed_data/infore/TextGrid/infore1 preprocessed_data/infore/TextGrid/infore/

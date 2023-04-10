@@ -88,6 +88,7 @@ def preprocess_mandarin(text, preprocess_config):
 def preprocess_vietnamese(text, preprocess_config):
     lexicon = read_lexicon(preprocess_config["path"]["lexicon_path"])
 
+    text = text.replace(',', ' <sp> <sp> <sp> ').replace('.', ' <sp> <sp> <sp> <sp> ').replace(';', ' <sp> <sp> <sp> ').replace('?', ' <sp> <sp> <sp> <sp> ').replace('!', ' <sp> <sp> <sp> <sp> ').replace(':', ' <sp> <sp> <sp> <sp> ')
     text = clean_vietnamese_text(text)
     phones = []
     words = re.split(r"([,;.\-\?\!\s+])", text)
