@@ -11494,3 +11494,6 @@ zuckerberg	z u c k e r b e r g
 ỳ	ỳ
 ỷ	ỷ
 ỹ	ỹ
+<sp>	sp
+<spn>	spn
+<sil>	sil
