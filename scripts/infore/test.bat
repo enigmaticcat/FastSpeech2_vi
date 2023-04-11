@@ -1,1 +1,0 @@
-python synthesize.py --text "Tuy nói Dung Thành được xưng cả nước tối lười biếng thành thị, nhưng bất kỳ thành thị đều có tăng ca người, nhàn nhã chỉ là Dung Thành bổn địa người." --restore_step 8000 --mode single -p config/infore/preprocess.yaml -m config/infore/model.yaml -t config/infore/train.yaml

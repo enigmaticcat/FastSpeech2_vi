@@ -1,3 +1,28 @@
+# Apply FastSpeech 2 model to Vietnamese TTS
+
+## Dataset
+- [Infore](https://huggingface.co/datasets/ntt123/infore/resolve/main/infore_16k_denoised.zip): a single speaker Vietnamese dataset with 14935 short audio clips of a female speaker
+Download and extract files into ``./raw_data/infore/``
+
+## Montreal Forced Aligner
+- Recommended version: 2.0.6
+
+## Preprocess data and train model 
+- Do step by step according to scripts included in ``./scripts/infore/``
+- Alignment of the dataset Infore at here [Infore's alignment](https://huggingface.co/datasets/ntt123/infore/resolve/main/infore_16k_denoised.zip) : download and extract ``into ./proprocessed_data/infore/``
+
+## Pretrained model
+- Download and extract [pretrained model](https://huggingface.co/datasets/ntt123/infore/resolve/main/infore_16k_denoised.zip) into ``./output/ckpt/infore/``
+
+## Inferrence
+```
+python3 synthesize.py --text "YOUR_DESIRED_TEXT" --restore_step 100000 --mode single -p config/infore/preprocess.yaml -m config/infore/model.yaml -t config/infore/train.yaml
+```
+
+# Output samples
+- test A
+- test B
+
 # FastSpeech 2 - PyTorch Implementation
 
 This is a PyTorch implementation of Microsoft's text-to-speech system [**FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**](https://arxiv.org/abs/2006.04558v1). 
@@ -45,6 +70,11 @@ For English multi-speaker TTS, run
 python3 synthesize.py --text "YOUR_DESIRED_TEXT"  --speaker_id SPEAKER_ID --restore_step 800000 --mode single -p config/LibriTTS/preprocess.yaml -m config/LibriTTS/model.yaml -t config/LibriTTS/train.yaml
 ```
 
+For Vietnamese single-speaker TTS, run
+```
+python3 synthesize.py --text "YOUR_DESIRED_TEXT" --restore_step 100000 --mode single -p config/infore/preprocess.yaml -m config/infore/model.yaml -t config/infore/train.yaml
+```
+
 The generated utterances will be put in ``output/result/``.
 
 Here is an example of synthesized mel-spectrogram of the sentence "Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition", with the English single-speaker TTS model.  
@@ -75,6 +105,7 @@ The supported datasets are
 - [LJSpeech](https://keithito.com/LJ-Speech-Dataset/): a single-speaker English dataset consists of 13100 short audio clips of a female speaker reading passages from 7 non-fiction books, approximately 24 hours in total.
 - [AISHELL-3](http://www.aishelltech.com/aishell_3): a Mandarin TTS dataset with 218 male and female speakers, roughly 85 hours in total.
 - [LibriTTS](https://research.google/tools/datasets/libri-tts/): a multi-speaker English dataset containing 585 hours of speech by 2456 speakers.
+- [Infore](https://huggingface.co/datasets/ntt123/infore/resolve/main/infore_16k_denoised.zip): a single speaker Vietnamese dataset with 14935 short audio clips of a female speaker
 
 We take LJSpeech as an example hereafter.
 
