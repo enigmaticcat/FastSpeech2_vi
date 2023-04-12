@@ -1,5 +1,7 @@
 """
-adapted from https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/Tacotron2
+    Created by Son Pham
+    Email: sp@outlook.com.vn
+    Licsence: MIT license
 """
 
 import re
