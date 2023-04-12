@@ -24,9 +24,14 @@ python3 synthesize.py --text "YOUR_DESIRED_TEXT" --restore_step 100000 --mode si
 
 https://user-images.githubusercontent.com/19236957/231334534-945ce599-6754-4f75-983a-ea4ac0fea5ad.mov
 
-
 - ```Trên không, vài con cò về tổ trễ đập nhanh đôi cánh trắng phau rồi khuất trong lùm cây rậm lá. Những đám mây trắng đá ngả màu ngà, bầu trời xanh cũng đã ngả sang màu sậm đưa đến màu đen. Đâu đó có tiếng chim lẻ bạn, tiếng dơi muỗi lào xào lẫn trong tiếng gió nhẹ lay cành. Dưới bến sông, con nước ròng lên đầy mé đã đứng lại không lùa được những đợt lục bình lờ lững giữa dòng ra sông cái. Dòng nước xanh chìm đi trong màu xám sậm và những bóng cây bên bờ kia ngả xuống dòng càng lúc càng hiện rõ lù lù thành hàng trong bóng nước.```
+
+https://user-images.githubusercontent.com/19236957/231334930-7237c25c-d311-442d-aa74-53490c766266.mov
+
 - ```Mặt trăng tròn vành vạnh từ từ nhô lên sau luỹ tre. Trăng đêm nay sáng quá! Bầu trời điểm xuyết một vài ngôi sao lấp lánh như những con đom đóm nhỏ. Ánh trăng tàng dịu mát tỏa xuống, chảy loang lổ trên mặt đất, trên các cành cây ngọn cỏ. Không gian mới yên tĩnh làm sao! Chỉ còn tiếng sương đêm rơi lốp bốp trên lá cây và tiếng côn trùng ra rả trong đất ẩm . Chị gió chuyên cần nhẹ nhàng bay làm rung mấy ngọn xà cừ ven đường. Thoang thoảng đâu đây mùi hoa thiên lí dịu dàng lan tỏa. Đêm trăng thật đẹp và êm đềm.```
+
+https://user-images.githubusercontent.com/19236957/231334990-4e3de0c7-7152-4708-99a3-706db88451b8.mov
+
 
 ## Training loss
 ![](./img/infore_loss.png)
