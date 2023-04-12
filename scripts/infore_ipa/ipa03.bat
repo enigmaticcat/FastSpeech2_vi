@@ -1,0 +1,1 @@
+python fix_align.py ./preprocessed_data/infore_ipa/TextGrid/infore_ipa1 ./preprocessed_data/infore_ipa/TextGrid/infore_ipa
