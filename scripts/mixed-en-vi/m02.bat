@@ -1,0 +1,1 @@
+mfa align -t ./temp ./raw_data/mixed-en-vi ./mfa/mixed-en-vi-lexicon.dict ./mfa/mixed-en-vi_mfa.zip ./preprocessed_data/mixed-en-vi/TextGrid/mixed-en-vi1

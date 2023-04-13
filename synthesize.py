@@ -13,7 +13,6 @@ from utils.model import get_model, get_vocoder
 from utils.tools import to_device, synth_samples
 from dataset import TextDataset
 from text import text_to_sequence, clean_vietnamese_text
-import text.vietnamese_phonemes as viphonemes
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -91,13 +90,14 @@ def preprocess_vietnamese(text, preprocess_config):
     text = text.replace(',', ' <sp> <sp> <sp> ').replace('.', ' <sp> <sp> <sp> <sp> ').replace(';', ' <sp> <sp> <sp> ').replace('?', ' <sp> <sp> <sp> <sp> ').replace('!', ' <sp> <sp> <sp> <sp> ').replace(':', ' <sp> <sp> <sp> <sp> ')
     text = clean_vietnamese_text(text)
     phones = []
+    g2p = G2p()
     words = re.split(r"([,;.\-\?\!\s+])", text)
     for w in words:
         if w in lexicon:
             phones += lexicon[w]
         elif w!=' ':
             #phones += list(w)
-            phones += viphonemes.parse_word(w)
+            phones += list(filter(lambda p: p != " ", g2p(w)))
 
     phones = "{" + " ".join(phones) + "}"
     print("Raw Text Sequence: {}".format(text))
