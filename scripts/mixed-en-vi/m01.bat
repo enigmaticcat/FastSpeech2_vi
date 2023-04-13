@@ -1,0 +1,1 @@
+mfa train --clean -t ./tempev --phone_set ARPA ./raw_data/mixed-en-vi ./lexicon/mixed-en-vi-lexicon.txt ./mfa/mixed-en-vi_mfa.zip
