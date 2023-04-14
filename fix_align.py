@@ -32,7 +32,7 @@ if not os.path.exists(new_path):
 
 for fin in grids:
     if os.path.isfile(fin):
-        fout = new_path + os.path.basename(fin)
+        fout = new_path + '/' + os.path.basename(fin)
         fix_grid(fin, fout)
 
 print('Done!')
