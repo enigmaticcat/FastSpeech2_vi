@@ -1,0 +1,2 @@
+python fix_align.py ./preprocessed_data/mixed-en-vi/TextGrid/mixed-en-vi1/infore ./preprocessed_data/mixed-en-vi/TextGrid/mixed-en-vi/infore
+python fix_align.py ./preprocessed_data/mixed-en-vi/TextGrid/mixed-en-vi1/LJSpeech ./preprocessed_data/mixed-en-vi/TextGrid/mixed-en-vi/LJSpeech
